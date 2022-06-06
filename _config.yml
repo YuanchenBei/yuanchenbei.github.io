@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanchen Bei's homepage"
-description              : "This is the homepage of Yuanchen Bei (贝元琛 in Chinese)."
+description              : "Member of RecSys Group, Jinan University; Member of EAGLE-Lab, Zhejiang University; Research intern at Dept. of Search&NLP, MeiTuan."
 repository               : "YuanchenBei/yuanchenbei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuanchen Bei (贝元琛)"
+  name             : "Yuanchen Bei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Focusing on Graph and Temporal Data."
-  location         : "Beijing, China"
+  bio              : "Focusing on Graph and Temporal Data Research."
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
