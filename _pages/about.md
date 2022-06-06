@@ -44,11 +44,11 @@ My research interest includes graph data mining, temporal data mining and recomm
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.12* National Scholarship (Undergraduate) (Top 1%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - (coming)*, Master, [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China.
+- *2018.09 - 2022.06*, Undergraduate, [Jinan University](https://www.jnu.edu.cn/main.htm), Guangzhou, China.
 
 # 💻 Internships
 - *2022.03 - now*, [Meituan, Dept. of Search&NLP](https://about.meituan.com/en), Beijing, China.
