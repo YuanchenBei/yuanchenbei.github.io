@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuanchen Bei (贝元琛 in Chinese). I will graduate from College of Information Science and Technology, Jinan University (暨南大学,信息科学技术学院) with a bachelor’s degree in 2022.06, advised by professor [Feiran Huang (黄斐然)](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) and Dr. [Hao Chen (陈昊)](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao).
+I am Yuanchen Bei (贝元琛 in Chinese). I will graduate from College of Information Science and Technology, Jinan University (暨南大学,信息科学技术学院) with a bachelor's degree in 2022.06, advised by professor [Feiran Huang (黄斐然)](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) and Dr. [Hao Chen (陈昊)](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao). I will study for a master's degree in Zhejiang University in 2022.09, advised by professor [Sheng Zhou (周晟)](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu (卜佳俊)](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao).
 
-My research interest includes graph data mining, temporal data mining and recommender system. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes graph data mining, temporal data mining and recommender system. 
 
 
 # 🔥 News
