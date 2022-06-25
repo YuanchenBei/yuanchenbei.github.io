@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuanchen Bei (贝元琛 in Chinese). I will graduate from College of Information Science and Technology, Jinan University (暨南大学, 信息科学技术学院) with a bachelor's degree in 2022.06, advised by Dr. [Hao Chen (陈昊)](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) and professor [Feiran Huang (黄斐然)](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao). I will study for a master's degree in College of Computer Science and Technology, Zhejiang University (浙江大学, 计算机科学与技术学院) in 2022.09, advised by professor [Sheng Zhou (周晟)](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu (卜佳俊)](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao).
+I am Yuanchen Bei (贝元琛 in Chinese). I have graduated from College of Information Science and Technology, Jinan University (暨南大学, 信息科学技术学院) with a bachelor's degree in 2022.06, advised by Dr. [Hao Chen (陈昊)](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) and professor [Feiran Huang (黄斐然)](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao). I will study for a master's degree in College of Computer Science and Technology, Zhejiang University (浙江大学, 计算机科学与技术学院) in 2022.09, advised by professor [Sheng Zhou (周晟)](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu (卜佳俊)](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao).
 
 My research interest includes graph data mining, temporal data mining and recommender system. 
 
 
 # 🔥 News
-- *2022.06*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.06*: &nbsp;🎉🎉 I will graduate from Jinan University with a bachelor's degree later this month. 
+- *2022.06*: &nbsp;🎉🎉 I have graduated from Jinan University with a bachelor's degree. 
 
 # 📝 Publications 
 
