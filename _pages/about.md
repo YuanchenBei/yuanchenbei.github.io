@@ -23,7 +23,8 @@ My research interest includes graph data mining, temporal data mining and recomm
 
 
 # 🔥 News
-- *2022.06*: &nbsp;🎉🎉 I have graduated from Jinan University with a bachelor's degree. 
+- *2022.08*: &nbsp;🎉🎉 Our paper **Flattened Graph Convolutional Networks For Recommendation** is accepted at KDD2022 DLP workshop for oral presentation.
+- *2022.06*: &nbsp;🎓🎓 I have graduated from Jinan University with a bachelor's degree. 
 
 # 📝 Publications 
 
@@ -39,14 +40,13 @@ My research interest includes graph data mining, temporal data mining and recomm
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Flattened Graph Convolutional Networks For Recommendation](https://github.com). Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, Feiran Huang **KDD 2022 workshop**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.12* National Scholarship (Undergraduate) (Top 1%)
 
 # 📖 Educations
-- *2022.09 - (coming)*, Master, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.
+- *2022.09 - now*, Master, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.
 - *2018.09 - 2022.06*, Undergraduate, [Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 
 # 💻 Internships
