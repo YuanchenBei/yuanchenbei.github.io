@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanchen Bei (Dreamer)"
-description              : "Member of RecSys Group, Jinan University; Member of EAGLE-Lab, Zhejiang University; Research intern at Dept. of Search&NLP, MeiTuan."
+description              : "Member of RecSys Group, Jinan University; Member of EAGLE-Lab, Zhejiang University."
 repository               : "YuanchenBei/yuanchenbei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanchen Bei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Focusing on Graph and Temporal Data Research."
-  location         : "Beijing, China"
+  bio              : "Master at Zhejiang University"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
