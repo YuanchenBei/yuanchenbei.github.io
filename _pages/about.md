@@ -28,7 +28,7 @@ My research interest includes graph mining, machine learning and recommender sys
 
 # 📝 Publications 
 
-- Flattened Graph Convolutional Networks For Recommendation. Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, Feiran Huang **KDD 2022 workshop**
+- [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, Feiran Huang **KDD 2022 workshop**
 
 # 🎖 Honors and Awards
 - *2021.12* National Scholarship (Undergraduate) (Top 1%)
@@ -38,4 +38,4 @@ My research interest includes graph mining, machine learning and recommender sys
 - *2018.09 - 2022.06*, Undergraduate, [Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 
 # 💻 Internships
-- *2022.03 - now*, [Meituan, Dept. of Search&NLP](https://about.meituan.com/en), Beijing, China.
+
