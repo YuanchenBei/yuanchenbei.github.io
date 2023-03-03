@@ -39,5 +39,5 @@ My research interest includes graph mining, machine learning, recommender system
 - *2018.09 - 2022.06*, Undergraduate, [Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 
 # 💻 Experiences
-- *2022.02 - 2023.03* Research Intern, NLP Center @ Meituan, Beijing, China.
+- *2022.02 - 2023.03*, Research Intern, [NLP Center @ Meituan](https://www.meituan.com/), Beijing, China.
 
