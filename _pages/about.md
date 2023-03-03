@@ -19,7 +19,7 @@ redirect_from:
 
 I am Yuanchen Bei (贝元琛 in Chinese). I am now a first-year master student in College of Computer Science and Technology, Zhejiang University (浙江大学, 计算机科学与技术学院), advised by professor [Sheng Zhou (周晟)](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu (卜佳俊)](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I got my bachelor's degree from College of Information Science and Technology, Jinan University (暨南大学, 信息科学技术学院) in 2022.06, advised by Dr. [Hao Chen (陈昊)](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) and professor [Feiran Huang (黄斐然)](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao).
 
-My research interest includes graph mining, machine learning and recommender system. 
+My research interest includes graph mining, machine learning, recommender system and anomaly detection. 
 
 
 # 🔥 News
@@ -31,11 +31,13 @@ My research interest includes graph mining, machine learning and recommender sys
 - [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, Feiran Huang **KDD 2022 workshop**
 
 # 🎖 Honors and Awards
-- *2021.12* National Scholarship (Undergraduate) (Top 1%)
+- *2022.06* Outstanding Undergraduate Student & Thesis (Jinan University).
+- *2021.12* National Scholarship (Undergraduate, Top 1%).
 
 # 📖 Educations
 - *2022.09 - now*, Master, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.
 - *2018.09 - 2022.06*, Undergraduate, [Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 
-# 💻 Internships
+# 💻 Experiences
+- *2022.02 - 2023.03* Research Intern, NLP Center @ Meituan, Beijing, China.
 
