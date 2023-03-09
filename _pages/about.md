@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuanchen Bei (贝元琛 in Chinese). I am now a first-year master student in College of Computer Science and Technology, Zhejiang University (浙江大学, 计算机科学与技术学院), advised by professor [Sheng Zhou (周晟)](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu (卜佳俊)](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I got my bachelor's degree from College of Information Science and Technology, Jinan University (暨南大学, 信息科学技术学院) in 2022.06, advised by Dr. [Hao Chen (陈昊)](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) and professor [Feiran Huang (黄斐然)](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao).
+I am Yuanchen Bei (贝元琛 in Chinese). I am now a first-year master student in College of Computer Science and Technology, Zhejiang University, advised by professor [Sheng Zhou (周晟)](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu (卜佳俊)](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I also work closely with Dr. [Hao Chen (陈昊)](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) at PolyU and professor [Feiran Huang (黄斐然)](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) at Jinan University.
 
-My research interest includes graph mining, machine learning, recommender system and anomaly detection. 
+My research interest includes graph learning and its applications in recommender system & anomaly detection. 
 
 
 # 🔥 News
