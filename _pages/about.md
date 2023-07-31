@@ -17,18 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yuanchen Bei (贝元琛 in Chinese). I am now a first-year master student in College of Computer Science and Technology, Zhejiang University, advised by professor [Sheng Zhou (周晟)](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu (卜佳俊)](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I also work closely with Dr. [Hao Chen (陈昊)](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) at PolyU and professor [Feiran Huang (黄斐然)](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) at Jinan University.
+I am Yuanchen Bei, now a first-year master student in College of Computer Science and Technology, Zhejiang University, advised by professor [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) at PolyU and professor [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) at Jinan University.
 
 My research interest includes graph learning and its applications in recommender system & anomaly detection. 
 
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 Our paper **Flattened Graph Convolutional Networks For Recommendation** is accepted at KDD2022 DLP workshop for oral presentation.
-- *2022.06*: &nbsp;🎓🎓 I have graduated from Jinan University with a bachelor's degree. 
 
 # 📝 Publications 
+- [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://arxiv.org/pdf/2307.02813.pdf). (Arxiv, 2023)
+  
+  **Yuanchen Bei**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, Jiajun Bu.
+  
+- [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). (KDD workshop on DLP, 2022)
 
-- [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, Feiran Huang **KDD 2022 workshop**
+  Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, Feiran Huang.
 
 # 🎖 Honors and Awards
 - *2022.06* Outstanding Undergraduate Student & Thesis (Jinan University).
