@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👋 About Me
 I am Yuanchen Bei, now a first-year master student in College of Computer Science and Technology, Zhejiang University, advised by professor [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) at PolyU and professor [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) at Jinan University.
 
 My research interest includes graph learning and its applications in recommender system & anomaly detection. 
@@ -63,4 +64,4 @@ My research interest includes graph learning and its applications in recommender
 <span class='anchor' id='-experiences'></span>
 
 # 💻 Experiences
-- *2022.02 - 2022.03*, Research Intern, [NLP Center @ Meituan](https://www.meituan.com/), Beijing, China.
+- *2022.02 - 2022.08*, Research Intern, [NLP Center @ Meituan](https://www.meituan.com/), Beijing, China.
