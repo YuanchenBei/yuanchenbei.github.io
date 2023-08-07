@@ -26,12 +26,17 @@ My research interest includes graph learning and its applications in recommender
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 Our paper **Flattened Graph Convolutional Networks For Recommendation** is accepted at KDD2022 DLP workshop for oral presentation.
+- *2023.08*: &nbsp;🎉🎉 Our paper **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction** is accepted by CIKM 2023.
+- *2022.08*: &nbsp;🎉🎉 Our paper **Flattened Graph Convolutional Networks For Recommendation** is accepted by KDD2022 DLP workshop for oral presentation.
 
 
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
+- Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction. (CIKM, 2023)
+  
+  **Yuanchen Bei**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, Feiran Huang.
+
 - [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://arxiv.org/pdf/2307.02813.pdf). (Arxiv, 2023)
   
   **Yuanchen Bei**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, Jiajun Bu.
