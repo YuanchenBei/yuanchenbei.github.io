@@ -26,6 +26,7 @@ My research interest includes graph learning and its applications in recommender
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉🎉 Our paper **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection** is accepted by ICDM 2023.
 - *2023.08*: &nbsp;🎉🎉 Our paper **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction** is accepted by CIKM 2023.
 - *2022.08*: &nbsp;🎉🎉 Our paper **Flattened Graph Convolutional Networks For Recommendation** is accepted by KDD2022 DLP workshop for oral presentation.
 
