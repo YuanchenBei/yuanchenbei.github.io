@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About Me
 I am Yuanchen Bei, now a second-year master student in College of Computer Science and Technology, Zhejiang University, advised by professor [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and professor [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) at PolyU and professor [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) at Jinan University.
 
-My research interest includes graph learning, recommender systems, anomaly detection, and large graph models. In my free time, I am also interested in finance.
+My research interest includes graph learning, recommender systems, anomaly detection, and large graph models. In my free time, I am also interested in finance and economics.
 
 <span class='anchor' id='-news'></span>
 
@@ -38,10 +38,14 @@ My research interest includes graph learning, recommender systems, anomaly detec
   
   **Yuanchen Bei**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, Jiajun Bu.
 
+- Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection. (ICDM, 2023)
+
+  **Yuanchen Bei**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, Jiajun Bu.
+
 - Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction. (CIKM, 2023)
   
   **Yuanchen Bei**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, Feiran Huang.
-  
+
 - [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). (DLP@KDD, 2022)
 
   Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, Feiran Huang.
