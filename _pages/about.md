@@ -46,6 +46,10 @@ My research interest includes graph learning, recommender systems, anomaly detec
   
   **Yuanchen Bei**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, Feiran Huang.
 
+- [Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation](https://arxiv.org/pdf/2309.12565.pdf). (KDAH@CIKM, 2023)
+
+  Huixuan Chi, Hao Xu, Mengya Liu, **Yuanchen Bei**, Sheng Zhou, Danyang Liu, Mengdi Zhang.
+
 - [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). (DLP@KDD, 2022)
 
   Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, Feiran Huang.
