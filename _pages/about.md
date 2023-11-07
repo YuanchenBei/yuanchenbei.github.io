@@ -22,6 +22,7 @@ I am Yuanchen Bei, now a second-year master student in College of Computer Scien
 
 My research interest includes graph learning, recommender systems, anomaly detection, and large graph models. In my free time, I am also interested in finance and economics.
 
+
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
@@ -63,13 +64,14 @@ My research interest includes graph learning, recommender systems, anomaly detec
 
 ***Patents:***
 
+- Text Sentiment Analysis Method Based on Multi-Level Graph Pooling. (US Patent, No. 11,687,728, 2023)
+
+  Feiran Huang, Zhiquan Liu, and **Yuanchen Bei**.
+
 - Social Recommendation Method Based on Multi-Feature Heterogeneous Graph Neural Networks. (US Patent, No. 11,631,147, 2023)
 
   Feiran Huang, Guan Liu, and **Yuanchen Bei**.
 
-- Text Sentiment Analysis Method Based on Multi-Level Graph Pooling. (US Patent Application, No. 17/845,284, 2022)
-
-  Feiran Huang, Zhiquan Liu, and **Yuanchen Bei**.
 
 
 <span class='anchor' id='-honors-and-awards'></span>
@@ -96,6 +98,6 @@ My research interest includes graph learning, recommender systems, anomaly detec
 <span class='anchor' id='-experiences'></span>
 
 # 💻 Experiences
-- *2023.06 - now*, Research Intern, CRO Security Technology Team@[Alibaba Group](https://www.alibabagroup.com/en-US), Hangzhou, China.
+- *2023.06 - 2023.11*, Research Intern, CRO Security Technology Team@[Alibaba Group](https://www.alibabagroup.com/en-US), Hangzhou, China.
 - *2022.02 - 2022.08*, Research Intern, NLP Center@[Meituan](https://www.meituan.com/en-US/about-us), Beijing, China.
 - *2019.10 - 2022.01*, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
