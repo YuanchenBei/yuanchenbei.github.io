@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuanchen Bei (Dreamer)"
-description              : "Member of EAGLE-Lab, Zhejiang University; Member of RecSys Group, Jinan University"
+title                    : "Yuanchen (Ethan) Bei"
+description              : "Member of EAGLE-Lab, ZJU; Previous member of RecSys Group, JNU"
 repository               : "YuanchenBei/yuanchenbei.github.io"
 google_scholar_stats_use_cdn : true
 
