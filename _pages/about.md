@@ -28,6 +28,7 @@ My research interest includes graph learning & applications (especially for indu
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 Our paper **CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks** is accepted by ICDE 2024.
 - *2023.09*: &nbsp;🎉🎉 Our paper **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection** is accepted by ICDM 2023.
 - *2023.08*: &nbsp;🎉🎉 Our paper **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction** is accepted by CIKM 2023.
 
@@ -37,6 +38,9 @@ My research interest includes graph learning & applications (especially for indu
 # 📝 Publications 
 
 ***Conference Papers:***
+- CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks. (ICDE, 2024)
+  
+  **Yuanchen Bei**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
 
 - Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection. (ICDM, 2023)
 
@@ -57,12 +61,6 @@ My research interest includes graph learning & applications (especially for indu
 - [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). (DLP@KDD, 2022)
 
   Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, and Feiran Huang.
-
-***Pre-Print Papers:***
-
-- [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://arxiv.org/pdf/2307.02813.pdf). (Arxiv, 2023)
-  
-  **Yuanchen Bei**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
 
 ***Patents:***
 
