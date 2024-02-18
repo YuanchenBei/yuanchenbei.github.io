@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About Me
 I am Yuanchen Bei, now a second-year master's student in the College of Computer Science and Technology, Zhejiang University, fortunately advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I also gratefully work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) at The Hong Kong Polytechnic University and Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) at Jinan University.
 
-My research interests include **graph learning & its applications**, **industrial recommender systems**, and **efficient & scaleable graph models**. In my free time, I am also interested in finance and economics.
+My research interests currently include **graph learning & its applications**, **industrial recommender systems**, **efficient & scaleable graph models**, and **multi-modal relation learning**. In my free time, I am also interested in finance and economics.
 
 *I am looking for Ph.D. opportunities in Spring/Fall 2025, sincerely appreciate any opportunity!*
 
@@ -47,11 +47,11 @@ My research interests include **graph learning & its applications**, **industria
   
   **Yuanchen Bei**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
 
-- Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection. (ICDM, 2023)
+- [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
 
   **Yuanchen Bei**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
   
-- Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering. (IWLKG@ICDM, 2023)
+- [Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering](https://ieeexplore.ieee.org/abstract/document/10411514). (IWLKG@ICDM, 2023)
 
   Yijie Zhang, **Yuanchen Bei**, Shiqi Yang, Hao Chen, Zhiqing Li, Lijia Chen, and Feiran Huang.
 
@@ -78,7 +78,6 @@ My research interests include **graph learning & its applications**, **industria
   Feiran Huang, Guan Liu, and **Yuanchen Bei**.
 
 
-
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
@@ -90,14 +89,16 @@ My research interests include **graph learning & its applications**, **industria
 <span class='anchor' id='-educations'></span>
 
 # 📖 Educations
-- *2022.09 - now*, Master, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.
+- *2022.09 - 2025.03 (expected)*, Master, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.
 - *2018.09 - 2022.06*, Undergraduate, [Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 
 
 <span class='anchor' id='-academic-services'></span>
 
 # 📋 Academic Services
-- Invited Reviewer of ACM Transactions on Knowledge Discovery from Data (TKDD).
+- **Conference Reviewer:** KDD 2024.
+
+- **Journal Reviewer:** ACM Transactions on Knowledge Discovery from Data (TKDD).
 
 
 <span class='anchor' id='-experiences'></span>
