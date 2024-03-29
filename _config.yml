@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanchen (Ethan) Bei"
-description              : "Member of EAGLE-Lab, ZJU; Previous member of RecSys Group, JNU"
+# description              : "Member of EAGLE-Lab, ZJU; Previous member of RecSys Group, JNU"
 repository               : "YuanchenBei/yuanchenbei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanchen Bei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master Student at Zhejiang University"
+  bio              : "Master's Student at Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
