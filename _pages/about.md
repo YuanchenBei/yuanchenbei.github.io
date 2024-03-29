@@ -115,4 +115,4 @@ My research interests currently include **graph learning & its applications**, *
 # 💻 Experiences
 - *2023.06 - 2023.11*, Research Intern, CRO Security Technology Team@[Alibaba Group](https://www.alibabagroup.com/en-US), Hangzhou, China.
 - *2022.02 - 2022.08*, Research Intern, NLP Center@[Meituan](https://www.meituan.com/en-US/about-us), Beijing, China.
-- *2019.10 - 2022.01*, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
+<!-- - *2019.10 - 2022.01*, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.-->
