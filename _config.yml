@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanchen (Ethan) Bei"
-# description              : "Member of EAGLE-Lab, ZJU; Previous member of RecSys Group, JNU"
+description              :
 repository               : "YuanchenBei/yuanchenbei.github.io"
 google_scholar_stats_use_cdn : true
 
