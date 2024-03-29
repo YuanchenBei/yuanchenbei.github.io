@@ -41,7 +41,7 @@ My research interests currently include **graph learning & its applications**, *
 
 - [7] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024)
 
-  Hao Chen*, **Yuanchen Bei\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
+  Hao Chen\*, **Yuanchen Bei\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
 - [6] [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://arxiv.org/pdf/2307.02813.pdf). (ICDE, 2024)
   
@@ -75,7 +75,7 @@ My research interests currently include **graph learning & its applications**, *
 
 - [1] [Large Language Model Interaction Simulator for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.09176.pdf).
 
-  Feiran Huang, Zhenghang Yang*, Junyi Jiang*, **Yuanchen Bei\***, Yijie Zhang, and Hao Chen.
+  Feiran Huang, Zhenghang Yang\*, Junyi Jiang\*, **Yuanchen Bei\***, Yijie Zhang, and Hao Chen.
 
 ***Patents:***
 
