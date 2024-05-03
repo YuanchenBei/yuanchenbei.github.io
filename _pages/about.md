@@ -107,7 +107,9 @@ My research interests currently include **graph learning & its applications**, *
 
 # 📋 Academic Services
 - **Conference Reviewer:** KDD 2024.
-- **Journal Reviewer:** ACM Transactions on Knowledge Discovery from Data (TKDD).
+- **Invited Journal Reviewer:**
+  - ACM Transactions on Knowledge Discovery from Data (TKDD)
+  - IEEE Transactions on Industrial Informatics (TII)
 
 
 <span class='anchor' id='-experiences'></span>
