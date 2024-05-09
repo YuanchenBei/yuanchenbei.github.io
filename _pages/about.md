@@ -39,7 +39,7 @@ My research interests currently include **graph learning & its applications**, *
 
 ***Conference Papers (\* equal-contributed):***
 
-- [7] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024)
+- [7] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024) **[Applied in Alibaba Taobao's Homepage]**
 
   Hao Chen\*, **Yuanchen Bei\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
@@ -72,7 +72,7 @@ My research interests currently include **graph learning & its applications**, *
 
   **Yuanchen Bei**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
 
-- [2] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf).
+- [2] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf). **[Applied in Alibaba Taobao Homepage's]**
 
   Yijie Zhang, **Yuanchen Bei**, Hao Chen, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
@@ -116,7 +116,7 @@ My research interests currently include **graph learning & its applications**, *
 
 # 📋 Academic Services
 - **Conference Reviewer:** KDD 2024.
-- **Invited Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024)
+- **Invited Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024).
 
 
 <span class='anchor' id='-experiences'></span>
