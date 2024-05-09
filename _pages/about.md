@@ -22,7 +22,7 @@ I am Yuanchen Bei, now a second-year master's student in the College of Computer
 
 My research interests currently include **graph learning & its applications**, **multi-modal relation learning**, and **industrial recommender systems**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
-*I am looking for Ph.D. opportunities in Spring/Fall 2025, and I sincerely appreciate any opportunity!*
+👨‍💻‍ *I am looking for Ph.D. opportunities in Spring/Fall 2025, and I sincerely appreciate any opportunity! It is my [curriculum vitae](https://github.com/YuanchenBei/yuanchenbei.github.io/blob/main/cv/resume_yuanchen.pdf).*
 
 
 <span class='anchor' id='-news'></span>
