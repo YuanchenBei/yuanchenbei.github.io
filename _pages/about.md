@@ -72,7 +72,7 @@ My research interests currently include **graph learning & its applications**, *
 
   **Yuanchen Bei**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
 
-- [2] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf). **[Applied in Alibaba Taobao Homepage's]**
+- [2] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf). **[Applied in Alibaba Taobao's Homepage]**
 
   Yijie Zhang, **Yuanchen Bei**, Hao Chen, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
