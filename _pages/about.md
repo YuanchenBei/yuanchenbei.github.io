@@ -68,6 +68,9 @@ My research interests currently include **graph learning & its applications**, *
   Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, and Feiran Huang.
 
 ***Preprint Papers (\* equal-contributed):***
+- [3] [Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection](https://arxiv.org/pdf/2404.16366).
+
+  **Yuanchen Bei**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
 
 - [2] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf).
 
@@ -86,6 +89,12 @@ My research interests currently include **graph learning & its applications**, *
 - [1] Social Recommendation Method Based on Multi-Feature Heterogeneous Graph Neural Networks. (US Patent, No. 11,631,147, 2023)
 
   Feiran Huang, Guan Liu, and **Yuanchen Bei**.
+
+# ⌨️ Open-Source Project
+- [Graph Pre-Training Library](https://github.com/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) (A Comprehensive Library of Graph Pre-Training Literature) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) 
+- [DreamerGPT: Chinese Instruction-tuning for Large Language Model](https://github.com/DreamerGPT/DreamerGPT) (Instruction Tuning for Open-Source LLMs with Chinese Corpus) ![GitHub stars](https://img.shields.io/github/stars/DreamerGPT/DreamerGPT) 
+- [Cold-Start Recommendation Library](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation) (A Comprehensive Library of Cold-Start Recommendation Literature) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation)
+- [DGraph-Fin Leaderboard](https://dgraph.xinye.com/leaderboards/dgraphfin) (A Large-Scale Dynamic Graph Anomaly Detection Leaderboard) 🥈 **Top-2 Solution**
 
 
 <span class='anchor' id='-honors-and-awards'></span>
@@ -107,14 +116,13 @@ My research interests currently include **graph learning & its applications**, *
 
 # 📋 Academic Services
 - **Conference Reviewer:** KDD 2024.
-- **Invited Journal Reviewer:**
-  - ACM Transactions on Knowledge Discovery from Data (TKDD)
-  - IEEE Transactions on Industrial Informatics (TII)
+- **Invited Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024)
 
 
 <span class='anchor' id='-experiences'></span>
 
 # 💻 Experiences
+- *2022.09 - 2025.03*, Research Assistant, Eagle Lab@[Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.
 - *2023.06 - 2023.11*, Research Intern, CRO Security Technology Team@[Alibaba Group](https://www.alibabagroup.com/en-US), Hangzhou, China.
 - *2022.02 - 2022.08*, Research Intern, NLP Center@[Meituan](https://www.meituan.com/en-US/about-us), Beijing, China.
-<!-- - *2019.10 - 2022.01*, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.-->
+- *2019.10 - 2022.01*, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
