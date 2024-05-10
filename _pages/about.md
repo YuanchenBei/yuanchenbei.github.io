@@ -20,7 +20,8 @@ redirect_from:
 # 👋 About Me
 I am Yuanchen Bei, now a second-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) at The Hong Kong Polytechnic University and Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) at Jinan University.
 
-My research interests currently include **graph learning & its applications**, **multi-modal relation learning**, and **industrial recommender systems**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
+
+My research interests currently include **graph learning & its applications**, **multi-modal relation learning**, and **recommender systems**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
 👨‍💻‍ *I am looking for Ph.D. opportunities in Spring/Fall 2025, and I sincerely appreciate any opportunity! It is my [curriculum vitae](https://github.com/YuanchenBei/yuanchenbei.github.io/blob/main/cv/resume_yuanchen.pdf).*
 
@@ -39,33 +40,22 @@ My research interests currently include **graph learning & its applications**, *
 
 ***Conference Papers (\* equal-contributed):***
 
-- [7] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024) **[Applied in Alibaba Taobao's Homepage]**
+- [4] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024) **[Applied in Alibaba Taobao's Homepage]**
 
   Hao Chen\*, **Yuanchen Bei\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
-- [6] [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://arxiv.org/pdf/2307.02813.pdf). (ICDE, 2024)
+- [3] [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://arxiv.org/pdf/2307.02813.pdf). (ICDE, 2024)
   
   **Yuanchen Bei**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
 
-- [5] [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
+- [2] [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
 
   **Yuanchen Bei**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
   
-- [4] [Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering](https://ieeexplore.ieee.org/abstract/document/10411514). (IWLKG@ICDM, 2023)
-
-  Yijie Zhang, **Yuanchen Bei**, Shiqi Yang, Hao Chen, Zhiqing Li, Lijia Chen, and Feiran Huang.
-
-- [3] [Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3583780.3615180). (CIKM, 2023)
+- [1] [Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3583780.3615180). (CIKM, 2023)
   
   **Yuanchen Bei**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, and Feiran Huang.
 
-- [2] [Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation](https://arxiv.org/pdf/2309.12565.pdf). (KDAH@CIKM, 2023)
-
-  Huixuan Chi, Hao Xu, Mengya Liu, **Yuanchen Bei**, Sheng Zhou, Danyang Liu, and Mengdi Zhang.
-
-- [1] [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). (DLP@KDD, 2022)
-
-  Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, and Feiran Huang.
 
 ***Preprint Papers (\* equal-contributed):***
 - [3] [Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection](https://arxiv.org/pdf/2404.16366).
@@ -80,6 +70,19 @@ My research interests currently include **graph learning & its applications**, *
 
   Feiran Huang, Zhenghang Yang\*, Junyi Jiang\*, **Yuanchen Bei\***, Yijie Zhang, and Hao Chen.
 
+***Workshop Papers:***
+- [3] [Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering](https://ieeexplore.ieee.org/abstract/document/10411514). (IWLKG@ICDM, 2023)
+
+  Yijie Zhang, **Yuanchen Bei**, Shiqi Yang, Hao Chen, Zhiqing Li, Lijia Chen, and Feiran Huang.
+
+- [2] [Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation](https://arxiv.org/pdf/2309.12565.pdf). (KDAH@CIKM, 2023)
+
+  Huixuan Chi, Hao Xu, Mengya Liu, **Yuanchen Bei**, Sheng Zhou, Danyang Liu, and Mengdi Zhang.
+
+- [1] [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). (DLP@KDD, 2022)
+
+  Yue Xu, Hao Chen, Zengde Deng, **Yuanchen Bei**, and Feiran Huang.
+
 ***Patents:***
 
 - [2] Text Sentiment Analysis Method Based on Multi-Level Graph Pooling. (US Patent, No. 11,687,728, 2023)
@@ -90,7 +93,7 @@ My research interests currently include **graph learning & its applications**, *
 
   Feiran Huang, Guan Liu, and **Yuanchen Bei**.
 
-# ⌨️ Open-Source Project
+# ⌨️ Selected Open-Source Project
 - [Graph Pre-Training Library](https://github.com/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) (A Comprehensive Library of Graph Pre-Training Literature) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) 
 - [DreamerGPT: Chinese Instruction-tuning for Large Language Model](https://github.com/DreamerGPT/DreamerGPT) (Instruction Tuning for Open-Source LLMs with Chinese Corpus) ![GitHub stars](https://img.shields.io/github/stars/DreamerGPT/DreamerGPT) 
 - [Cold-Start Recommendation Library](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation) (A Comprehensive Library of Cold-Start Recommendation Literature) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation)
@@ -100,9 +103,10 @@ My research interests currently include **graph learning & its applications**, *
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+- *2023.11*, First Class Scholarship, Zhejiang University.
 - *2022.06*, Outstanding Undergraduate Student & Thesis.
 - *2021.12*, National Scholarship.
-- *2020.05*, First Class Scholarship.
+- *2020.05*, First Class Scholarship, Jinan University.
 
 
 <span class='anchor' id='-educations'></span>
