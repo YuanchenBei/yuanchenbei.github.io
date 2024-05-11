@@ -29,6 +29,7 @@ My research interests currently include **graph learning & its applications**, *
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2024.05*: &nbsp;📚📚 Invited as the reviewer for **IEEE TII** and **IEEE TKDE**.
 - *2024.01*: &nbsp;🎉🎉 Our paper "**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**" is accepted by TheWebConf 2024.
 - *2023.12*: &nbsp;🎉🎉 Our paper "**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**" is accepted by ICDE 2024.
 - *2023.09*: &nbsp;🎉🎉 Our paper "**Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**" is accepted by ICDM 2023.
@@ -120,7 +121,7 @@ My research interests currently include **graph learning & its applications**, *
 
 # 📋 Academic Services
 - **Conference Reviewer:** KDD 2024.
-- **Invited Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024).
+- **Invited Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024), IEEE TKDE (Since 2024).
 
 
 <span class='anchor' id='-experiences'></span>
