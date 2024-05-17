@@ -23,12 +23,13 @@ I am Yuanchen Bei, now a second-year master's student in the College of Computer
 
 My research interests currently include **graph learning & its applications**, **multi-modal relation learning**, and **recommender systems**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
-👨‍💻‍ *I am looking for Ph.D. opportunities in Spring/Fall 2025, and I sincerely appreciate any opportunity! It is my [curriculum vitae](https://github.com/YuanchenBei/yuanchenbei.github.io/blob/main/cv/resume_yuanchen.pdf).*
+👨‍💻‍ *I am looking for Ph.D. opportunities in Summer/Fall 2025, and I sincerely appreciate any opportunity! It is my [curriculum vitae](https://github.com/YuanchenBei/yuanchenbei.github.io/blob/main/cv/resume_yuanchen.pdf).*
 
 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Our paper "**Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**" is accepted by KDD 2024.
 - *2024.05*: &nbsp;📚📚 Invited as the reviewer for **IEEE TII** and **IEEE TKDE**.
 - *2024.01*: &nbsp;🎉🎉 Our paper "**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**" is accepted by TheWebConf 2024.
 - *2023.12*: &nbsp;🎉🎉 Our paper "**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**" is accepted by ICDE 2024.
@@ -40,6 +41,10 @@ My research interests currently include **graph learning & its applications**, *
 # 📝 Publications 
 
 ***Conference Papers (\* equal-contributed):***
+
+- [5] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf). (KDD, 2024) **[Applied in Alibaba Taobao's Homepage]**
+
+  Yijie Zhang, **Yuanchen Bei**, Hao Chen, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
 - [4] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024) **[Applied in Alibaba Taobao's Homepage]**
 
@@ -59,13 +64,9 @@ My research interests currently include **graph learning & its applications**, *
 
 
 ***Preprint Papers (\* equal-contributed):***
-- [3] [Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection](https://arxiv.org/pdf/2404.16366).
+- [2] [Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection](https://arxiv.org/pdf/2404.16366).
 
   **Yuanchen Bei**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
-
-- [2] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf). **[Applied in Alibaba Taobao's Homepage]**
-
-  Yijie Zhang, **Yuanchen Bei**, Hao Chen, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
 - [1] [Large Language Model Interaction Simulator for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.09176.pdf).
 
