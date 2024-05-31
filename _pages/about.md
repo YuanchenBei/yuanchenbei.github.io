@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I am Yuanchen Bei, now a second-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ&hl=zh-CN&oi=ao) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ&hl=zh-CN&oi=ao). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ&hl=zh-CN&oi=ao) at The Hong Kong Polytechnic University and Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ&hl=zh-CN&oi=ao) at Jinan University.
+I am Yuanchen Bei, now a second-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ), Prof. [Xiao Huang](https://scholar.google.com/citations?user=Be21PkYAAAAJ) at The Hong Kong Polytechnic University and Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ) at Jinan University.
 
 
 My research interests currently include **graph learning & its applications**, **multi-modal relation learning**, and **recommender systems**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
@@ -64,6 +64,7 @@ My research interests currently include **graph learning & its applications**, *
 
 
 ***Preprint Papers (\* equal-contributed):***
+
 - [2] [Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection](https://arxiv.org/pdf/2404.16366).
 
   **Yuanchen Bei**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
@@ -121,7 +122,7 @@ My research interests currently include **graph learning & its applications**, *
 <span class='anchor' id='-academic-services'></span>
 
 # 📋 Academic Services
-- **Conference Reviewer:** KDD 2024.
+- **Conference Reviewer:** KDD 2024, ECAI 2024.
 - **Invited Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024), IEEE TKDE (Since 2024).
 
 
