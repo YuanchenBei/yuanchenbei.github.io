@@ -64,6 +64,9 @@ My research interests currently include **graph learning & its applications**, *
 
 
 ***Preprint Papers (\* equal-contributed):***
+- [3] [Revisiting the Message Passing in Heterophilous Graph Neural Networks](https://arxiv.org/pdf/2405.17768).
+
+  Zhuonan Zheng, **Yuanchen Bei**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
 
 - [2] [Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection](https://arxiv.org/pdf/2404.16366).
 
@@ -97,8 +100,9 @@ My research interests currently include **graph learning & its applications**, *
   Feiran Huang, Guan Liu, and **Yuanchen Bei**.
 
 # ⌨️ Selected Open-Source Project
+- [ColdRec: A Comprehensive Benchmark for Cold-Start Recommendation](https://github.com/YuanchenBei/ColdRec) (A Comprehensive Open-Source Toolkit for Cold-Start Recommendations) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/ColdRec)
+- [DreamerGPT: Chinese Instruction-tuning for Large Language Model](https://github.com/DreamerGPT/DreamerGPT) (Instruction Tuning for Open-Source LLMs with Chinese Corpus) ![GitHub stars](https://img.shields.io/github/stars/DreamerGPT/DreamerGPT)
 - [Graph Pre-Training Library](https://github.com/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) (A Comprehensive Library of Graph Pre-Training Literature) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) 
-- [DreamerGPT: Chinese Instruction-tuning for Large Language Model](https://github.com/DreamerGPT/DreamerGPT) (Instruction Tuning for Open-Source LLMs with Chinese Corpus) ![GitHub stars](https://img.shields.io/github/stars/DreamerGPT/DreamerGPT) 
 - [Cold-Start Recommendation Library](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation) (A Comprehensive Library of Cold-Start Recommendation Literature) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation)
 - [DGraph-Fin Leaderboard](https://dgraph.xinye.com/leaderboards/dgraphfin) (A Large-Scale Dynamic Graph Anomaly Detection Leaderboard) 🥈 **Top-2 Solution**
 
