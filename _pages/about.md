@@ -44,7 +44,7 @@ My research interests currently include **graph learning**, **recommender system
 
 - [5] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf). (KDD, 2024) **[Applied in Alibaba Taobao's Homepage]**
 
-  Yijie Zhang*, **Yuanchen Bei\***, Hao Chen*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
+  Yijie Zhang\*, **Yuanchen Bei\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
 - [4] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024) **[Applied in Alibaba Taobao's Homepage]**
 
