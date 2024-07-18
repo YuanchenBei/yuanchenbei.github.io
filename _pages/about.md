@@ -28,6 +28,7 @@ I am now a second-year master's student in the College of Computer Science and T
 <span class='anchor' id='-news'></span>
 
 # News
+- *2024.07*: &nbsp;📚📚 Invited as the reviewer for **KDD 2025**.
 - *2024.05*: &nbsp;🎉🎉 Our paper "**Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**" is accepted by KDD 2024.
 - *2024.05*: &nbsp;📚📚 Invited as the reviewer for **IEEE TII** and **IEEE TKDE**.
 - *2024.01*: &nbsp;🎉🎉 Our paper "**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**" is accepted by TheWebConf 2024.
@@ -41,17 +42,21 @@ I am now a second-year master's student in the College of Computer Science and T
 
 ***Conference Papers (\* equal-contributed):***
 
-- [5] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf). (KDD, 2024) **[Applied in Alibaba Taobao's Homepage]**
+- [6] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659.pdf). (KDD, 2024) **[Applied in Alibaba Taobao]**
 
   Yijie Zhang\*, **Yuanchen Bei\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
-- [4] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024) **[Applied in Alibaba Taobao's Homepage]**
+- [5] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024) **[Applied in Alibaba Taobao]**
 
   Hao Chen\*, **Yuanchen Bei\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
-- [3] [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://arxiv.org/pdf/2307.02813.pdf). (ICDE, 2024)
+- [4] [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://arxiv.org/pdf/2307.02813.pdf). (ICDE, 2024)
   
   **Yuanchen Bei**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
+
+- [3] Feedback Reciprocal Graph Collaborative Filtering. (CIKM, 2024)
+
+  Weijun Chen, **Yuanchen Bei**, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
 
 - [2] [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
 
@@ -135,14 +140,14 @@ I am now a second-year master's student in the College of Computer Science and T
 <span class='anchor' id='-academic-services'></span>
 
 # Academic Services
-- **Conference Reviewer:** KDD 2024, ECAI 2024.
+- **Conference Reviewer:** KDD (2024, 2025), ECAI 2024.
 - **Invited Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024), IEEE TKDE (Since 2024).
 
 
 <span class='anchor' id='-experiences'></span>
 
 # Experiences
-- *2024.06 - 2024.09*, Research Assistant, DEEP Lab@[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong, China.
+- *2024.07 - 2024.09*, Research Assistant, DEEP Lab@[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong, China.
 - *2022.09 - 2025.03*, Research Assistant, Eagle Lab@[Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.
 - *2023.06 - 2023.11*, Research Intern, CRO Security Technology Team@[Alibaba Group](https://www.alibabagroup.com/en-US), Hangzhou, China.
 - *2022.02 - 2022.08*, Research Intern, NLP Center@[Meituan](https://www.meituan.com/en-US/about-us), Beijing, China.
