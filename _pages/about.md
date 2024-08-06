@@ -20,9 +20,9 @@ redirect_from:
 # Yuanchen Bei
 I am now a second-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ), Prof. [Xiao Huang](https://scholar.google.com/citations?user=Be21PkYAAAAJ) at The Hong Kong Polytechnic University and Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ) at Jinan University.
 
-*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph learning**, **recommender systems**, **multi-modal relation learning**, and **relation foundation models**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
+*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph learning**, **recommender systems**, **relation foundation models**, and **multi-modal relation learning**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
-👨‍💻‍ *I am looking for Ph.D. opportunities in Summer/Fall 2025, and I sincerely appreciate any opportunity! It is my [curriculum vitae](https://github.com/YuanchenBei/yuanchenbei.github.io/blob/main/cv/resume_yuanchen.pdf).*
+👨‍💻‍ *I am looking for **Ph.D. opportunities in Summer/Fall 2025**, and I sincerely appreciate any opportunity! It is my [curriculum vitae](https://github.com/YuanchenBei/yuanchenbei.github.io/blob/main/cv/resume_yuanchen.pdf).*
 
 
 <span class='anchor' id='-news'></span>
@@ -46,17 +46,17 @@ I am now a second-year master's student in the College of Computer Science and T
 
   Yijie Zhang\*, **Yuanchen Bei\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
-- [5] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://arxiv.org/pdf/2401.14939.pdf). (TheWebConf, 2024) **[Applied in Alibaba Taobao]**
+- [5] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://dl.acm.org/doi/10.1145/3589334.3645517). (TheWebConf, 2024) **[Applied in Alibaba Taobao]**
 
   Hao Chen\*, **Yuanchen Bei\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
-- [4] [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://arxiv.org/pdf/2307.02813.pdf). (ICDE, 2024)
+- [4] [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10598011). (ICDE, 2024)
   
   **Yuanchen Bei**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
 
-- [3] Feedback Reciprocal Graph Collaborative Filtering. (CIKM, 2024)
+- [3] [Feedback Reciprocal Graph Collaborative Filtering](https://arxiv.org/pdf/2408.02404). (CIKM, 2024)
 
-  Weijun Chen, **Yuanchen Bei**, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
+  Weijun Chen\*, **Yuanchen Bei\***, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
 
 - [2] [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
 
@@ -141,7 +141,7 @@ I am now a second-year master's student in the College of Computer Science and T
 
 # Academic Services
 - **Conference Reviewer:** KDD (2024, 2025), ECAI 2024.
-- **Invited Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024), IEEE TKDE (Since 2024).
+- **Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024), IEEE TKDE (Since 2024).
 
 
 <span class='anchor' id='-experiences'></span>
