@@ -28,7 +28,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-news'></span>
 
 # News
-- 2024.05: &nbsp;🎉 Our paper on **out-of-vocabulary recommendation** is accepted by **NeurIPS 2024** as a spotlight.
+- 2024.09: &nbsp;🎉 Our paper on **out-of-vocabulary recommendation** is accepted by **NeurIPS 2024** as a spotlight.
 - 2024.09: &nbsp;📚 Invited as the reviewer for **ICLR 2025**.
 - 2024.07: &nbsp;📚 Invited as the reviewer for **KDD 2025**.
 - 2024.05: &nbsp;🎉 Our paper "**Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**" is accepted by KDD 2024.
