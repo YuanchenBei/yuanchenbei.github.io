@@ -20,7 +20,7 @@ redirect_from:
 # Yuanchen Bei
 I am now a final-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ), Prof. [Xiao Huang](https://scholar.google.com/citations?user=Be21PkYAAAAJ) at PolyU and Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ) at JNU.
 
-*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph learning**, **relation foundation models** (especially over the graph and multimodal data), **recommender systems**, and **graph-based RAG for LLMs**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
+*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph learning**, **relation foundation models** (especially over the graph and multimodal data), **recommender systems**, and **relation-enhanced large language models**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
 👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Summer/Fall 2025, and I sincerely appreciate any opportunity!</font> It is my [curriculum vitae](https://github.com/YuanchenBei/yuanchenbei.github.io/blob/main/cv/resume_yuanchen.pdf).
 
@@ -44,13 +44,13 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 **Conference Papers (\* equal-contributed):**
 
-- [1] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.1145/3637528.3671569). (KDD, 2024) **[Applied in Alibaba Taobao]**
-
-  Yijie Zhang\*, **<u>Yuanchen Bei</u>\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
-
-- [2] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://dl.acm.org/doi/10.1145/3589334.3645517). (TheWebConf, 2024) **[Applied in Alibaba Taobao]**
+- [1] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://dl.acm.org/doi/10.1145/3589334.3645517). (TheWebConf, 2024) **[Applied in Alibaba Taobao]**
 
   Hao Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
+
+- [2] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.1145/3637528.3671569). (KDD, 2024) **[Applied in Alibaba Taobao]**
+
+  Yijie Zhang\*, **<u>Yuanchen Bei</u>\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
 - [3] [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10598011). (ICDE, 2024)
   
