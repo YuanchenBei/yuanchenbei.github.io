@@ -22,7 +22,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 *"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph learning**, **relation foundation models** (especially over the graph and multimodal data), **recommender systems**, and **relation-enhanced large language models**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
-👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Summer/Fall 2025, and I sincerely appreciate any opportunity!</font> It is my [curriculum vitae](https://github.com/YuanchenBei/yuanchenbei.github.io/blob/main/cv/resume_yuanchen.pdf).
+👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Summer/Fall 2025, and I sincerely appreciate any opportunity!</font> 
 
 
 <span class='anchor' id='-news'></span>
