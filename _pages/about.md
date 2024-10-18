@@ -20,7 +20,7 @@ redirect_from:
 # Yuanchen Bei
 I am now a final-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ), Prof. [Xiao Huang](https://scholar.google.com/citations?user=Be21PkYAAAAJ) at PolyU and Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ) at JNU.
 
-*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph learning**, **relation foundation models** (especially over the graph and multimodal data), **recommender systems**, and **relation-enhanced large language models**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
+*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph learning**, **relation foundation models** (especially on the graph and multimodal data), **computational social science** (especially on recommender systems and network analysis), and **relation-enhanced large language models**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
 👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Summer/Fall 2025, and I sincerely appreciate any opportunity!</font> 
 
