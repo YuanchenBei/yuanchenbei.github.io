@@ -28,12 +28,12 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-news'></span>
 
 # News
-- 2024.10: &nbsp;🎉 Our paper "**Graph Cross-Correlated Network for Recommendation**" is accepted by **TKDE 2024**.
-- 2024.09: &nbsp;🎉 Our paper "**Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**" is accepted by **NeurIPS 2024** as a spotlight.
-- 2024.09: &nbsp;📚 Invited as the reviewer for **ICLR 2025**.
-- 2024.07: &nbsp;📚 Invited as the reviewer for **KDD 2025**.
+- 2024.10: &nbsp;🎉 Our paper "**Graph Cross-Correlated Network for Recommendation**" is accepted by TKDE 2024.
+- 2024.09: &nbsp;🎉 Our paper "**Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**" is accepted by NeurIPS 2024 as a spotlight.
+- 2024.09: &nbsp;📚 Invited as the reviewer for ICLR 2025.
+- 2024.07: &nbsp;📚 Invited as the reviewer for KDD 2025.
 - 2024.05: &nbsp;🎉 Our paper "**Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**" is accepted by KDD 2024.
-- 2024.05: &nbsp;📚 Invited as the reviewer for **IEEE TII** and **IEEE TKDE**.
+- 2024.05: &nbsp;📚 Invited as the reviewer for IEEE TII and IEEE TKDE.
 - 2024.01: &nbsp;🎉 Our paper "**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**" is accepted by TheWebConf 2024.
 - 2023.12: &nbsp;🎉 Our paper "**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**" is accepted by ICDE 2024.
 - 2023.09: &nbsp;🎉 Our paper "**Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**" is accepted by ICDM 2023.
