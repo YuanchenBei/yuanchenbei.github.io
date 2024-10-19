@@ -28,7 +28,8 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-news'></span>
 
 # News
-- 2024.09: &nbsp;🎉 Our paper on **out-of-vocabulary recommendation** is accepted by **NeurIPS 2024** as a spotlight.
+- 2024.10: &nbsp;🎉 Our paper "**Graph Cross-Correlated Network for Recommendation**" is accepted by **TKDE 2024**.
+- 2024.09: &nbsp;🎉 Our paper "**Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**" is accepted by **NeurIPS 2024** as a spotlight.
 - 2024.09: &nbsp;📚 Invited as the reviewer for **ICLR 2025**.
 - 2024.07: &nbsp;📚 Invited as the reviewer for **KDD 2025**.
 - 2024.05: &nbsp;🎉 Our paper "**Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**" is accepted by KDD 2024.
@@ -64,11 +65,15 @@ I am now a final-year master's student in the College of Computer Science and Te
 
   Weijun Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
 
-- [6] [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
+- [6] Graph Cross-Correlated Network for Recommendation. (TKDE, 2024)
+  
+  Hao Chen, **<u>Yuanchen Bei</u>**, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
+
+- [7] [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
 
   **<u>Yuanchen Bei</u>**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
   
-- [7] [Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3583780.3615180). (CIKM, 2023)
+- [8] [Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3583780.3615180). (CIKM, 2023)
   
   **<u>Yuanchen Bei</u>**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, and Feiran Huang.
 
