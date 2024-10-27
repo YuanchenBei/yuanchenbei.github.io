@@ -52,6 +52,7 @@ I am now a final-year master's student in the College of Computer Science and Te
   <a href="https://www.paperdigest.org/2024/09/most-influential-www-papers-2024-09/"><img src="https://img.shields.io/badge/🔥 Top 10 Influential Paper in WWW2024-red.svg"></a> 
   <a href="https://dl.acm.org/doi/10.1145/3589334.3645517"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a>
   <a href="https://github.com/YuanchenBei/MacGNN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
+  <img src="https://img.shields.io/badge/🌟 Graph Learning, Large Scale Recommendations-orange.svg">
 
   Hao Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
@@ -60,37 +61,54 @@ I am now a final-year master's student in the College of Computer Science and Te
   <img src="https://img.shields.io/badge/🔧 Applied in Alibaba Taobao-blue.svg">
   <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671569"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a>
   <a href="https://github.com/Wings236/POGCN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
+  <img src="https://img.shields.io/badge/🌟 Complex Behavioral Graphs, Recommendations-orange.svg">
 
   Yijie Zhang\*, **<u>Yuanchen Bei</u>\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
-- **CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**. (ICDE, 2024) <a href="https://ieeexplore.ieee.org/abstract/document/10598011"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/CPDG"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
+- **CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**. (ICDE, 2024) 
+  
+  <a href="https://ieeexplore.ieee.org/abstract/document/10598011"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/CPDG"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Dynamic Graph Learning, Graph Pretraining-orange.svg">
   
   **<u>Yuanchen Bei</u>**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
 
 - **Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**. (NeurIPS, 2024)
   
-  <a href="https://www.paperdigest.org/2024/09/most-influential-www-papers-2024-09/"><img src="https://img.shields.io/badge/🔥 Spotlight Paper in NeurIPS2024-red.svg"></a> 
+  <a href="https://www.paperdigest.org/2024/09/most-influential-www-papers-2024-09/"><img src="https://img.shields.io/badge/🔥 Spotlight Paper in NeurIPS2024-red.svg"></a> <img src="https://img.shields.io/badge/🌟 Reinforcement Learning, Cold Start Recommendations-orange.svg">
 
   Ruochen Liu, Hao Chen, **<u>Yuanchen Bei</u>**, Qijie Shen, Fangwei Zhong, Senzhang Wang, and Jianxin Wang.
 
-- **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
+- **Feedback Reciprocal Graph Collaborative Filtering**. (CIKM, 2024) 
   
-  Hao Chen, **<u>Yuanchen Bei</u>**, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
-
-- **Feedback Reciprocal Graph Collaborative Filtering**. (CIKM, 2024) <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a>
+  <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 Complex Behavioral Graphs, Recommendations-orange.svg">
 
   Weijun Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
 
-- **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) <a href="https://ieeexplore.ieee.org/abstract/document/10415759"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/RAND"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
+- **LLM Simulator for Online Billion-Scale Item Cold-Start Recommendation**. (WSDM, 2025)
+  
+  <a href="https://arxiv.org/pdf/2402.09176"><img src="https://img.shields.io/badge/📃 Paper (Previous Version)-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start Recommendations-orange.svg">
+  
+  Feiran Huang, **<u>Yuanchen Bei</u>**, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip Yu.
+
+- **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
+
+  <img src="https://img.shields.io/badge/🌟 Graph Learning, Recommendations-orange.svg">
+  
+  Hao Chen, **<u>Yuanchen Bei</u>**, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
+
+- **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) 
+  
+  <a href="https://ieeexplore.ieee.org/abstract/document/10415759"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/RAND"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Learning, Graph Anomaly Detection-orange.svg">
 
   **<u>Yuanchen Bei</u>**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
   
-- **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction**. (CIKM, 2023) <a href="https://dl.acm.org/doi/10.1145/3583780.3615180"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/NRCGI"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
+- **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction**. (CIKM, 2023) 
+  
+  <a href="https://dl.acm.org/doi/10.1145/3583780.3615180"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/NRCGI"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Learning, Recommendations-orange.svg">
   
   **<u>Yuanchen Bei</u>**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, and Feiran Huang.
 
 
-**Preprint Papers (\* equal-contributed):**
+**Preprint Papers:**
 - [Revisiting the Message Passing in Heterophilous Graph Neural Networks](https://arxiv.org/pdf/2405.17768).
 
   Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
