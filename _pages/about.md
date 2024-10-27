@@ -28,6 +28,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-news'></span>
 
 # News
+- 2024.10: &nbsp;🎉 Our paper on **LLM-based Cold-Start Recommendation** is accepted by WSDM 2025.
 - 2024.10: &nbsp;🎉 Our paper "**Graph Cross-Correlated Network for Recommendation**" is accepted by TKDE 2024.
 - 2024.09: &nbsp;🎉 Our paper "**Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**" is accepted by NeurIPS 2024 as a spotlight.
 - 2024.09: &nbsp;📚 Invited as the reviewer for ICLR 2025.
@@ -45,76 +46,77 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 **Conference Papers (\* equal-contributed):**
 
-- [1] [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://dl.acm.org/doi/10.1145/3589334.3645517). (TheWebConf, 2024) **[Applied in Alibaba Taobao]**
+- [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://dl.acm.org/doi/10.1145/3589334.3645517). (TheWebConf, 2024) **[Applied in Alibaba Taobao, [Top-10 Influential Paper on WWW2024](https://www.paperdigest.org/2024/09/most-influential-www-papers-2024-09/)]**
 
   Hao Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
-- [2] [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.1145/3637528.3671569). (KDD, 2024) **[Applied in Alibaba Taobao]**
+- [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.1145/3637528.3671569). (KDD, 2024) **[Applied in Alibaba Taobao]**
 
   Yijie Zhang\*, **<u>Yuanchen Bei</u>\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
-- [3] [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10598011). (ICDE, 2024)
+- [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10598011). (ICDE, 2024)
   
   **<u>Yuanchen Bei</u>**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
 
-- [4] Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination. (NeurIPS, 2024) **[Spotlight]**
+- Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination. (NeurIPS, 2024) **[Spotlight]**
 
   Ruochen Liu, Hao Chen, **<u>Yuanchen Bei</u>**, Qijie Shen, Fangwei Zhong, Senzhang Wang, and Jianxin Wang.
 
-- [5] [Feedback Reciprocal Graph Collaborative Filtering](https://arxiv.org/pdf/2408.02404). (CIKM, 2024)
-
-  Weijun Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
-
-- [6] Graph Cross-Correlated Network for Recommendation. (TKDE, 2024)
+- Graph Cross-Correlated Network for Recommendation. (TKDE, 2024)
   
   Hao Chen, **<u>Yuanchen Bei</u>**, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
 
-- [7] [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
+- [Feedback Reciprocal Graph Collaborative Filtering](https://arxiv.org/pdf/2408.02404). (CIKM, 2024)
+
+  Weijun Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
+
+- [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
 
   **<u>Yuanchen Bei</u>**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
   
-- [8] [Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3583780.3615180). (CIKM, 2023)
+- [Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3583780.3615180). (CIKM, 2023)
   
   **<u>Yuanchen Bei</u>**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, and Feiran Huang.
 
 
 **Preprint Papers (\* equal-contributed):**
-- [1] [Revisiting the Message Passing in Heterophilous Graph Neural Networks](https://arxiv.org/pdf/2405.17768).
+- [Revisiting the Message Passing in Heterophilous Graph Neural Networks](https://arxiv.org/pdf/2405.17768).
 
   Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
 
-- [2] [Better Late Than Never: Formulating and Benchmarking Recommendation Editing](https://arxiv.org/pdf/2406.04553).
+- [CLR-Bench: Evaluating Large Language Models in College-level Reasoning](https://arxiv.org/pdf/2410.17558).
+  
+  Junnan Dong, Zijin Hong, **<u>Yuanchen Bei</u>**, Feiran Huang, Xinrun Wang, Xiao Huang.
+
+- [Better Late Than Never: Formulating and Benchmarking Recommendation Editing](https://arxiv.org/pdf/2406.04553).
   
   Chengyu Lai, Sheng Zhou, Zhimeng Jiang, Qiaoyu Tan, **<u>Yuanchen Bei</u>**, Jiawei Chen, Ningyu Zhang, and Jiajun Bu.
 
-- [3] [Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection](https://arxiv.org/pdf/2404.16366).
+- [Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection](https://arxiv.org/pdf/2404.16366).
 
   **<u>Yuanchen Bei</u>**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
 
-- [4] [Large Language Model Interaction Simulator for Cold-Start Item Recommendation](https://arxiv.org/pdf/2402.09176.pdf).
-
-  Feiran Huang, Zhenghang Yang\*, Junyi Jiang\*, **<u>Yuanchen Bei</u>\***, Yijie Zhang, and Hao Chen.
 
 **Workshop Papers:**
-- [1] [Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering](https://ieeexplore.ieee.org/abstract/document/10411514). (IWLKG@ICDM, 2023)
+- [Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering](https://ieeexplore.ieee.org/abstract/document/10411514). (IWLKG@ICDM, 2023)
 
   Yijie Zhang, **<u>Yuanchen Bei</u>**, Shiqi Yang, Hao Chen, Zhiqing Li, Lijia Chen, and Feiran Huang.
 
-- [2] [Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation](https://arxiv.org/pdf/2309.12565.pdf). (KDAH@CIKM, 2023)
+- [Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation](https://arxiv.org/pdf/2309.12565.pdf). (KDAH@CIKM, 2023)
 
   Huixuan Chi, Hao Xu, Mengya Liu, **<u>Yuanchen Bei</u>**, Sheng Zhou, Danyang Liu, and Mengdi Zhang.
 
-- [3] [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). (DLP@KDD, 2022)
+- [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). (DLP@KDD, 2022)
 
   Yue Xu, Hao Chen, Zengde Deng, **<u>Yuanchen Bei</u>**, and Feiran Huang.
 
 **Patents:**
 
-- [1] Text Sentiment Analysis Method Based on Multi-Level Graph Pooling. (US Patent, No. 11,687,728, 2023)
+- Text Sentiment Analysis Method Based on Multi-Level Graph Pooling. (US Patent, No. 11,687,728, 2023)
 
   Feiran Huang, Zhiquan Liu, and **<u>Yuanchen Bei</u>**.
 
-- [2] Social Recommendation Method Based on Multi-Feature Heterogeneous Graph Neural Networks. (US Patent, No. 11,631,147, 2023)
+- Social Recommendation Method Based on Multi-Feature Heterogeneous Graph Neural Networks. (US Patent, No. 11,631,147, 2023)
 
   Feiran Huang, Guan Liu, and **<u>Yuanchen Bei</u>**.
 
