@@ -73,7 +73,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 - **Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**. (NeurIPS, 2024)
   
-  <a href="https://www.paperdigest.org/2024/09/most-influential-www-papers-2024-09/"><img src="https://img.shields.io/badge/🔥 Spotlight Paper in NeurIPS2024-red.svg"></a> <img src="https://img.shields.io/badge/🌟 RL, Cold Start RecSys-orange.svg">
+  <a href="https://nips.cc/virtual/2024/poster/95688"><img src="https://img.shields.io/badge/🔥 Spotlight Paper in NeurIPS2024-red.svg"></a> <img src="https://img.shields.io/badge/🌟 RL, Cold Start RecSys-orange.svg">
 
   Ruochen Liu, Hao Chen, **<u>Yuanchen Bei</u>**, Qijie Shen, Fangwei Zhong, Senzhang Wang, and Jianxin Wang.
 
@@ -135,40 +135,54 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 
 **Workshop Papers:**
-- [Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering](https://ieeexplore.ieee.org/abstract/document/10411514). (IWLKG@ICDM, 2023)
+- **Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering**. (IWLKG@ICDM, 2023)
+
+  <a href="https://ieeexplore.ieee.org/abstract/document/10411514"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
   Yijie Zhang, **<u>Yuanchen Bei</u>**, Shiqi Yang, Hao Chen, Zhiqing Li, Lijia Chen, and Feiran Huang.
 
-- [Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation](https://arxiv.org/pdf/2309.12565.pdf). (KDAH@CIKM, 2023)
+- **Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation**. (KDAH@CIKM, 2023)
+
+  <a href="https://arxiv.org/pdf/2309.12565.pdf"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
   Huixuan Chi, Hao Xu, Mengya Liu, **<u>Yuanchen Bei</u>**, Sheng Zhou, Danyang Liu, and Mengdi Zhang.
 
-- [Flattened Graph Convolutional Networks For Recommendation](https://arxiv.org/pdf/2210.07769.pdf). (DLP@KDD, 2022)
+- **Flattened Graph Convolutional Networks For Recommendation**. (DLP@KDD, 2022)
+  
+  <a href="https://arxiv.org/pdf/2210.07769.pdf"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
   Yue Xu, Hao Chen, Zengde Deng, **<u>Yuanchen Bei</u>**, and Feiran Huang.
 
 **Patents:**
 
-- Text Sentiment Analysis Method Based on Multi-Level Graph Pooling. (US Patent, No. 11,687,728, 2023)
+- **Text Sentiment Analysis Method Based on Multi-Level Graph Pooling**. (US Patent, No. 11,687,728, 2023)
 
   Feiran Huang, Zhiquan Liu, and **<u>Yuanchen Bei</u>**.
 
-- Social Recommendation Method Based on Multi-Feature Heterogeneous Graph Neural Networks. (US Patent, No. 11,631,147, 2023)
+- **Social Recommendation Method Based on Multi-Feature Heterogeneous Graph Neural Networks**. (US Patent, No. 11,631,147, 2023)
 
   Feiran Huang, Guan Liu, and **<u>Yuanchen Bei</u>**.
 
 # Selected Open-Source Project
-- [ColdRec: A Comprehensive Benchmark for Cold-Start Recommendation](https://github.com/YuanchenBei/ColdRec). (A Comprehensive Open-Source Toolkit for Cold-Start Recommendations) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/ColdRec)
+- **Graph Pre-Training Literature Library**.
+   
+  <a href="https://github.com/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, Pretraining-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) 
 
-  *Include 20+ cold-start recommendation models with comprehensive evaluations.*
+- **Cold-Start Recommendation Literature Library**.
   
-- [DreamerGPT: Chinese Instruction-tuning for Large Language Model](https://github.com/DreamerGPT/DreamerGPT). (Instruction Tuning for Open-Source LLMs with Chinese Corpus) ![GitHub stars](https://img.shields.io/github/stars/DreamerGPT/DreamerGPT)
+  <a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation)
 
-- [Graph Pre-Training Library](https://github.com/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks). (A Comprehensive Library of Graph Pre-Training Literature) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) 
+- **ColdRec: A Comprehensive Benchmark for Cold-Start Recommendation**. *Including 20+ cold-start recommendation models with comprehensive evaluations.*
+  
+  <a href="https://github.com/YuanchenBei/ColdRec"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, Benchmark-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/ColdRec)
+  
+- **DreamerGPT: Instruction-Tuning for Large Language Model with Chinese Corpus**.
+  
+  <a href="https://github.com/DreamerGPT/DreamerGPT"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Instruction Tuning-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/DreamerGPT/DreamerGPT)
 
-- [Cold-Start Recommendation Library](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation). (A Comprehensive Library of Cold-Start Recommendation Literature) ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation)
-
-- [DGraph-Fin Leaderboard](https://dgraph.xinye.com/leaderboards/dgraphfin). (A Large-Scale Dynamic Graph Anomaly Detection Leaderboard) 🥈 **Top-2 Solution**
+- **DGraph-Fin: A Large-Scale Dynamic Graph Anomaly Detection Leaderboard**.
+  
+  <a href="https://dgraph.xinye.com/leaderboards/dgraphfin"><img src="https://img.shields.io/badge/🥈 Top 2 Solution-red.svg"></a> <a href="https://github.com/YuanchenBei/GraphTransformer-DGraphFin"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/ColdRec)
 
 
 <span class='anchor' id='-honors-and-awards'></span>
