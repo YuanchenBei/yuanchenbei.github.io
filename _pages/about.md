@@ -22,7 +22,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 *"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph learning**, **relation foundation models** (especially on graph and multimodal data), **social computing** (especially on recommender systems and network analysis), and **relation-enhanced large language models**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
-👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Summer/Fall 2025, and I sincerely appreciate any opportunity!</font> 
+👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities globally in Summer/Fall 2025, and I sincerely appreciate any opportunity!</font> 
 
 
 <span class='anchor' id='-news'></span>
@@ -46,35 +46,46 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 **Conference Papers (\* equal-contributed):**
 
-- [Macro Graph Neural Networks for Online Billion-Scale Recommender Systems](https://dl.acm.org/doi/10.1145/3589334.3645517). (TheWebConf, 2024) **[Applied in Alibaba Taobao, [Top-10 Influential Paper on WWW2024](https://www.paperdigest.org/2024/09/most-influential-www-papers-2024-09/)]**
+- **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**. (WWW, 2024) 
+  
+  <img src="https://img.shields.io/badge/🔧 Applied in Alibaba Taobao-blue.svg">
+  <a href="https://www.paperdigest.org/2024/09/most-influential-www-papers-2024-09/"><img src="https://img.shields.io/badge/🔥 Top 10 Influential Paper in WWW2024-red.svg"></a> 
+  <a href="https://dl.acm.org/doi/10.1145/3589334.3645517"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a>
+  <a href="https://github.com/YuanchenBei/MacGNN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
 
   Hao Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
-- [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.1145/3637528.3671569). (KDD, 2024) **[Applied in Alibaba Taobao]**
+- **Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**. (KDD, 2024) 
+  
+  <img src="https://img.shields.io/badge/🔧 Applied in Alibaba Taobao-blue.svg">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671569"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a>
+  <a href="https://github.com/Wings236/POGCN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
 
   Yijie Zhang\*, **<u>Yuanchen Bei</u>\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
-- [CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10598011). (ICDE, 2024)
+- **CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**. (ICDE, 2024) <a href="https://ieeexplore.ieee.org/abstract/document/10598011"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/CPDG"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
   
   **<u>Yuanchen Bei</u>**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
 
-- Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination. (NeurIPS, 2024) **[Spotlight]**
+- **Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**. (NeurIPS, 2024)
+  
+  <a href="https://www.paperdigest.org/2024/09/most-influential-www-papers-2024-09/"><img src="https://img.shields.io/badge/🔥 Spotlight Paper in NeurIPS2024-red.svg"></a> 
 
   Ruochen Liu, Hao Chen, **<u>Yuanchen Bei</u>**, Qijie Shen, Fangwei Zhong, Senzhang Wang, and Jianxin Wang.
 
-- Graph Cross-Correlated Network for Recommendation. (TKDE, 2024)
+- **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
   
   Hao Chen, **<u>Yuanchen Bei</u>**, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
 
-- [Feedback Reciprocal Graph Collaborative Filtering](https://arxiv.org/pdf/2408.02404). (CIKM, 2024)
+- **Feedback Reciprocal Graph Collaborative Filtering**. (CIKM, 2024) <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a>
 
   Weijun Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
 
-- [Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10415759). (ICDM, 2023)
+- **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) <a href="https://ieeexplore.ieee.org/abstract/document/10415759"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/RAND"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
 
   **<u>Yuanchen Bei</u>**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
   
-- [Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3583780.3615180). (CIKM, 2023)
+- **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction**. (CIKM, 2023) <a href="https://dl.acm.org/doi/10.1145/3583780.3615180"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/NRCGI"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
   
   **<u>Yuanchen Bei</u>**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, and Feiran Huang.
 
