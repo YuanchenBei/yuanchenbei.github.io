@@ -44,7 +44,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 # Publications 
 
-**Conference Papers (\* equal-contributed):**
+**Published Papers (\* equal-contributed):**
 
 - **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**. (WWW, 2024) 
   
