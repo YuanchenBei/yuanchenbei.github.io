@@ -84,7 +84,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
   <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
-- **LLM Simulator for Online Billion-Scale Item Cold-Start Recommendation**. (WSDM, 2025)
+- **LLM Behavior Simulator for Online Billion-Scale Item Cold-Start Recommendation**. (WSDM, 2025)
   
   Feiran Huang, **<u>Yuanchen Bei</u>**, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip Yu.
 
@@ -92,9 +92,9 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 - **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
 
-  Hao Chen, **<u>Yuanchen Bei</u>**, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
+  Hao Chen\*, **<u>Yuanchen Bei</u>\***, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
 
-  <img src="https://img.shields.io/badge/🌟 GNNs, Recommendations-orange.svg">
+  <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, Recommendations-orange.svg">
 
 - **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) 
   
@@ -189,9 +189,10 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-honors-and-awards'></span>
 
 # Honors and Awards
+- 2024.11, **National Scholarship** (Top 1%, Master).
 - 2023.11, **First Class Scholarship**, Zhejiang University.
 - 2022.06, **Outstanding Undergraduate Student & Thesis**.
-- 2021.12, **National Scholarship** (Top 1%).
+- 2021.12, **National Scholarship** (Top 1%, Bachelor).
 - 2020.05, **First Class Scholarship**, Jinan University.
 
 
