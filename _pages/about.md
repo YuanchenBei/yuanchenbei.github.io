@@ -22,20 +22,20 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 *"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph machine learning**, **relation foundation models** (especially on graph and multimodal data), and **social computing** (especially on user behavior analysis and network analysis). In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
-👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities globally in Summer/Fall 2025, and I sincerely appreciate any opportunity!</font> 
+👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Summer/Fall 2025, and I sincerely appreciate any opportunity!</font> 
 
 
 <span class='anchor' id='-news'></span>
 
 # News
+- 2024.11: &nbsp;🎉 Our paper on **GNNs for Ambiguous Classification** is accepted by KDD 2025.
 - 2024.10: &nbsp;🎉 Our paper on **LLM-based Cold-Start Recommendation** is accepted by WSDM 2025.
 - 2024.10: &nbsp;🎉 Our paper "**Graph Cross-Correlated Network for Recommendation**" is accepted by TKDE 2024.
 - 2024.09: &nbsp;🎉 Our paper "**Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**" is accepted by NeurIPS 2024 as a spotlight.
 - 2024.09: &nbsp;📚 Invited as the reviewer for ICLR 2025.
 - 2024.07: &nbsp;📚 Invited as the reviewer for KDD 2025.
 - 2024.05: &nbsp;🎉 Our paper "**Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**" is accepted by KDD 2024.
-- 2024.05: &nbsp;📚 Invited as the reviewer for IEEE TII and IEEE TKDE.
-- 2024.01: &nbsp;🎉 Our paper "**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**" is accepted by TheWebConf 2024.
+- 2024.01: &nbsp;🎉 Our paper "**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**" is accepted by WWW 2024.
 - 2023.12: &nbsp;🎉 Our paper "**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**" is accepted by ICDE 2024.
 - 2023.09: &nbsp;🎉 Our paper "**Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**" is accepted by ICDM 2023.
 
@@ -44,7 +44,19 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 # Publications 
 
-**Published Papers (\* equal-contributed):**
+**Published Papers (\* co-first author):**
+
+- **Correlation-Aware Graph Convolutional Networks for Multi-Label Node Classification**. (KDD, 2025)
+
+  **<u>Yuanchen Bei</u>**, Weizhi Chen, Hao Chen, Sheng Zhou, Carl Yang, Jiapei Fan, Longtao Huang, Jiajun Bu.
+
+  <img src="https://img.shields.io/badge/🌟 GNNs-orange.svg">
+
+- **LLM Behavior Simulator for Online Billion-Scale Item Cold-Start Recommendation**. (WSDM, 2025)
+  
+  Feiran Huang, **<u>Yuanchen Bei</u>**, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip Yu.
+
+  <a href="https://arxiv.org/pdf/2402.09176"><img src="https://img.shields.io/badge/📃 Paper (Previous Version)-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start RecSys-orange.svg">
 
 - **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**. (WWW, 2024) 
   
@@ -84,17 +96,12 @@ I am now a final-year master's student in the College of Computer Science and Te
 
   <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
-- **LLM Behavior Simulator for Online Billion-Scale Item Cold-Start Recommendation**. (WSDM, 2025)
-  
-  Feiran Huang, **<u>Yuanchen Bei</u>**, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip Yu.
-
-  <a href="https://arxiv.org/pdf/2402.09176"><img src="https://img.shields.io/badge/📃 Paper (Previous Version)-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start RecSys-orange.svg">
 
 - **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
 
   Hao Chen\*, **<u>Yuanchen Bei</u>\***, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
 
-  <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, Recommendations-orange.svg">
+  <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
 - **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) 
   
@@ -207,7 +214,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 # Academic Services
 - **Conference Reviewer:** KDD (2024, 2025), ICLR 2025, ECAI 2024.
-- **Journal Reviewer:** ACM TKDD (Since 2023), IEEE TII (Since 2024), IEEE TKDE (Since 2024).
+- **Journal Reviewer:** ACM TKDD (Since 2023), IEEE TKDE (Since 2024), IEEE TNNLS (Since 2024), IEEE TII (Since 2024).
 
 
 <span class='anchor' id='-experiences'></span>
