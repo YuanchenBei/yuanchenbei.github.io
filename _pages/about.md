@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Yuanchen Bei
-I am now a final-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ). I also work closely with Dr. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ), Prof. [Xiao Huang](https://scholar.google.com/citations?user=Be21PkYAAAAJ) at PolyU and Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ) at JNU.
+I am now a final-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ). I also work closely with Prof. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ) at Macau CityU, Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ) at JNU, and Prof. [Xiao Huang](https://scholar.google.com/citations?user=Be21PkYAAAAJ) at PolyU. They are all very supportive and kind.
 
 *"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph machine learning**, **relation foundation models** (especially on graph and multimodal data), and **social computing** (especially on user behavior analysis and network analysis). In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
-👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Summer/Fall 2025, and I sincerely appreciate any opportunity!</font> 
+👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Fall 2025, and I sincerely appreciate any opportunity!</font> 
 
 
 <span class='anchor' id='-news'></span>
@@ -30,14 +30,14 @@ I am now a final-year master's student in the College of Computer Science and Te
 # News
 - 2024.11: &nbsp;🎉 Our paper on **GNNs for Ambiguous Classification** is accepted by KDD 2025.
 - 2024.10: &nbsp;🎉 Our paper on **LLM-based Cold-Start Recommendation** is accepted by WSDM 2025.
-- 2024.10: &nbsp;🎉 Our paper "**Graph Cross-Correlated Network for Recommendation**" is accepted by TKDE 2024.
-- 2024.09: &nbsp;🎉 Our paper "**Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**" is accepted by NeurIPS 2024 as a spotlight.
+- 2024.10: &nbsp;🎉 Our paper on **Correlation-based GNNs for Recommendation**" is accepted by TKDE 2024.
+- 2024.09: &nbsp;🎉 Our paper on **Out-of-Vocabulary Item Recommendation** is accepted by NeurIPS 2024 as a spotlight.
 - 2024.09: &nbsp;📚 Invited as the reviewer for ICLR 2025.
 - 2024.07: &nbsp;📚 Invited as the reviewer for KDD 2025.
-- 2024.05: &nbsp;🎉 Our paper "**Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**" is accepted by KDD 2024.
-- 2024.01: &nbsp;🎉 Our paper "**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**" is accepted by WWW 2024.
-- 2023.12: &nbsp;🎉 Our paper "**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**" is accepted by ICDE 2024.
-- 2023.09: &nbsp;🎉 Our paper "**Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**" is accepted by ICDM 2023.
+- 2024.05: &nbsp;🎉 Our paper on **GNNs for User Multi-Behavior Modeling**" is accepted by KDD 2024.
+- 2024.01: &nbsp;🎉 Our paper on **Macro GNNs for Billion-Scale Recommendation** is accepted by WWW 2024.
+- 2023.12: &nbsp;🎉 Our paper on **Dynamic GNN Pre-Training**" is accepted by ICDE 2024.
+- 2023.09: &nbsp;🎉 Our paper on **Neighborhood Selection for Unsupervised Graph Anomaly Detection** is accepted by ICDM 2023.
 
 
 <span class='anchor' id='-publications'></span>
