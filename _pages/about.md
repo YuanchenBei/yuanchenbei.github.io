@@ -30,13 +30,13 @@ I am now a final-year master's student in the College of Computer Science and Te
 # News
 - 2024.11: &nbsp;🎉 Our paper on **GNNs for Ambiguous Classification** is accepted by KDD 2025.
 - 2024.10: &nbsp;🎉 Our paper on **LLM-based Cold-Start Recommendation** is accepted by WSDM 2025.
-- 2024.10: &nbsp;🎉 Our paper on **Correlation-based GNNs for Recommendation**" is accepted by TKDE 2024.
+- 2024.10: &nbsp;🎉 Our paper on **Correlation-based GNNs for Recommendation** is accepted by TKDE 2024.
 - 2024.09: &nbsp;🎉 Our paper on **Out-of-Vocabulary Item Recommendation** is accepted by NeurIPS 2024 as a spotlight.
 - 2024.09: &nbsp;📚 Invited as the reviewer for ICLR 2025.
 - 2024.07: &nbsp;📚 Invited as the reviewer for KDD 2025.
-- 2024.05: &nbsp;🎉 Our paper on **GNNs for User Multi-Behavior Modeling**" is accepted by KDD 2024.
+- 2024.05: &nbsp;🎉 Our paper on **GNNs for User Multi-Behavior Modeling** is accepted by KDD 2024.
 - 2024.01: &nbsp;🎉 Our paper on **Macro GNNs for Billion-Scale Recommendation** is accepted by WWW 2024.
-- 2023.12: &nbsp;🎉 Our paper on **Dynamic GNN Pre-Training**" is accepted by ICDE 2024.
+- 2023.12: &nbsp;🎉 Our paper on **Dynamic GNN Pre-Training** is accepted by ICDE 2024.
 - 2023.09: &nbsp;🎉 Our paper on **Neighborhood Selection for Unsupervised Graph Anomaly Detection** is accepted by ICDM 2023.
 
 
@@ -50,7 +50,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
   **<u>Yuanchen Bei</u>**, Weizhi Chen, Hao Chen, Sheng Zhou, Carl Yang, Jiapei Fan, Longtao Huang, Jiajun Bu.
 
-  <img src="https://img.shields.io/badge/🌟 GNNs-orange.svg">
+  <a href="https://arxiv.org/pdf/2411.17350"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/CorGCN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs-orange.svg">
 
 - **LLM Behavior Simulator for Online Billion-Scale Item Cold-Start Recommendation**. (WSDM, 2025)
   
@@ -90,18 +90,17 @@ I am now a final-year master's student in the College of Computer Science and Te
 
   <a href="https://nips.cc/virtual/2024/poster/95688"><img src="https://img.shields.io/badge/🔥 Spotlight Paper in NeurIPS2024-red.svg"></a> <a href="https://nips.cc/virtual/2024/poster/95688"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/Ruochen1003/USIM"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 RL, Cold Start RecSys-orange.svg">
 
-- **Feedback Reciprocal Graph Collaborative Filtering**. (CIKM, 2024) 
-  
-  Weijun Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
-
-  <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
-
-
 - **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
 
   Hao Chen\*, **<u>Yuanchen Bei</u>\***, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
 
   <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
+
+- **Feedback Reciprocal Graph Collaborative Filtering**. (CIKM, 2024) 
+  
+  Weijun Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
+
+  <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
 - **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) 
   
