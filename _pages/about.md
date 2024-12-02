@@ -60,7 +60,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 - **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**. (WWW, 2024) 
   
-  <u>Hao Chen\*, **Yuanchen Bei\***</u>, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
+  Hao Chen\*, **<u>Yuanchen Bei\*</u>**, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
   <img src="https://img.shields.io/badge/🔧 Applied in Alibaba Taobao-blue.svg">
   <a href="https://www.paperdigest.org/2024/09/most-influential-www-papers-2024-09/"><img src="https://img.shields.io/badge/🔥 Top 10 Influential Paper in WWW2024-red.svg"></a> 
@@ -71,7 +71,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 - **Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**. (KDD, 2024) 
   
-  <u>Yijie Zhang\*, **Yuanchen Bei\***</u>, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
+  Yijie Zhang\*, **<u>Yuanchen Bei\*</u>**, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
   <img src="https://img.shields.io/badge/🔧 Applied in Alibaba Taobao-blue.svg">
   <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671569"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a>
@@ -92,13 +92,13 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 - **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
 
-  <u>Hao Chen\*, **Yuanchen Bei\***</u>, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
+  Hao Chen\*, **<u>Yuanchen Bei\*</u>**, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
 
   <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
 - **Feedback Reciprocal Graph Collaborative Filtering**. (CIKM, 2024) 
   
-  <u>Weijun Chen\*, **Yuanchen Bei\***</u>, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
+  Weijun Chen\*, **<u>Yuanchen Bei\*</u>**, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
 
   <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
