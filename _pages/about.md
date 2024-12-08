@@ -22,7 +22,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 *"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph machine learning**, **relation foundation models** (especially on graph and multimodal data), and **social computing** (especially on user behavior analysis and network analysis). In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
-👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Fall 2025, and I sincerely appreciate any opportunity!</font> 
+👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Fall 2025, and I sincerely appreciate potential opportunities!</font> 
 
 
 <span class='anchor' id='-news'></span>
@@ -71,7 +71,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 - **Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**. (KDD, 2024) 
   
-  Yijie Zhang\*, **<u>Yuanchen Bei</u>\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
+  <u>Yijie Zhang*, **Yuanchen Bei***, Hao Chen*</u>, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
   <img src="https://img.shields.io/badge/🔧 Applied in Alibaba Taobao-blue.svg">
   <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671569"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a>
