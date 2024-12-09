@@ -71,7 +71,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 - **Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**. (KDD, 2024) 
   
-  <u>Yijie Zhang*, **Yuanchen Bei***, Hao Chen*</u>, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
+  Yijie Zhang\*, **<u>Yuanchen Bei</u>\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
   <img src="https://img.shields.io/badge/🔧 Applied in Alibaba Taobao-blue.svg">
   <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671569"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a>
