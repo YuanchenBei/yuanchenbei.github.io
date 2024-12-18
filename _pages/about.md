@@ -20,7 +20,7 @@ redirect_from:
 # Yuanchen Bei
 I am now a final-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ). I also work closely with Prof. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ) at Macau CityU, Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ) at JNU, and Prof. [Xiao Huang](https://scholar.google.com/citations?user=Be21PkYAAAAJ) at PolyU. They are all very supportive and kind.
 
-*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph machine learning**, **relation foundation models** (especially on graph and multimodal data), and **social computing** (especially on user behavior analysis and network analysis). In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
+*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph machine learning**, **large-scale relational data mining**, **relation foundation models**, and **relational knowledge discovery for social science**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
 👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Fall 2025, and I sincerely appreciate potential opportunities!</font> 
 
@@ -195,6 +195,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-honors-and-awards'></span>
 
 # Honors and Awards
+- 2024.12, **Outstanding Reviewer**, KDD 2025. 
 - 2024.11, **National Scholarship** (Top 1%, Master).
 - 2023.11, **First Class Scholarship**, Zhejiang University.
 - 2022.06, **Outstanding Undergraduate Student & Thesis**.
@@ -220,7 +221,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 # Experiences
 - 2022.09 - 2025.03, Research Assistant, Eagle Lab@[Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.
-- 2024.07 - 2024.10, Research Assistant, DEEP Lab@[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong SAR, China.
-- 2023.06 - 2023.11, Research Intern, CRO Security Technology Team@[Alibaba Group](https://www.alibabagroup.com/en-US), Hangzhou, China.
+- 2024.06 - 2024.10, Research Assistant, DEEP Lab@[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong SAR, China.
+- 2023.05 - 2023.11, Research Intern, CRO Security Technology Team@[Alibaba Group](https://www.alibabagroup.com/en-US), Hangzhou, China.
 - 2022.02 - 2022.08, Research Intern, NLP Center@[Meituan](https://www.meituan.com/en-US/about-us), Beijing, China.
 - 2019.10 - 2022.01, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
