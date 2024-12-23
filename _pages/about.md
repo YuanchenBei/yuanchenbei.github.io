@@ -227,6 +227,6 @@ I am now a final-year master's student in the College of Computer Science and Te
 - 2019.10 - 2022.01, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 
 
-<div class="view_map">
+<!--<div class="view_map">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=E60zzjtnPC8oHVWucMY0taRLS2AF5THX_Xmr-TES7RU&co=227fc1'></script>
-</div>
+</div>-->
