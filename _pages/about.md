@@ -29,7 +29,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 # News
 - 2024.11: &nbsp;🎉 Our paper on **GNNs for Ambiguous Classification** is accepted by KDD 2025.
-- 2024.10: &nbsp;🎉 Our paper on **LLM-based Cold-Start Recommendation** is accepted by WSDM 2025.
+- 2024.10: &nbsp;🎉 Our paper on **LLM-based User Behavior Simulator** is accepted by WSDM 2025.
 - 2024.10: &nbsp;🎉 Our paper on **Correlation-based GNNs for Recommendation** is accepted by TKDE 2024.
 - 2024.09: &nbsp;🎉 Our paper on **Out-of-Vocabulary Item Recommendation** is accepted by NeurIPS 2024 as a spotlight.
 - 2024.09: &nbsp;📚 Invited as the reviewer for ICLR 2025.
@@ -225,3 +225,8 @@ I am now a final-year master's student in the College of Computer Science and Te
 - 2023.05 - 2023.11, Research Intern, CRO Security Technology Team@[Alibaba Group](https://www.alibabagroup.com/en-US), Hangzhou, China.
 - 2022.02 - 2022.08, Research Intern, NLP Center@[Meituan](https://www.meituan.com/en-US/about-us), Beijing, China.
 - 2019.10 - 2022.01, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
+
+
+<div class="view_map" align="center">
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=E60zzjtnPC8oHVWucMY0taRLS2AF5THX_Xmr-TES7RU&co=227fc1'></script>
+</div>
