@@ -28,37 +28,36 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-news'></span>
 
 # News
-- 2024.11: &nbsp;🎉 Our paper on **GNNs for Ambiguous Classification** is accepted by KDD 2025.
-- 2024.10: &nbsp;🎉 Our paper on **LLM-based User Behavior Simulator** is accepted by WSDM 2025.
-- 2024.10: &nbsp;🎉 Our paper on **Correlation-based GNNs for Recommendation** is accepted by TKDE 2024.
-- 2024.09: &nbsp;🎉 Our paper on **Out-of-Vocabulary Item Recommendation** is accepted by NeurIPS 2024 as a spotlight.
-- 2024.09: &nbsp;📚 Invited as the reviewer for ICLR 2025.
-- 2024.07: &nbsp;📚 Invited as the reviewer for KDD 2025.
-- 2024.05: &nbsp;🎉 Our paper on **GNNs for User Multi-Behavior Modeling** is accepted by KDD 2024.
-- 2024.01: &nbsp;🎉 Our paper on **Macro GNNs for Billion-Scale Recommendation** is accepted by WWW 2024.
-- 2023.12: &nbsp;🎉 Our paper on **Dynamic GNN Pre-Training** is accepted by ICDE 2024.
-- 2023.09: &nbsp;🎉 Our paper on **Neighborhood Selection for Unsupervised Graph Anomaly Detection** is accepted by ICDM 2023.
+- 2024.12: &nbsp;📚 Selected as the outstanding reviewer in KDD 2025.
+- 2024.11: &nbsp;🎉 Our paper on "*GNNs for Ambiguous Classification*" is accepted by KDD2025.
+- 2024.10: &nbsp;🎉 Our paper on "*LLM-based User Behavior Simulator*" is accepted by WSDM2025.
+- 2024.09: &nbsp;📚 Our paper on "*Macro GNNs for Billion-Scale Recommendation*" is selected as top-10 influential WWW2024 paper. 
+- 2024.09: &nbsp;🎉 Our paper on "*Out-of-Vocabulary Item Recommendation*" is accepted by NeurIPS2024 as a spotlight.
+- 2024.05: &nbsp;🎉 Our paper on "*GNNs for User Multi-Behavior Modeling*" is accepted by KDD2024.
+- 2024.01: &nbsp;🎉 Our paper on "*Macro GNNs for Billion-Scale Recommendation*" is accepted by WWW2024.
+- 2023.12: &nbsp;🎉 Our paper on "*Dynamic GNN Pre-Training*" is accepted by ICDE2024.
+- 2023.09: &nbsp;🎉 Our paper on "*Neighborhood Selection for Unsupervised Graph Anomaly Detection*" is accepted by ICDM2023.
 
 
 <span class='anchor' id='-publications'></span>
 
 # Publications 
 
-**Published Papers (\* Co-first author):**
+**C = Conference, J = Journal, S = In submission (\* Co-first author)**
 
-- **Correlation-Aware Graph Convolutional Networks for Multi-Label Node Classification**. (KDD, 2025)
+- [C.9] **Correlation-Aware Graph Convolutional Networks for Multi-Label Node Classification**. (KDD, 2025)
 
   **<u>Yuanchen Bei</u>**, Weizhi Chen, Hao Chen, Sheng Zhou, Carl Yang, Jiapei Fan, Longtao Huang, Jiajun Bu.
 
   <a href="https://arxiv.org/pdf/2411.17350"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/CorGCN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs-orange.svg">
 
-- **LLM Behavior Simulator for Online Billion-Scale Item Cold-Start Recommendation**. (WSDM, 2025)
+- [C.8] **Large Language Model Simulator for Cold-Start Recommendation**. (WSDM, 2025)
   
   Feiran Huang, **<u>Yuanchen Bei</u>**, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip Yu.
 
   <a href="https://arxiv.org/pdf/2402.09176"><img src="https://img.shields.io/badge/📃 Paper (Previous Version)-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start RecSys-orange.svg">
 
-- **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**. (WWW, 2024) 
+- [C.7] **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**. (WWW, 2024) 
   
   Hao Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, and Xiao Huang.
 
@@ -69,7 +68,7 @@ I am now a final-year master's student in the College of Computer Science and Te
   <img src="https://img.shields.io/badge/🌟 GNNs, Large Scale RecSys-orange.svg">
   
 
-- **Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**. (KDD, 2024) 
+- [C.6] **Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks**. (KDD, 2024) 
   
   Yijie Zhang\*, **<u>Yuanchen Bei</u>\***, Hao Chen\*, Qijie Shen, Zheng Yuan, Huan Gong, Senzhang Wang, Feiran Huang, and Xiao Huang.
 
@@ -78,69 +77,68 @@ I am now a final-year master's student in the College of Computer Science and Te
   <a href="https://github.com/Wings236/POGCN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>
   <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
-- **CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**. (ICDE, 2024) 
+- [C.5] **CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**. (ICDE, 2024) 
   
   **<u>Yuanchen Bei</u>**, Hao Xu, Sheng Zhou, Huixuan Chi, Haishuai Wang, Mengdi Zhang, Zhao Li, and Jiajun Bu.
 
   <a href="https://ieeexplore.ieee.org/abstract/document/10598011"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/CPDG"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Dynamic Graph Pretraining-orange.svg">
 
-- **Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**. (NeurIPS, 2024)
+- [C.4] **Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**. (NeurIPS, 2024)
   
   Ruochen Liu, Hao Chen, **<u>Yuanchen Bei</u>**, Qijie Shen, Fangwei Zhong, Senzhang Wang, and Jianxin Wang.
 
   <a href="https://nips.cc/virtual/2024/poster/95688"><img src="https://img.shields.io/badge/🔥 Spotlight Paper in NeurIPS2024-red.svg"></a> <a href="https://nips.cc/virtual/2024/poster/95688"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/Ruochen1003/USIM"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 RL, Cold Start RecSys-orange.svg">
 
-- **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
-
-  Hao Chen\*, **<u>Yuanchen Bei</u>\***, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
-
-  <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
-
-- **Feedback Reciprocal Graph Collaborative Filtering**. (CIKM, 2024) 
+- [C.3] **Feedback Reciprocal Graph Collaborative Filtering**. (CIKM, 2024) 
   
   Weijun Chen\*, **<u>Yuanchen Bei</u>\***, Qijie Shen, Hao Chen, Xiao Huang, and Feiran Huang.
 
   <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
-- **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) 
+- [J.1] **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
+
+  Hao Chen\*, **<u>Yuanchen Bei</u>\***, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
+
+  <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
+
+- [S.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
+  Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
+
+  <a href="https://arxiv.org/pdf/2405.17768"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/zfx233/CMGNN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, Heterophily-orange.svg">
+
+- [S.3] **CLR-Bench: Evaluating Large Language Models in College-level Reasoning**.
+  
+  Junnan Dong, Zijin Hong, **<u>Yuanchen Bei</u>**, Feiran Huang, Xinrun Wang, Xiao Huang.
+
+  <a href="https://arxiv.org/pdf/2410.17558"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://clr-bench.github.io/"><img src="https://img.shields.io/badge/🖥 Benchmark-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Benchmark-orange.svg">
+
+
+- [S.2] **Better Late Than Never: Formulating and Benchmarking Recommendation Editing**.
+  
+  Chengyu Lai, Sheng Zhou, Zhimeng Jiang, Qiaoyu Tan, **<u>Yuanchen Bei</u>**, Jiawei Chen, Ningyu Zhang, and Jiajun Bu.
+
+  <a href="https://arxiv.org/pdf/2406.04553"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/cycl2018/Recommendation-Editing"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 RecSys Editing, Benchmark-orange.svg">
+
+- [S.1] **Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**.
+
+  **<u>Yuanchen Bei</u>**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
+
+  <a href="https://arxiv.org/pdf/2404.16366"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
+
+- [C.2] **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) 
   
   **<u>Yuanchen Bei</u>**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
 
   <a href="https://ieeexplore.ieee.org/abstract/document/10415759"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/RAND"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
   
-- **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction**. (CIKM, 2023) 
+- [C.1] **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction**. (CIKM, 2023) 
   
   **<u>Yuanchen Bei</u>**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, and Feiran Huang.
 
   <a href="https://dl.acm.org/doi/10.1145/3583780.3615180"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/NRCGI"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
 
-**Preprint Papers:**
-- **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
-  
-  Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
-
-  <a href="https://arxiv.org/pdf/2405.17768"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/zfx233/CMGNN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, Heterophily-orange.svg">
-
-- **CLR-Bench: Evaluating Large Language Models in College-level Reasoning**.
-  
-  Junnan Dong, Zijin Hong, **<u>Yuanchen Bei</u>**, Feiran Huang, Xinrun Wang, Xiao Huang.
-
-  <a href="https://arxiv.org/pdf/2410.17558"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Benchmark-orange.svg">
-
-- **Better Late Than Never: Formulating and Benchmarking Recommendation Editing**.
-  
-  Chengyu Lai, Sheng Zhou, Zhimeng Jiang, Qiaoyu Tan, **<u>Yuanchen Bei</u>**, Jiawei Chen, Ningyu Zhang, and Jiajun Bu.
-
-  <a href="https://arxiv.org/pdf/2406.04553"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/cycl2018/Recommendation-Editing"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 RecSys Editing, Benchmark-orange.svg">
-
-- **Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**.
-
-  **<u>Yuanchen Bei</u>**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
-
-  <a href="https://arxiv.org/pdf/2404.16366"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
-
-
+<!--
 **Workshop Papers:**
 - **Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering**. (IWLKG@ICDM, 2023)
 
@@ -169,6 +167,8 @@ I am now a final-year master's student in the College of Computer Science and Te
 - **Social Recommendation Method Based on Multi-Feature Heterogeneous Graph Neural Networks**. (US Patent, No. 11,631,147, 2023)
 
   Feiran Huang, Guan Liu, and **<u>Yuanchen Bei</u>**.
+-->
+
 
 # Selected Open-Source Project
 - **Graph Pre-Training Literature Library**.
