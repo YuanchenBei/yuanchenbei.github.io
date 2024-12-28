@@ -101,6 +101,18 @@ I am now a final-year master's student in the College of Computer Science and Te
 
   <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
+- [C.2] **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) 
+  
+  **<u>Yuanchen Bei</u>**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
+
+  <a href="https://ieeexplore.ieee.org/abstract/document/10415759"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/RAND"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
+  
+- [C.1] **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction**. (CIKM, 2023) 
+  
+  **<u>Yuanchen Bei</u>**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, and Feiran Huang.
+
+  <a href="https://dl.acm.org/doi/10.1145/3583780.3615180"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/NRCGI"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
+
 - [S.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
   Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
 
@@ -124,18 +136,6 @@ I am now a final-year master's student in the College of Computer Science and Te
   **<u>Yuanchen Bei</u>**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
 
   <a href="https://arxiv.org/pdf/2404.16366"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
-
-- [C.2] **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) 
-  
-  **<u>Yuanchen Bei</u>**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
-
-  <a href="https://ieeexplore.ieee.org/abstract/document/10415759"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/RAND"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
-  
-- [C.1] **Non-Recursive Cluster-Scale Graph Interacted Model for Click-Through Rate Prediction**. (CIKM, 2023) 
-  
-  **<u>Yuanchen Bei</u>**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, and Feiran Huang.
-
-  <a href="https://dl.acm.org/doi/10.1145/3583780.3615180"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/NRCGI"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
 
 <!--
