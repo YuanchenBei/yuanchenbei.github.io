@@ -43,7 +43,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 # Publications 
 
-**C = Conference, J = Journal, S = In submission (\* Co-first author)**
+**C = Conference (\* Co-first author)**
 
 - [C.9] **Correlation-Aware Graph Convolutional Networks for Multi-Label Node Classification**. (KDD, 2025)
 
@@ -55,7 +55,7 @@ I am now a final-year master's student in the College of Computer Science and Te
   
   Feiran Huang, **<u>Yuanchen Bei</u>**, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip Yu.
 
-  <a href="https://arxiv.org/pdf/2402.09176"><img src="https://img.shields.io/badge/📃 Paper (Previous Version)-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start RecSys-orange.svg">
+  <a href="https://arxiv.org/pdf/2402.09176"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start RecSys-orange.svg">
 
 - [C.7] **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**. (WWW, 2024) 
   
@@ -95,12 +95,6 @@ I am now a final-year master's student in the College of Computer Science and Te
 
   <a href="https://dl.acm.org/doi/10.1145/3627673.3680015"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
-- [J.1] **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
-
-  Hao Chen\*, **<u>Yuanchen Bei</u>\***, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
-
-  <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
-
 - [C.2] **Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**. (ICDM, 2023) 
   
   **<u>Yuanchen Bei</u>**, Sheng Zhou, Qiaoyu Tan, Hao Xu, Hao Chen, Zhao Li, and Jiajun Bu.
@@ -112,6 +106,16 @@ I am now a final-year master's student in the College of Computer Science and Te
   **<u>Yuanchen Bei</u>**, Hao Chen, Shengyuan Chen, Xiao Huang, Sheng Zhou, and Feiran Huang.
 
   <a href="https://dl.acm.org/doi/10.1145/3583780.3615180"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/NRCGI"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
+
+**J = Journal (\* Co-first author)**
+
+- [J.1] **Graph Cross-Correlated Network for Recommendation**. (TKDE, 2024)
+
+  Hao Chen\*, **<u>Yuanchen Bei</u>\***, Wenbing Huang, Shengyuan Chen, Feiran Huang, and Xiao Huang.
+
+  <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
+
+**S = In submission**
 
 - [S.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
   Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
