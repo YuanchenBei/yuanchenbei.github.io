@@ -31,7 +31,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 - 2024.12: &nbsp;📚 Selected as the outstanding reviewer in KDD 2025.
 - 2024.11: &nbsp;🎉 Our paper on "*GNNs for Ambiguous Classification*" is accepted by KDD2025.
 - 2024.10: &nbsp;🎉 Our paper on "*LLM-based User Behavior Simulator*" is accepted by WSDM2025.
-- 2024.09: &nbsp;📚 Our paper on "*Macro GNNs for Billion-Scale Recommendation*" is selected as top-10 influential WWW2024 paper. 
+- 2024.09: &nbsp;🏆 Our paper on "*Macro GNNs for Billion-Scale Recommendation*" is selected as top-10 influential WWW2024 paper. 
 - 2024.09: &nbsp;🎉 Our paper on "*Out-of-Vocabulary Item Recommendation*" is accepted by NeurIPS2024 as a spotlight.
 - 2024.05: &nbsp;🎉 Our paper on "*GNNs for User Multi-Behavior Modeling*" is accepted by KDD2024.
 - 2024.01: &nbsp;🎉 Our paper on "*Macro GNNs for Billion-Scale Recommendation*" is accepted by WWW2024.
@@ -230,7 +230,25 @@ I am now a final-year master's student in the College of Computer Science and Te
 - 2022.02 - 2022.08, Research Intern, NLP Center@[Meituan](https://www.meituan.com/en-US/about-us), Beijing, China.
 - 2019.10 - 2022.01, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 
+<style>
+  .view_map {
+    position: relative;
+    width: 300px; /* 设置Clustermap的宽度 */
+    height: 300px; /* 设置Clustermap的高度 */
+    margin: auto; /* 使容器在页面中居中 */
+    overflow: hidden; /* 防止内容溢出 */
+  }
+  /* 由于Clustermap是通过JavaScript插入的，我们可以通过其id选择器来设置样式 */
+  #clustrmaps {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%; /* 设置Clustermap的宽度 */
+    height: 100%; /* 设置Clustermap的高度 */
+  }
+</style>
 
-<!--<div class="view_map">
+<div class="view_map">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=E60zzjtnPC8oHVWucMY0taRLS2AF5THX_Xmr-TES7RU&co=227fc1'></script>
-</div>-->
+</div>
