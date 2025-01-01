@@ -230,6 +230,8 @@ I am now a final-year master's student in the College of Computer Science and Te
 - 2022.02 - 2022.08, Research Intern, NLP Center@[Meituan](https://www.meituan.com/en-US/about-us), Beijing, China.
 - 2019.10 - 2022.01, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
 
+<br>
+
 <style>
   .view_map {
     position: relative;
