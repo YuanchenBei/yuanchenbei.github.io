@@ -53,9 +53,9 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 - [C.8] **Large Language Model Simulator for Cold-Start Recommendation**. (WSDM, 2025)
   
-  Feiran Huang, **<u>Yuanchen Bei</u>**, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip Yu.
+  Feiran Huang, **<u>Yuanchen Bei</u>**, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip S. Yu.
 
-  <a href="https://arxiv.org/pdf/2402.09176"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start RecSys-orange.svg">
+  <a href="https://arxiv.org/pdf/2402.09176v2"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start RecSys-orange.svg">
 
 - [C.7] **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**. (WWW, 2024) 
   
