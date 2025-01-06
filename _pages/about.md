@@ -28,15 +28,14 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-news'></span>
 
 # News
-- 2024.12: &nbsp;📚 Selected as the outstanding reviewer in KDD 2025.
-- 2024.11: &nbsp;🎉 Our paper on "*GNNs for Ambiguous Classification*" is accepted by KDD2025.
-- 2024.10: &nbsp;🎉 Our paper on "*LLM-based User Behavior Simulator*" is accepted by WSDM2025.
-- 2024.09: &nbsp;🏆 Our paper on "*Macro GNNs for Billion-Scale Recommendation*" is selected as top-10 influential WWW2024 paper. 
-- 2024.09: &nbsp;🎉 Our paper on "*Out-of-Vocabulary Item Recommendation*" is accepted by NeurIPS2024 as a spotlight.
-- 2024.05: &nbsp;🎉 Our paper on "*GNNs for User Multi-Behavior Modeling*" is accepted by KDD2024.
-- 2024.01: &nbsp;🎉 Our paper on "*Macro GNNs for Billion-Scale Recommendation*" is accepted by WWW2024.
-- 2023.12: &nbsp;🎉 Our paper on "*Dynamic GNN Pre-Training*" is accepted by ICDE2024.
-- 2023.09: &nbsp;🎉 Our paper on "*Neighborhood Selection for Unsupervised Graph Anomaly Detection*" is accepted by ICDM2023.
+- 2025.01: 📖 Our survey on "Addressing Cold-Start Problem in the Era of LLMs" with tens of institutions is published [here](https://arxiv.org/pdf/2501.01945).
+- 2024.12: 📚 Selected as the outstanding reviewer in KDD2025.
+- 2024.11: 🎉 Our paper on "*GNNs for Ambiguous Classification*" is accepted by KDD2025.
+- 2024.10: 🎉 Our paper on "*LLM-based User Behavior Simulator*" is accepted by WSDM2025.
+- 2024.09: 🏆 Our paper on "*Macro GNNs for Billion-Scale Recommendation*" is selected as top-10 influential WWW2024 paper. 
+- 2024.09: 🎉 Our paper on "*Out-of-Vocabulary Item Recommendation*" is accepted by NeurIPS2024 as a spotlight.
+- 2024.05: 🎉 Our paper on "*GNNs for User Multi-Behavior Modeling*" is accepted by KDD2024.
+- 2024.01: 🎉 Our paper on "*Macro GNNs for Billion-Scale Recommendation*" is accepted by WWW2024.
 
 
 <span class='anchor' id='-publications'></span>
@@ -115,7 +114,11 @@ I am now a final-year master's student in the College of Computer Science and Te
 
   <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
+
 **S = In submission**
+- [S.5] **Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**.
+  Weizhi Zhang\*, **<u>Yuanchen Bei</u>\***, Liangwei Yang, Henry Peng Zou, Peilin Zhou, Aiwei Liu, Yinghui Li, Hao Chen, Jianling Wang, Yu Wang, Feiran Huang, Sheng Zhou, Jiajun Bu, Allen Lin, James Caverlee, Fakhri Karray, Irwin King, Philip S. Yu.
+  <a href="https://arxiv.org/pdf/2501.01945"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, LLMs, Survey-orange.svg">
 
 - [S.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
   Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
