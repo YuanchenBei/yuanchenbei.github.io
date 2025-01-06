@@ -117,10 +117,13 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 **S = In submission**
 - [S.5] **Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**.
+  
   Weizhi Zhang\*, **<u>Yuanchen Bei</u>\***, Liangwei Yang, Henry Peng Zou, Peilin Zhou, Aiwei Liu, Yinghui Li, Hao Chen, Jianling Wang, Yu Wang, Feiran Huang, Sheng Zhou, Jiajun Bu, Allen Lin, James Caverlee, Fakhri Karray, Irwin King, Philip S. Yu.
+  
   <a href="https://arxiv.org/pdf/2501.01945"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, LLMs, Survey-orange.svg">
 
 - [S.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
+  
   Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
 
   <a href="https://arxiv.org/pdf/2405.17768"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/zfx233/CMGNN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, Heterophily-orange.svg">
