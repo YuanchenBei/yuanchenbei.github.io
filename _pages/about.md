@@ -28,7 +28,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-news'></span>
 
 # News
-- 2025.01: 📖 Our survey on "Addressing Cold-Start Problem in the Era of LLMs" with tens of institutions is published [here](https://arxiv.org/pdf/2501.01945).
+- 2025.01: 📖 Our survey on "*Addressing Cold-Start Problem in the Era of LLMs*" with tens of institutions is published [here](https://arxiv.org/pdf/2501.01945).
 - 2024.12: 📚 Selected as the outstanding reviewer in KDD2025.
 - 2024.11: 🎉 Our paper on "*GNNs for Ambiguous Classification*" is accepted by KDD2025.
 - 2024.10: 🎉 Our paper on "*LLM-based User Behavior Simulator*" is accepted by WSDM2025.
