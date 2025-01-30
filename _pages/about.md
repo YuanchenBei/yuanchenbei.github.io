@@ -20,7 +20,7 @@ redirect_from:
 # Yuanchen Bei
 I am now a final-year master's student in the College of Computer Science and Technology, Zhejiang University, advised by Prof. [Sheng Zhou](https://scholar.google.com/citations?user=Ss76nMwAAAAJ) and Prof. [Jiajun Bu](https://scholar.google.com/citations?user=OgZP2okAAAAJ). I also work closely with Prof. [Hao Chen](https://scholar.google.com/citations?user=7oeLWT0AAAAJ) at Macau CityU, Prof. [Feiran Huang](https://scholar.google.com/citations?user=of1vcxsAAAAJ) at JNU, and Prof. [Xiao Huang](https://scholar.google.com/citations?user=Be21PkYAAAAJ) at PolyU. They are all very supportive and kind.
 
-*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph machine learning**, **large-scale relational data mining**, **relation foundation models**, and **relational knowledge discovery for social science**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
+*"There should be (explicit/implicit) relations among real-world data."* My research interests currently include **graph machine learning**, **large-scale relational data mining**, **graph foundation models**, and **relational knowledge-empowered GenAI**. In my free time, I am also interested in finance and economics. Please kindly reach out to me if you have any questions or cooperation interests.
 
 👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Fall 2025, and I sincerely appreciate potential opportunities!</font> 
 
@@ -28,6 +28,7 @@ I am now a final-year master's student in the College of Computer Science and Te
 <span class='anchor' id='-news'></span>
 
 # News
+- 2025.01: 📖 Our survey on "*GraphRAG for Customized LLMs*" is published [here](https://arxiv.org/pdf/2501.13958).
 - 2025.01: 📖 Our survey on "*Addressing Cold-Start Problem in the Era of LLMs*" with tens of institutions is published [here](https://arxiv.org/pdf/2501.01945).
 - 2024.12: 📚 Selected as the outstanding reviewer in KDD2025.
 - 2024.11: 🎉 Our paper on "*GNNs for Ambiguous Classification*" is accepted by KDD2025.
@@ -116,11 +117,16 @@ I am now a final-year master's student in the College of Computer Science and Te
 
 
 **S = In submission**
+- [S.6] **A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**.
+  Qinggang Zhang\*, Shengyuan Chen\*, **<u>Yuanchen Bei</u>\***, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang.
+
+  <a href="https://arxiv.org/pdf/2501.13958"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/DEEP-PolyU/Awesome-GraphRAG"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GraphRAG, LLMs, Survey-orange.svg">
+
 - [S.5] **Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**.
   
   Weizhi Zhang\*, **<u>Yuanchen Bei</u>\***, Liangwei Yang, Henry Peng Zou, Peilin Zhou, Aiwei Liu, Yinghui Li, Hao Chen, Jianling Wang, Yu Wang, Feiran Huang, Sheng Zhou, Jiajun Bu, Allen Lin, James Caverlee, Fakhri Karray, Irwin King, Philip S. Yu.
   
-  <a href="https://arxiv.org/pdf/2501.01945"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, LLMs, Survey-orange.svg">
+  <a href="https://arxiv.org/pdf/2501.01945"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, LLMs, Survey-orange.svg">
 
 - [S.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
   
@@ -184,6 +190,10 @@ I am now a final-year master's student in the College of Computer Science and Te
 - **Graph Pre-Training Literature Library**.
    
   <a href="https://github.com/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, Pretraining-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) 
+
+- **GraphRAG Literature Library**.
+  
+  <a href="https://github.com/DEEP-PolyU/Awesome-GraphRAG"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GraphRAG, LLMs-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)
 
 - **Cold-Start Recommendation Literature Library**.
   
