@@ -55,7 +55,7 @@ I am now a final-year master's student in the College of Computer Science and Te
   
   Feiran Huang, **<u>Yuanchen Bei</u>**, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip S. Yu.
 
-  <a href="https://arxiv.org/pdf/2402.09176v2"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start RecSys-orange.svg">
+  <a href="https://arxiv.org/pdf/2402.09176v2"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/ColdLLM-Team/ColdLLM-repo"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a>  <img src="https://img.shields.io/badge/🌟 LLMs, Cold Start RecSys-orange.svg">
 
 - [C.7] **Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**. (WWW, 2024) 
   
@@ -116,38 +116,43 @@ I am now a final-year master's student in the College of Computer Science and Te
   <a href="https://arxiv.org/pdf/2411.01182"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
 
 
-**S = In submission**
-- [S.6] **A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**.
+**S = Survey (\* Co-first author)**
+
+- [S.2] **A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**.
+  
   Qinggang Zhang\*, Shengyuan Chen\*, **<u>Yuanchen Bei</u>\***, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang.
 
   <a href="https://arxiv.org/pdf/2501.13958"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/DEEP-PolyU/Awesome-GraphRAG"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GraphRAG, LLMs, Survey-orange.svg">
 
-- [S.5] **Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**.
+- [S.1] **Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**.
   
   Weizhi Zhang\*, **<u>Yuanchen Bei</u>\***, Liangwei Yang, Henry Peng Zou, Peilin Zhou, Aiwei Liu, Yinghui Li, Hao Chen, Jianling Wang, Yu Wang, Feiran Huang, Sheng Zhou, Jiajun Bu, Allen Lin, James Caverlee, Fakhri Karray, Irwin King, Philip S. Yu.
   
   <a href="https://arxiv.org/pdf/2501.01945"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, LLMs, Survey-orange.svg">
 
-- [S.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
+
+**I = In submission**
+
+- [I.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
   
   Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
 
   <a href="https://arxiv.org/pdf/2405.17768"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/zfx233/CMGNN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, Heterophily-orange.svg">
 
-- [S.3] **CLR-Bench: Evaluating Large Language Models in College-level Reasoning**.
+- [I.3] **CLR-Bench: Evaluating Large Language Models in College-level Reasoning**.
   
   Junnan Dong, Zijin Hong, **<u>Yuanchen Bei</u>**, Feiran Huang, Xinrun Wang, Xiao Huang.
 
   <a href="https://arxiv.org/pdf/2410.17558"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://clr-bench.github.io/"><img src="https://img.shields.io/badge/🖥 Benchmark-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Benchmark-orange.svg">
 
 
-- [S.2] **Better Late Than Never: Formulating and Benchmarking Recommendation Editing**.
+- [I.2] **Better Late Than Never: Formulating and Benchmarking Recommendation Editing**.
   
   Chengyu Lai, Sheng Zhou, Zhimeng Jiang, Qiaoyu Tan, **<u>Yuanchen Bei</u>**, Jiawei Chen, Ningyu Zhang, and Jiajun Bu.
 
   <a href="https://arxiv.org/pdf/2406.04553"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/cycl2018/Recommendation-Editing"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 RecSys Editing, Benchmark-orange.svg">
 
-- [S.1] **Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**.
+- [I.1] **Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**.
 
   **<u>Yuanchen Bei</u>**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
 
