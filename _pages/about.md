@@ -131,7 +131,7 @@ redirect_from:
   
   <a href="https://arxiv.org/pdf/2501.01945"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, LLMs, Survey-orange.svg">
 
-
+<!--
 **I = In submission**
 
 - [I.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
@@ -160,7 +160,6 @@ redirect_from:
   <a href="https://arxiv.org/pdf/2404.16366"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
 
 
-<!--
 **Workshop Papers:**
 - **Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering**. (IWLKG@ICDM, 2023)
 
