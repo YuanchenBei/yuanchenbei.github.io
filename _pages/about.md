@@ -26,7 +26,10 @@ redirect_from:
 👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Fall 2025, and I sincerely appreciate potential opportunities!</font> 
 -->
 
+---
+
 <span class='anchor' id='-news'></span>
+
 
 ## News
 - 2025.01: 📖 Our survey on "*GraphRAG for Customized LLMs*" is published [here](https://arxiv.org/pdf/2501.13958).
@@ -39,8 +42,9 @@ redirect_from:
 - 2024.05: 🎉 Our paper on "*GNNs for User Multi-Behavior Modeling*" is accepted by KDD2024.
 
 
-
+---
 <span class='anchor' id='-publications'></span>
+
 
 ## Selected Publications 
 
@@ -171,6 +175,7 @@ redirect_from:
   Feiran Huang, Guan Liu, and **<u>Yuanchen Bei</u>**.
 -->
 
+---
 
 ## Selected Open-Source Project
 - **Graph Pre-Training Literature Library**.
@@ -198,6 +203,8 @@ redirect_from:
   <a href="https://dgraph.xinye.com/leaderboards/dgraphfin"><img src="https://img.shields.io/badge/🥈 Top 2 Solution-red.svg"></a> <a href="https://github.com/YuanchenBei/GraphTransformer-DGraphFin"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
 
 
+---
+
 <span class='anchor' id='-honors-and-awards'></span>
 
 ## Honors and Awards
@@ -210,20 +217,23 @@ redirect_from:
 - 2020.05, **First Class Scholarship** (Bachelor).
 
 
-<span class='anchor' id='-educations'></span>
+<!--<span class='anchor' id='-educations'></span>-->
 
 <!--# 📖 Educations-->
 <!-- - *2022.09 - 2025.03 (expected)*, Master, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.-->
 <!-- - *2018.09 - 2022.06*, Undergraduate, [Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.-->
 
 
+---
 <span class='anchor' id='-academic-services'></span>
+
 
 ## Academic Services
 - **Conference Reviewer:** KDD (2024, 2025), ICLR 2025, SIGIR 2025, ECAI 2024.
 - **Journal Reviewer:** ACM TKDD (Since 2023), IEEE TKDE (Since 2024), IEEE TNNLS (Since 2024), IEEE TII (Since 2024).
 
 
+---
 <span class='anchor' id='-experiences'></span>
 
 ## Experiences
