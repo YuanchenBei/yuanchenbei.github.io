@@ -227,11 +227,11 @@ redirect_from:
 <span class='anchor' id='-experiences'></span>
 
 ## Experiences
-- 2022.09 - 2025.03, Research Assistant, Eagle Lab@[Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.
-- 2024.06 - 2024.10, Research Assistant, DEEP Lab@[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong SAR, China.
-- 2023.05 - 2023.11, Research Intern, CRO Security Technology Team@[Alibaba Group](https://www.alibabagroup.com/en-US), Hangzhou, China.
-- 2022.02 - 2022.08, Research Intern, NLP Center@[Meituan](https://www.meituan.com/en-US/about-us), Beijing, China.
-- 2019.10 - 2022.01, Research Assistant, RecSys Group@[Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.
+- 2022.09 - 2025.03, Research Assistant, Eagle Lab@Zhejiang University, Hangzhou, China.
+- 2024.06 - 2024.10, Research Assistant, DEEP Lab@The Hong Kong Polytechnic University, Hong Kong SAR, China.
+- 2023.05 - 2023.11, Research Intern, CRO Security Technology Team@Alibaba Group, Hangzhou, China.
+- 2022.02 - 2022.08, Research Intern, NLP Center@Meituan, Beijing, China.
+- 2019.10 - 2022.01, Research Assistant, RecSys Group@Jinan University, Guangzhou, China.
 
 <br>
 
