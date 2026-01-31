@@ -30,10 +30,12 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
+$palatino                   : Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+/* Academic style font - Palatino */
+$global-font-family         : $palatino;
+$header-font-family         : $palatino;
+$caption-font-family        : $palatino;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanchen (Ethan) Bei"
-description              : "Master's Student at Zhejiang University"
+description              : "Ph.D. Student at UIUC"
 repository               : "YuanchenBei/yuanchenbei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yuanchen Bei"
   avatar           : "images/yuanchen.jpg"
   bio              : 
-  location         : "Hangzhou, China"
+  location         : "Champaign, IL, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7XFbwrcAAAAJ"
