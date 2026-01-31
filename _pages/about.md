@@ -23,8 +23,6 @@ I am a Ph.D. Student at the University of Illinois Urbana-Champaign, advised by 
 My research interests mainly include **memory for (M)LLM agents**, **relational data mining**,  **graph learning**, and **computational social science**. In my free time, I am also interested in finance and economics. 
 
 
-🤝 **Open to collaboration**: Please kindly reach out to me if you have cooperation interests in related topics!
-
 <!--
 👨‍💻‍ <font color="#dd0000">I am actively looking for Ph.D. opportunities in Fall 2025, and I sincerely appreciate potential opportunities!</font> 
 -->
@@ -43,7 +41,7 @@ My research interests mainly include **memory for (M)LLM agents**, **relational 
 
 
 ## Research Highlight
-
+🤝 **Open to collaboration**: Please kindly reach out to me if you have cooperation interests in related topics!
 #### Memory for (M)LLM Agents
 - **Long-Term Memory**: [Mem-Gallery](https://arxiv.org/pdf/2601.03515)
 - **Self-Evolving Memory**: [Evo-Memory](https://arxiv.org/pdf/2511.20857)
@@ -99,7 +97,7 @@ My research interests mainly include **memory for (M)LLM agents**, **relational 
 
 
 ## Academic Services
-- **Conference Reviewer:** ICLR (2025-2026), KDD (2024-2026), ICML 2026, WWW 2026, WSDM 2026, SIGIR 2025, SIGIR-AP 2025, ACMMM 2025, CIKM 2025, ECAI 2024.
+- **Conference Reviewer:** ICLR (2025-2026), KDD (2024-2026), ICML 2026, WWW 2026, WSDM 2026, SIGIR 2025, SIGIR-AP 2025, MM 2025, CIKM 2025, ECAI 2024.
 - **Journal Reviewer:** ACM TKDD, IEEE TKDE, IEEE TNNLS, IEEE TII, IEEE TIP.
 
 
