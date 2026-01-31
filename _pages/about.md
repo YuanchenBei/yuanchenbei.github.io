@@ -44,25 +44,31 @@ My research interests mainly include **memory for (M)LLM agents**, **relational 
 
 ## Research Highlight
 (Under Construction)
+#### Memory for (M)LLM Agents
+- **Long-Term Memory**: [Mem-Gallery](https://arxiv.org/pdf/2601.03515)
+- **Self-Evolving Memory**: [Evo-Memory](https://arxiv.org/pdf/2511.20857)
 
+#### Relational Data Mining
+- **Recommender Systems**: MacGNN (WWW 2024), POGCN (KDD 2024), USIM (NeurIPS 2024 Spotlight), ColdLLM (WSDM 2025)
+- **Graph Anomaly Detection**: RAND (ICDM 2023), G3AD (TNNLS 2025)
 
+#### Graph Learning
+- **General GNNs**: CorGCN (KDD 2025), CMGNN (NeurIPS 2025)
+- **Graph Pre-Training**: CPDG (ICDE 2024)
 
 ---
 
 ## Selected Open-Source Project
  
-- **GraphRAG Literature Library**.
-  
-  <a href="https://github.com/DEEP-PolyU/Awesome-GraphRAG"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GraphRAG, LLMs-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)
+- **Mem-gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents**. *Including 10+ memory models with a new evaluation dataset.* ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Mem-Gallery)
 
-- **Cold-Start Recommendation Literature Library**.
-  
-  <a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation)
+- **ColdRec: A Comprehensive Benchmark for Cold-Start Recommendation**. *Including 20+ cold-start recommendation models with comprehensive evaluations.* ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/ColdRec)
 
-- **ColdRec: A Comprehensive Benchmark for Cold-Start Recommendation**. *Including 20+ cold-start recommendation models with comprehensive evaluations.*
-  
-  <a href="https://github.com/YuanchenBei/ColdRec"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, Benchmark-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/ColdRec)
-  
+- **Graph for AI Agents Literature Library** ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Graphs-Meet-Agents)
+
+- **GraphRAG Literature Library** ![GitHub stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)
+
+- **Cold-Start Recommendation Literature Library** ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation)
 
 
 ---
