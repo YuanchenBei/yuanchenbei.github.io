@@ -96,80 +96,6 @@ Please kindly reach out to me if you have any questions or cooperation interests
   <a href="https://ieeexplore.ieee.org/abstract/document/10415759"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/RAND"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
   
 
-
-**Survey (\* Co-first author)**
-
-- **A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models**.
-  
-  Qinggang Zhang\*, Shengyuan Chen\*, **<u>Yuanchen Bei</u>\***, Zheng Yuan, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang.
-
-  <a href="https://arxiv.org/pdf/2501.13958"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/DEEP-PolyU/Awesome-GraphRAG"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GraphRAG, LLMs, Survey-orange.svg">
-
-- **Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**.
-  
-  Weizhi Zhang\*, **<u>Yuanchen Bei</u>\***, Liangwei Yang, Henry Peng Zou, Peilin Zhou, Aiwei Liu, Yinghui Li, Hao Chen, Jianling Wang, Yu Wang, Feiran Huang, Sheng Zhou, Jiajun Bu, Allen Lin, James Caverlee, Fakhri Karray, Irwin King, Philip S. Yu.
-  
-  <a href="https://arxiv.org/pdf/2501.01945"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation"><img src="https://img.shields.io/badge/📚 Library-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, LLMs, Survey-orange.svg">
-
-<!--
-**I = In submission**
-
-- [I.4] **Revisiting the Message Passing in Heterophilous Graph Neural Networks**.
-  
-  Zhuonan Zheng, **<u>Yuanchen Bei</u>**, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Chengyu Lai, Jiawei Chen, and Jiajun Bu.
-
-  <a href="https://arxiv.org/pdf/2405.17768"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/zfx233/CMGNN"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, Heterophily-orange.svg">
-
-- [I.3] **CLR-Bench: Evaluating Large Language Models in College-level Reasoning**.
-  
-  Junnan Dong, Zijin Hong, **<u>Yuanchen Bei</u>**, Feiran Huang, Xinrun Wang, Xiao Huang.
-
-  <a href="https://arxiv.org/pdf/2410.17558"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://clr-bench.github.io/"><img src="https://img.shields.io/badge/🖥 Benchmark-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Benchmark-orange.svg">
-
-
-- [I.2] **Better Late Than Never: Formulating and Benchmarking Recommendation Editing**.
-  
-  Chengyu Lai, Sheng Zhou, Zhimeng Jiang, Qiaoyu Tan, **<u>Yuanchen Bei</u>**, Jiawei Chen, Ningyu Zhang, and Jiajun Bu.
-
-  <a href="https://arxiv.org/pdf/2406.04553"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <a href="https://github.com/cycl2018/Recommendation-Editing"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 RecSys Editing, Benchmark-orange.svg">
-
-- [I.1] **Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**.
-
-  **<u>Yuanchen Bei</u>**, Sheng Zhou, Jinke Shi, Yao Ma, Haishuai Wang, and Jiajun Bu.
-
-  <a href="https://arxiv.org/pdf/2404.16366"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
-
-
-**Workshop Papers:**
-- **Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering**. (IWLKG@ICDM, 2023)
-
-  Yijie Zhang, **<u>Yuanchen Bei</u>**, Shiqi Yang, Hao Chen, Zhiqing Li, Lijia Chen, and Feiran Huang.
-
-  <a href="https://ieeexplore.ieee.org/abstract/document/10411514"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
-
-- **Modeling Spatiotemporal Periodicity and Collaborative Signal for Local-Life Service Recommendation**. (KDAH@CIKM, 2023)
-
-  Huixuan Chi, Hao Xu, Mengya Liu, **<u>Yuanchen Bei</u>**, Sheng Zhou, Danyang Liu, and Mengdi Zhang.
-
-  <a href="https://arxiv.org/pdf/2309.12565.pdf"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
-
-- **Flattened Graph Convolutional Networks For Recommendation**. (DLP@KDD, 2022)
-  
-  Yue Xu, Hao Chen, Zengde Deng, **<u>Yuanchen Bei</u>**, and Feiran Huang.
-
-  <a href="https://arxiv.org/pdf/2210.07769.pdf"><img src="https://img.shields.io/badge/📃 Paper-green.svg"></a> <img src="https://img.shields.io/badge/🌟 GNNs, RecSys-orange.svg">
-
-**Patents:**
-
-- **Text Sentiment Analysis Method Based on Multi-Level Graph Pooling**. (US Patent, No. 11,687,728, 2023)
-
-  Feiran Huang, Zhiquan Liu, and **<u>Yuanchen Bei</u>**.
-
-- **Social Recommendation Method Based on Multi-Feature Heterogeneous Graph Neural Networks**. (US Patent, No. 11,631,147, 2023)
-
-  Feiran Huang, Guan Liu, and **<u>Yuanchen Bei</u>**.
--->
-
 ---
 
 ## Selected Open-Source Project
@@ -190,24 +116,17 @@ Please kindly reach out to me if you have any questions or cooperation interests
   <a href="https://github.com/YuanchenBei/ColdRec"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, Benchmark-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/ColdRec)
   
 
-- **DGraph-Fin: A Large-Scale Dynamic Graph Anomaly Detection Leaderboard**.
-  
-  <a href="https://dgraph.xinye.com/leaderboards/dgraphfin"><img src="https://img.shields.io/badge/🥈 Top 2 Solution-red.svg"></a> <a href="https://github.com/YuanchenBei/GraphTransformer-DGraphFin"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Graph Anomaly Detection-orange.svg">
-
 
 ---
 
 <span class='anchor' id='-honors-and-awards'></span>
 
 ## Honors and Awards
-- 
-- 2025.02, **Outstanding Graduate** (Master).
-- 2024.12, **Outstanding Reviewer**, KDD 2025. 
-- 2024.11, **National Scholarship** (Top 1%, Master).
-- 2023.11, **First Class Scholarship** (Master).
-- 2022.06, **Outstanding Undergraduate & Thesis** (Bachelor).
-- 2021.12, **National Scholarship** (Top 1%, Bachelor).
-- 2020.05, **First Class Scholarship** (Bachelor).
+- **Outstanding Reviewer** (KDD 2025, TNNLS) 
+- **National Scholarship** (Bachelor, Master)
+- **First Class Scholarship** (Bachelor, Master)
+- **Outstanding Graduate** (Master)
+- **Outstanding Undergraduate** (Bachelor) 
 
 
 <!--<span class='anchor' id='-educations'></span>-->
