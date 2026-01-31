@@ -43,18 +43,22 @@ My research interests mainly include **memory for (M)LLM agents**, **relational 
 
 
 ## Research Highlight
-(Under Construction)
+
 #### Memory for (M)LLM Agents
 - **Long-Term Memory**: [Mem-Gallery](https://arxiv.org/pdf/2601.03515)
 - **Self-Evolving Memory**: [Evo-Memory](https://arxiv.org/pdf/2511.20857)
 
 #### Relational Data Mining
-- **Recommender Systems**: MacGNN (WWW 2024), POGCN (KDD 2024), USIM (NeurIPS 2024 Spotlight), ColdLLM (WSDM 2025)
-- **Graph Anomaly Detection**: RAND (ICDM 2023), G3AD (TNNLS 2025)
+- **Large-Scale Recommender Systems**: [MacGNN](https://dl.acm.org/doi/pdf/10.1145/3589334.3645517) ([Top-10 Influential Paper](https://resources.paperdigest.org/2024/09/most-influential-www-papers-2024-09/) in WWW 2024), [POGCN](https://dl.acm.org/doi/pdf/10.1145/3637528.3671569) (KDD 2024), [AliBoost](https://dl.acm.org/doi/pdf/10.1145/3711896.3737188) (KDD 2025)
+- **Graph Anomaly Detection**: [RAND](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415759) (ICDM 2023), [G3AD](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11017687) (TNNLS 2025)
 
 #### Graph Learning
-- **General GNNs**: CorGCN (KDD 2025), CMGNN (NeurIPS 2025)
-- **Graph Pre-Training**: CPDG (ICDE 2024)
+- **General GNNs**: [CorGCN](https://dl.acm.org/doi/pdf/10.1145/3690624.3709197) (KDD 2025), [CMGNN](https://openreview.net/pdf/0447b73eb0fd4156c928c524b67af251008e70a4.pdf) (NeurIPS 2025)
+- **Graph Pre-Training**: [CPDG](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10598011) (ICDE 2024)
+
+#### Computational Social Science
+- **E-Commerce Popularity Bias**: [USIM](https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf) (NeurIPS 2024 Spotlight), [ColdLLM](https://dl.acm.org/doi/pdf/10.1145/3701551.3703546) (WSDM 2025)
+- **AI for Social Good**
 
 ---
 
