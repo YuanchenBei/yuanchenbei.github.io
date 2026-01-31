@@ -189,9 +189,6 @@ Please kindly reach out to me if you have any questions or cooperation interests
   
   <a href="https://github.com/YuanchenBei/ColdRec"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 Cold Start RecSys, Benchmark-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/ColdRec)
   
-- **DreamerGPT: Instruction-Tuning for Large Language Model with Chinese Corpus**.
-  
-  <a href="https://github.com/DreamerGPT/DreamerGPT"><img src="https://img.shields.io/badge/🖥 Code-yellow.svg"></a> <img src="https://img.shields.io/badge/🌟 LLMs, Instruction Tuning-orange.svg"> ![GitHub stars](https://img.shields.io/github/stars/DreamerGPT/DreamerGPT)
 
 - **DGraph-Fin: A Large-Scale Dynamic Graph Anomaly Detection Leaderboard**.
   
@@ -203,6 +200,7 @@ Please kindly reach out to me if you have any questions or cooperation interests
 <span class='anchor' id='-honors-and-awards'></span>
 
 ## Honors and Awards
+- 
 - 2025.02, **Outstanding Graduate** (Master).
 - 2024.12, **Outstanding Reviewer**, KDD 2025. 
 - 2024.11, **National Scholarship** (Top 1%, Master).
@@ -232,11 +230,10 @@ Please kindly reach out to me if you have any questions or cooperation interests
 <span class='anchor' id='-experiences'></span>
 
 ## Experiences
-- 2022.09 - 2025.03, Research Assistant, Eagle Lab@Zhejiang University, Hangzhou, China.
-- 2024.06 - 2024.10, Research Assistant, DEEP Lab@The Hong Kong Polytechnic University, Hong Kong SAR, China.
-- 2023.05 - 2023.11, Research Intern, CRO Security Technology Team@Alibaba Group, Hangzhou, China.
-- 2022.02 - 2022.08, Research Intern, NLP Center@Meituan, Beijing, China.
-- 2019.10 - 2022.01, Research Assistant, RecSys Group@Jinan University, Guangzhou, China.
+- 2025.03 - 2025.06, Research Intern, Alibaba Group, Hangzhou, China.
+- 2024.06 - 2024.10, Research Assistant, The Hong Kong Polytechnic University, Hong Kong SAR, China.
+- 2023.05 - 2023.11, Research Intern, Alibaba Group, Hangzhou, China.
+- 2022.02 - 2022.08, Research Intern, Meituan, Beijing, China.
 
 <br>
 
