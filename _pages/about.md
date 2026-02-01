@@ -85,13 +85,6 @@ My research interests mainly include **memory for (M)LLM agents**, **relational 
 - **Outstanding Undergraduate** (Bachelor) 
 
 
-<!--<span class='anchor' id='-educations'></span>-->
-
-<!--# 📖 Educations-->
-<!-- - *2022.09 - 2025.03 (expected)*, Master, [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China.-->
-<!-- - *2018.09 - 2022.06*, Undergraduate, [Jinan University](https://english.jnu.edu.cn/), Guangzhou, China.-->
-
-
 ---
 <span class='anchor' id='-academic-services'></span>
 
@@ -111,26 +104,3 @@ My research interests mainly include **memory for (M)LLM agents**, **relational 
 - 2022.02 - 2022.08, Research Intern, Meituan, Beijing, China.
 
 <br>
-
-<style>
-  .view_map {
-    position: relative;
-    width: 300px; /* 设置Clustermap的宽度 */
-    height: 300px; /* 设置Clustermap的高度 */
-    margin: auto; /* 使容器在页面中居中 */
-    overflow: hidden; /* 防止内容溢出 */
-  }
-  /* 由于Clustermap是通过JavaScript插入的，我们可以通过其id选择器来设置样式 */
-  #clustrmaps {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%; /* 设置Clustermap的宽度 */
-    height: 100%; /* 设置Clustermap的高度 */
-  }
-</style>
-
-<div class="view_map">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=E60zzjtnPC8oHVWucMY0taRLS2AF5THX_Xmr-TES7RU&co=227fc1'></script>
-</div>
