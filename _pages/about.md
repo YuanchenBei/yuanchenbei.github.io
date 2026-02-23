@@ -91,7 +91,7 @@ My research interests mainly include **memory for generative agents**, **relatio
 
 ## Academic Services
 - **Conference Reviewer:** ICLR (2025-2026), KDD (2024-2026), ICML 2026, WWW 2026, WSDM 2026, MM (2025-2026), SIGIR 2025, SIGIR-AP 2025, CIKM 2025, ECAI 2024.
-- **Journal Reviewer:** ACM TKDD, IEEE TKDE, IEEE TNNLS, IEEE TII, IEEE TIP.
+- **Journal Reviewer:** ACM TKDD, ACM CSUR, IEEE TKDE, IEEE TNNLS, IEEE TII, IEEE TIP.
 
 
 ---
