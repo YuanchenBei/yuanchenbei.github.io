@@ -41,9 +41,9 @@ My research interests mainly include **memory for generative agents**, **relatio
 
 
 ## Research Highlight
-🤝 **Open to collaboration**: Please kindly reach out to me if you have cooperation interests in related topics!
+🤝 **Open to collaboration**: Please kindly reach out to me if you have cooperation interests in related directions and topics!
 #### Memory for Generative Agents
-- **Long-Term Memory**: [Mem-Gallery](https://arxiv.org/pdf/2601.03515)
+- **Long-Term Memory**: [Mem-Gallery](https://arxiv.org/pdf/2601.03515) (ACL 2026)
 - **Self-Evolving Memory**: [Evo-Memory](https://arxiv.org/pdf/2511.20857)
 
 #### Relational Data Mining
@@ -90,7 +90,7 @@ My research interests mainly include **memory for generative agents**, **relatio
 
 
 ## Academic Services
-- **Conference Reviewer:** ICLR (2025-2026), KDD (2024-2026), ICML 2026, WWW 2026, WSDM 2026, MM (2025-2026), SIGIR 2025, SIGIR-AP 2025, CIKM 2025, ECAI 2024.
+- **Conference Program Committee Member:** ICLR (2025-2026), KDD (2024-2026), NeurIPS 2026, ICML 2026, WWW 2026, WSDM 2026, MM (2025-2026), CIKM (2025-2026), SIGIR 2025, SIGIR-AP 2025, ECAI 2024.
 - **Journal Reviewer:** ACM TKDD, ACM CSUR, IEEE TKDE, IEEE TNNLS, IEEE TII, IEEE TIP.
 
 
