@@ -107,3 +107,158 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ==========================================================================
+   Typography & Color Refinements
+   ========================================================================== */
+
+/* Body: Source Serif 4, slightly larger base, better line-height */
+body {
+    font-family: "Source Serif 4", Georgia, serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #374151;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings: Inter for clean, modern academic look */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-weight: 600;
+    color: #1f2937;
+    letter-spacing: -0.02em;
+}
+
+h2 {
+    font-size: 1.25em;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 1.05em;
+    font-weight: 600;
+}
+
+/* Links: cleaner blue, smooth underline on hover */
+a {
+    color: #2563eb;
+    text-decoration: none;
+    transition: color 0.15s ease;
+
+    &:hover {
+        color: #1d4ed8;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+    }
+}
+
+/* Navigation bar: Inter, tighter and crisper */
+.masthead {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+    backdrop-filter: blur(8px);
+
+    &__inner-wrap {
+        font-family: "Inter", sans-serif;
+        font-size: 0.875rem;
+        font-weight: 500;
+        letter-spacing: 0.01em;
+    }
+}
+
+.greedy-nav {
+    a {
+        font-family: "Inter", sans-serif;
+        font-weight: 500;
+        color: #374151;
+        letter-spacing: 0.01em;
+
+        &:hover {
+            color: #2563eb;
+            text-decoration: none;
+        }
+    }
+
+    .visible-links a {
+        &:before {
+            background: #2563eb;
+        }
+    }
+}
+
+/* Sidebar author name: Inter bold */
+.author__name {
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: #1f2937;
+}
+
+.author__bio {
+    font-family: "Inter", sans-serif;
+    font-size: 0.875rem;
+    color: #6b7280;
+    line-height: 1.5;
+}
+
+/* Sidebar social links */
+.author__urls {
+    font-family: "Inter", sans-serif;
+    font-size: 0.875rem;
+
+    a {
+        color: #4b5563;
+        &:hover {
+            color: #2563eb;
+            text-decoration: none;
+        }
+    }
+}
+
+/* Horizontal rules: fade out gracefully */
+hr {
+    border: none;
+    border-top: 1px solid #e5e7eb;
+    margin: 1.5em 0;
+}
+
+/* Inline code: cleaner look */
+p > code,
+a > code,
+li > code {
+    font-family: "SFMono-Regular", Monaco, Consolas, monospace;
+    font-size: 0.85em;
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    border-radius: 4px;
+    padding: 0.1em 0.4em;
+    color: #1e3a5f;
+}
+
+/* Page main content area: comfortable reading width */
+.page__content {
+    font-size: 1rem;
+    line-height: 1.75;
+
+    p, li {
+        font-family: "Source Serif 4", Georgia, serif;
+        color: #374151;
+    }
+
+    strong {
+        font-weight: 600;
+        color: #1f2937;
+    }
+}
+
+/* Avatar: subtle shadow instead of border */
+.author__avatar img {
+    border: none !important;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+    transition: box-shadow 0.2s ease;
+
+    &:hover {
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.18);
+    }
+}
