@@ -53,7 +53,7 @@ My research interests mainly include **memory for generative agents**, **relatio
 - **Self-Evolving Memory**: [Evo-Memory](https://arxiv.org/pdf/2511.20857)
 
 #### Relational Data Mining
-- **Large-Scale Recommender Systems**: [MacGNN](https://dl.acm.org/doi/pdf/10.1145/3589334.3645517) <span class="venue venue-top">WWW 2024</span>, [POGCN](https://dl.acm.org/doi/pdf/10.1145/3637528.3671569) <span class="venue venue-top">KDD 2024</span>, [AliBoost](https://dl.acm.org/doi/pdf/10.1145/3711896.3737188) <span class="venue venue-top">KDD 2025</span>
+- **Large-Scale Recommender Systems**: [MacGNN](https://dl.acm.org/doi/pdf/10.1145/3589334.3645517) <span class="venue venue-top">[Top-10 Influential Paper | WWW 2024](https://resources.paperdigest.org/2024/09/most-influential-www-papers-2024-09/)</span>, [POGCN](https://dl.acm.org/doi/pdf/10.1145/3637528.3671569) <span class="venue venue-top">KDD 2024</span>, [AliBoost](https://dl.acm.org/doi/pdf/10.1145/3711896.3737188) <span class="venue venue-top">KDD 2025</span>
 - **Graph Anomaly Detection**: [RAND](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415759) <span class="venue venue-top">ICDM 2023</span>, [G3AD](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11017687) <span class="venue venue-top">TNNLS 2025</span>
 
 #### Graph Learning
@@ -61,7 +61,7 @@ My research interests mainly include **memory for generative agents**, **relatio
 - **Graph Pre-Training**: [CPDG](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10598011) <span class="venue venue-top">ICDE 2024</span>
 
 #### Computational Social Science
-- **E-Commerce Popularity Bias**: [USIM](https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf) <span class="venue venue-top">NeurIPS 2024</span> <span class="venue venue-spotlight">Spotlight</span>, [ColdLLM](https://dl.acm.org/doi/pdf/10.1145/3701551.3703546) <span class="venue venue-top">WSDM 2025</span>
+- **E-Commerce Popularity Bias**: [USIM](https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf) <span class="venue venue-top">Spotlight | NeurIPS 2024</span>, [ColdLLM](https://dl.acm.org/doi/pdf/10.1145/3701551.3703546) <span class="venue venue-top">WSDM 2025</span>
 - **AI for Social Good**
 
 ---
