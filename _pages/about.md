@@ -79,7 +79,7 @@ My research interests mainly include <span class="kw">memory for generative agen
 <div class="project-card">
   <div class="project-card__body">
     <div class="project-card__title"><a href="https://github.com/YuanchenBei/ColdRec">ColdRec</a></div>
-    <div class="project-card__desc">A Comprehensive Benchmark for Cold-Start Recommendation. Including 20+ cold-start recommendation models with comprehensive evaluations.</div>
+    <div class="project-card__desc">Benchmarking Cold-Start Recommendation. Including 20+ cold-start recommendation models with comprehensive evaluations.</div>
   </div>
   <div class="project-card__badge"><img src="https://img.shields.io/github/stars/YuanchenBei/ColdRec" alt="stars"></div>
 </div>
