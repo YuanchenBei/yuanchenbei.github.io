@@ -112,6 +112,180 @@ h1:before, .anchor:before {
    Typography & Color Refinements
    ========================================================================== */
 
+/* ==========================================================================
+   Section Headings: left blue bar
+   ========================================================================== */
+
+.page__content h2 {
+    font-family: "Inter", sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #1f2937;
+    letter-spacing: -0.01em;
+    padding-left: 0.75em;
+    border-left: 3px solid #2563eb;
+    border-bottom: none !important; /* override h1 bottom border from _page.scss */
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
+}
+
+/* Sub-category headings (####): small caps label style */
+.page__content h4 {
+    font-family: "Inter", sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: #6b7280;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-top: 1.2em;
+    margin-bottom: 0.3em;
+    border-bottom: none;
+}
+
+/* ==========================================================================
+   Conference / venue badges inside content
+   ========================================================================== */
+
+/* Inline venue tags like (ACL 2026), (NeurIPS 2024 Spotlight) etc.
+   Wrap them in <span class="venue">...</span> in about.md */
+.venue {
+    display: inline-block;
+    font-family: "Inter", sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    padding: 0.15em 0.55em;
+    border-radius: 4px;
+    vertical-align: middle;
+    margin-left: 0.3em;
+    line-height: 1.6;
+    white-space: nowrap;
+}
+
+.venue-top {
+    background-color: #dbeafe;
+    color: #1d4ed8;
+}
+
+.venue-spotlight {
+    background-color: #fef3c7;
+    color: #92400e;
+}
+
+/* ==========================================================================
+   News: timeline style
+   ========================================================================== */
+
+.news-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    position: relative;
+
+    /* vertical line */
+    &::before {
+        content: '';
+        position: absolute;
+        left: 5.5rem;
+        top: 0.6em;
+        bottom: 0.4em;
+        width: 1px;
+        background: #e5e7eb;
+    }
+
+    li {
+        display: flex;
+        align-items: flex-start;
+        gap: 1.2em;
+        margin-bottom: 0.85em;
+        position: relative;
+
+        .news-date {
+            flex-shrink: 0;
+            width: 5rem;
+            font-family: "Inter", sans-serif;
+            font-size: 0.72rem;
+            font-weight: 600;
+            color: #2563eb;
+            background: #eff6ff;
+            border-radius: 4px;
+            padding: 0.15em 0.4em;
+            text-align: center;
+            margin-top: 0.2em;
+            letter-spacing: 0.02em;
+        }
+
+        /* dot on the line */
+        &::after {
+            content: '';
+            position: absolute;
+            left: 5.1rem;
+            top: 0.6em;
+            width: 9px;
+            height: 9px;
+            border-radius: 50%;
+            background: #2563eb;
+            border: 2px solid #fff;
+            box-shadow: 0 0 0 1px #2563eb;
+        }
+
+        .news-content {
+            flex: 1;
+            font-family: "Source Serif 4", Georgia, serif;
+            font-size: 0.95rem;
+            color: #374151;
+            line-height: 1.6;
+        }
+    }
+}
+
+/* ==========================================================================
+   Experiences: timeline style
+   ========================================================================== */
+
+.exp-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    position: relative;
+    border-left: 1px solid #e5e7eb;
+    padding-left: 1.5em;
+
+    li {
+        position: relative;
+        margin-bottom: 0.9em;
+
+        /* dot */
+        &::before {
+            content: '';
+            position: absolute;
+            left: -1.84em;
+            top: 0.45em;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #fff;
+            border: 2px solid #2563eb;
+        }
+
+        .exp-period {
+            font-family: "Inter", sans-serif;
+            font-size: 0.72rem;
+            font-weight: 600;
+            color: #6b7280;
+            display: block;
+            margin-bottom: 0.05em;
+        }
+
+        .exp-content {
+            font-family: "Source Serif 4", Georgia, serif;
+            font-size: 0.95rem;
+            color: #374151;
+            line-height: 1.5;
+        }
+    }
+}
+
 /* Body: Source Serif 4, slightly larger base, better line-height */
 body {
     font-family: "Source Serif 4", Georgia, serif;

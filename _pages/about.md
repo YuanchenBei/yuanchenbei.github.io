@@ -33,7 +33,13 @@ My research interests mainly include **memory for generative agents**, **relatio
 
 
 ## News
-- 2026.01: 📖 Our new benchmark on "*Multimodal Long-Term Memory for MLLM Agents*" is available [here](https://arxiv.org/pdf/2601.03515).
+
+<ul class="news-list">
+  <li>
+    <span class="news-date">2026.01</span>
+    <span class="news-content">Our new benchmark on <em>Multimodal Long-Term Memory for MLLM Agents</em> is available <a href="https://arxiv.org/pdf/2601.03515">here</a>.</span>
+  </li>
+</ul>
 
 
 ---
@@ -43,19 +49,19 @@ My research interests mainly include **memory for generative agents**, **relatio
 ## Research Highlight
 🤝 **Open to collaboration**: Please kindly reach out to me if you have cooperation interests in related directions and topics!
 #### Memory for Generative Agents
-- **Long-Term Memory**: [Mem-Gallery](https://arxiv.org/pdf/2601.03515) (ACL 2026)
+- **Long-Term Memory**: [Mem-Gallery](https://arxiv.org/pdf/2601.03515) <span class="venue venue-top">ACL 2026</span>
 - **Self-Evolving Memory**: [Evo-Memory](https://arxiv.org/pdf/2511.20857)
 
 #### Relational Data Mining
-- **Large-Scale Recommender Systems**: [MacGNN](https://dl.acm.org/doi/pdf/10.1145/3589334.3645517) ([Top-10 Influential Paper](https://resources.paperdigest.org/2024/09/most-influential-www-papers-2024-09/) in WWW 2024), [POGCN](https://dl.acm.org/doi/pdf/10.1145/3637528.3671569) (KDD 2024), [AliBoost](https://dl.acm.org/doi/pdf/10.1145/3711896.3737188) (KDD 2025)
-- **Graph Anomaly Detection**: [RAND](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415759) (ICDM 2023), [G3AD](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11017687) (TNNLS 2025)
+- **Large-Scale Recommender Systems**: [MacGNN](https://dl.acm.org/doi/pdf/10.1145/3589334.3645517) <span class="venue venue-top">WWW 2024</span>, [POGCN](https://dl.acm.org/doi/pdf/10.1145/3637528.3671569) <span class="venue venue-top">KDD 2024</span>, [AliBoost](https://dl.acm.org/doi/pdf/10.1145/3711896.3737188) <span class="venue venue-top">KDD 2025</span>
+- **Graph Anomaly Detection**: [RAND](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415759) <span class="venue venue-top">ICDM 2023</span>, [G3AD](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11017687) <span class="venue venue-top">TNNLS 2025</span>
 
 #### Graph Learning
-- **General GNNs**: [CorGCN](https://dl.acm.org/doi/pdf/10.1145/3690624.3709197) (KDD 2025), [CMGNN](https://openreview.net/pdf/0447b73eb0fd4156c928c524b67af251008e70a4.pdf) (NeurIPS 2025)
-- **Graph Pre-Training**: [CPDG](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10598011) (ICDE 2024)
+- **General GNNs**: [CorGCN](https://dl.acm.org/doi/pdf/10.1145/3690624.3709197) <span class="venue venue-top">KDD 2025</span>, [CMGNN](https://openreview.net/pdf/0447b73eb0fd4156c928c524b67af251008e70a4.pdf) <span class="venue venue-top">NeurIPS 2025</span>
+- **Graph Pre-Training**: [CPDG](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10598011) <span class="venue venue-top">ICDE 2024</span>
 
 #### Computational Social Science
-- **E-Commerce Popularity Bias**: [USIM](https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf) (NeurIPS 2024 Spotlight), [ColdLLM](https://dl.acm.org/doi/pdf/10.1145/3701551.3703546) (WSDM 2025)
+- **E-Commerce Popularity Bias**: [USIM](https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf) <span class="venue venue-top">NeurIPS 2024</span> <span class="venue venue-spotlight">Spotlight</span>, [ColdLLM](https://dl.acm.org/doi/pdf/10.1145/3701551.3703546) <span class="venue venue-top">WSDM 2025</span>
 - **AI for Social Good**
 
 ---
@@ -98,9 +104,24 @@ My research interests mainly include **memory for generative agents**, **relatio
 <span class='anchor' id='-experiences'></span>
 
 ## Experiences
-- 2025.03 - 2025.06, Research Intern, Alibaba Group, Hangzhou, China.
-- 2024.06 - 2024.10, Research Assistant, The Hong Kong Polytechnic University, Hong Kong SAR, China.
-- 2023.05 - 2023.11, Research Intern, Alibaba Group, Hangzhou, China.
-- 2022.02 - 2022.08, Research Intern, Meituan, Beijing, China.
+
+<ul class="exp-list">
+  <li>
+    <span class="exp-period">2025.03 – 2025.06</span>
+    <span class="exp-content">Research Intern, <strong>Alibaba Group</strong>, Hangzhou, China.</span>
+  </li>
+  <li>
+    <span class="exp-period">2024.06 – 2024.10</span>
+    <span class="exp-content">Research Assistant, <strong>The Hong Kong Polytechnic University</strong>, Hong Kong SAR, China.</span>
+  </li>
+  <li>
+    <span class="exp-period">2023.05 – 2023.11</span>
+    <span class="exp-content">Research Intern, <strong>Alibaba Group</strong>, Hangzhou, China.</span>
+  </li>
+  <li>
+    <span class="exp-period">2022.02 – 2022.08</span>
+    <span class="exp-content">Research Intern, <strong>Meituan</strong>, Beijing, China.</span>
+  </li>
+</ul>
 
 <br>
