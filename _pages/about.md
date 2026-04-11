@@ -20,7 +20,7 @@ redirect_from:
 ## Yuanchen Bei
 I am a Ph.D. Student at the University of Illinois Urbana-Champaign, advised by Prof. Hanghang Tong.
 
-My research interests mainly include **memory for generative agents**, **relational data mining**,  **graph learning**, and **computational social science**. In my free time, I am also interested in finance and economics. 
+My research interests mainly include <span class="kw">memory for generative agents</span>, <span class="kw">relational data mining</span>, <span class="kw">graph learning</span>, and <span class="kw">computational social science</span>. In my free time, I am also interested in finance and economics.
 
 
 <!--
@@ -67,16 +67,46 @@ My research interests mainly include **memory for generative agents**, **relatio
 ---
 
 ## Selected Open-Source Project
- 
-- **Mem-gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents**. *Including 10+ memory models with a new evaluation dataset.* ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Mem-Gallery)
 
-- **ColdRec: A Comprehensive Benchmark for Cold-Start Recommendation**. *Including 20+ cold-start recommendation models with comprehensive evaluations.* ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/ColdRec)
+<div class="project-card">
+  <div class="project-card__body">
+    <div class="project-card__title"><a href="https://github.com/YuanchenBei/Mem-Gallery">Mem-Gallery</a></div>
+    <div class="project-card__desc">Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents. Including 10+ memory models with a new evaluation dataset.</div>
+  </div>
+  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/YuanchenBei/Mem-Gallery" alt="stars"></div>
+</div>
 
-- **Graph for AI Agents Literature Library** ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Graphs-Meet-Agents)
+<div class="project-card">
+  <div class="project-card__body">
+    <div class="project-card__title"><a href="https://github.com/YuanchenBei/ColdRec">ColdRec</a></div>
+    <div class="project-card__desc">A Comprehensive Benchmark for Cold-Start Recommendation. Including 20+ cold-start recommendation models with comprehensive evaluations.</div>
+  </div>
+  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/YuanchenBei/ColdRec" alt="stars"></div>
+</div>
 
-- **GraphRAG Literature Library** ![GitHub stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG)
+<div class="project-card">
+  <div class="project-card__body">
+    <div class="project-card__title"><a href="https://github.com/YuanchenBei/Awesome-Graphs-Meet-Agents">Graph for AI Agents Literature Library</a></div>
+    <div class="project-card__desc">A curated reading list of papers on graphs meeting AI agents.</div>
+  </div>
+  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/YuanchenBei/Awesome-Graphs-Meet-Agents" alt="stars"></div>
+</div>
 
-- **Cold-Start Recommendation Literature Library** ![GitHub stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation)
+<div class="project-card">
+  <div class="project-card__body">
+    <div class="project-card__title"><a href="https://github.com/DEEP-PolyU/Awesome-GraphRAG">GraphRAG Literature Library</a></div>
+    <div class="project-card__desc">A curated reading list of papers on graph-based retrieval-augmented generation.</div>
+  </div>
+  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG" alt="stars"></div>
+</div>
+
+<div class="project-card">
+  <div class="project-card__body">
+    <div class="project-card__title"><a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation">Cold-Start Recommendation Literature Library</a></div>
+    <div class="project-card__desc">A curated reading list of papers on cold-start recommendation.</div>
+  </div>
+  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation" alt="stars"></div>
+</div>
 
 
 ---

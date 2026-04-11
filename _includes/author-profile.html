@@ -10,18 +10,35 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if site.description %}
+      <p class="author__institution">{{ site.description }}</p>
+    {% endif %}
+    {% if author.location %}
+      <p class="author__location"><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</p>
+    {% endif %}
+    <div class="author__divider"></div>
+    <!-- Icon row: most important links -->
+    <div class="author__icon-row">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}" title="Email"><i class="fas fa-envelope"></i></a>
+      {% endif %}
+      {% if author.googlescholar %}
+        <a href="{{ author.googlescholar }}" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+      {% endif %}
+      {% if author.github %}
+        <a href="https://github.com/{{ author.github }}" title="GitHub"><i class="fab fa-github"></i></a>
+      {% endif %}
+      {% if author.linkedin %}
+        <a href="https://www.linkedin.com/in/{{ author.linkedin }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+      {% endif %}
+      {% if author.twitter %}
+        <a href="https://twitter.com/{{ author.twitter }}" title="Twitter"><i class="fab fa-twitter"></i></a>
+      {% endif %}
+    </div>
   </div>
 
   <div class="author__urls-wrapper">
-    <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
-      {% endif %}
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
