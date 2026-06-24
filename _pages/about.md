@@ -182,19 +182,19 @@ My research interests mainly include <span class="kw">memory for generative agen
 <ul class="exp-list">
   <li>
     <span class="exp-period">2025.03 – 2025.06</span>
-    <span class="exp-detail"><span class="exp-logo exp-logo--alibaba"><img src="images/alibaba-logo.svg" alt="Alibaba Group logo"></span><span class="exp-content">Research Intern, <strong>Alibaba Group</strong>, Hangzhou, China.</span></span>
+    <span class="exp-detail"><span class="exp-logo exp-logo--alibaba"><img src="images/alibaba-logo.svg" alt="Alibaba Group logo" width="42" height="16"></span><span class="exp-content">Research Intern, <strong>Alibaba Group</strong>, Hangzhou, China.</span></span>
   </li>
   <li>
     <span class="exp-period">2024.06 – 2024.10</span>
-    <span class="exp-detail"><span class="exp-logo exp-logo--polyu"><img src="images/polyu-logo.svg" alt="The Hong Kong Polytechnic University logo"></span><span class="exp-content">Research Assistant, <strong>The Hong Kong Polytechnic University</strong>, Hong Kong SAR, China.</span></span>
+    <span class="exp-detail"><span class="exp-logo exp-logo--polyu"><img src="images/polyu-logo.svg" alt="The Hong Kong Polytechnic University logo" width="18" height="18"></span><span class="exp-content">Research Assistant, <strong>The Hong Kong Polytechnic University</strong>, Hong Kong SAR, China.</span></span>
   </li>
   <li>
     <span class="exp-period">2023.05 – 2023.11</span>
-    <span class="exp-detail"><span class="exp-logo exp-logo--alibaba"><img src="images/alibaba-logo.svg" alt="Alibaba Group logo"></span><span class="exp-content">Research Intern, <strong>Alibaba Group</strong>, Hangzhou, China.</span></span>
+    <span class="exp-detail"><span class="exp-logo exp-logo--alibaba"><img src="images/alibaba-logo.svg" alt="Alibaba Group logo" width="42" height="16"></span><span class="exp-content">Research Intern, <strong>Alibaba Group</strong>, Hangzhou, China.</span></span>
   </li>
   <li>
     <span class="exp-period">2022.02 – 2022.08</span>
-    <span class="exp-detail"><span class="exp-logo exp-logo--meituan"><img src="images/meituan-icon.png" alt="Meituan logo"></span><span class="exp-content">Research Intern, <strong>Meituan</strong>, Beijing, China.</span></span>
+    <span class="exp-detail"><span class="exp-logo exp-logo--meituan"><img src="images/meituan-icon.png" alt="Meituan logo" width="18" height="18"></span><span class="exp-content">Research Intern, <strong>Meituan</strong>, Beijing, China.</span></span>
   </li>
 </ul>
 

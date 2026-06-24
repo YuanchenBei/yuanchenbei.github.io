@@ -288,20 +288,24 @@ h1:before, .anchor:before {
             display: inline-flex;
             align-items: center;
             justify-content: flex-start;
-            width: 2.7rem;
-            height: 1.35rem;
-            margin-top: 0.12em;
+            width: 2.45rem;
+            height: 1.1rem;
+            margin-top: 0.18em;
 
             img {
                 display: block;
-                max-width: 100%;
-                max-height: 1.25rem;
+                width: auto !important;
+                height: 1rem !important;
+                max-width: 2.45rem !important;
+                max-height: 1rem !important;
                 object-fit: contain;
             }
 
             &--polyu img,
             &--meituan img {
-                max-width: 1.25rem;
+                width: 1rem !important;
+                height: 1rem !important;
+                max-width: 1rem !important;
             }
 
             &--meituan img {
