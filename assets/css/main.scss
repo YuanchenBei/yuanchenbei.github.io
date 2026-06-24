@@ -247,10 +247,16 @@ h1:before, .anchor:before {
     list-style: none;
     padding-left: 0;
     margin: 0;
+    border-left-color: #e5e7eb;
 
     li {
         margin-bottom: 0.85em;
         padding-left: 0;
+
+        &::before {
+            border-color: #6b7280;
+            box-shadow: none;
+        }
 
         .exp-heading {
             display: flex;
@@ -264,26 +270,56 @@ h1:before, .anchor:before {
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            width: 2.45rem;
+            width: 1.65rem;
             height: 1.1rem;
 
             img {
                 display: block;
                 width: auto !important;
                 height: 1rem !important;
-                max-width: 2.45rem !important;
+                max-width: 1.65rem !important;
                 max-height: 1rem !important;
                 object-fit: contain;
             }
 
+            &--alibaba {
+                justify-content: flex-start;
+                overflow: hidden;
+
+                img {
+                    width: 7.8rem !important;
+                    max-width: none !important;
+                }
+            }
+
+            &--uiuc,
+            &--zju {
+                justify-content: flex-start;
+                overflow: hidden;
+
+                img {
+                    max-width: none !important;
+                }
+            }
+
+            &--uiuc img {
+                width: 5.45rem !important;
+            }
+
+            &--zju img {
+                width: 2.25rem !important;
+            }
+
             &--polyu img,
-            &--meituan img {
+            &--meituan img,
+            &--jnu img {
                 width: 1rem !important;
                 height: 1rem !important;
                 max-width: 1rem !important;
             }
 
-            &--meituan img {
+            &--meituan img,
+            &--jnu img {
                 border-radius: 4px;
             }
         }
@@ -302,8 +338,23 @@ h1:before, .anchor:before {
             font-size: 0.9rem;
             color: #6b7280;
             line-height: 1.5;
-            margin-left: 3.2rem;
+            margin-left: 2.4rem;
         }
+    }
+}
+
+.exp-group {
+    margin-bottom: 1em;
+
+    &__title {
+        font-family: "Inter", sans-serif;
+        font-size: 0.76rem;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        color: #6b7280;
+        margin: 0 0 0.45em 0;
+        border-bottom: none;
     }
 }
 
@@ -645,6 +696,15 @@ li > code {
         border-radius: 4px;
         padding: 0.08em 0.38em;
         margin-left: 0.4em;
+    }
+
+    &__count {
+        font-family: "Inter", sans-serif;
+        font-size: 0.72rem;
+        font-weight: 600;
+        color: #94a3b8;
+        margin-left: 0.35em;
+        vertical-align: middle;
     }
 
     &__label {

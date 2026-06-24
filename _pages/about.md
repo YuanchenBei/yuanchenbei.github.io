@@ -155,8 +155,8 @@ My research interests mainly include <span class="kw">memory for generative agen
 
 <ul class="info-list">
   <li>Outstanding Reviewer <span class="info-list__note">KDD 2025, TNNLS</span></li>
-  <li>National Scholarship <span class="info-list__note">Bachelor, Master</span></li>
-  <li>First Class Scholarship <span class="info-list__note">Bachelor, Master</span></li>
+  <li>National Scholarship <span class="info-list__note">Bachelor, Master</span><span class="info-list__count">x2</span></li>
+  <li>First Class Scholarship <span class="info-list__note">Bachelor, Master</span><span class="info-list__count">x2</span></li>
   <li>Outstanding Graduate <span class="info-list__note">Master</span></li>
   <li>Outstanding Undergraduate <span class="info-list__note">Bachelor</span></li>
 </ul>
@@ -179,6 +179,8 @@ My research interests mainly include <span class="kw">memory for generative agen
 
 ## Experiences
 
+<div class="exp-group">
+<h3 class="exp-group__title">Internship</h3>
 <ul class="exp-list">
   <li>
     <span class="exp-heading"><span class="exp-logo exp-logo--alibaba"><img src="images/alibaba-logo.svg" alt="Alibaba Group logo" width="42" height="16"></span><strong class="exp-company">Alibaba Group</strong></span>
@@ -193,5 +195,24 @@ My research interests mainly include <span class="kw">memory for generative agen
     <span class="exp-detail">Research Intern · 2022.02 – 2022.08 · Beijing, China</span>
   </li>
 </ul>
+</div>
+
+<div class="exp-group">
+<h3 class="exp-group__title">Education</h3>
+<ul class="exp-list">
+  <li>
+    <span class="exp-heading"><span class="exp-logo exp-logo--uiuc"><img src="images/uiuc-logo.svg" alt="University of Illinois Urbana-Champaign logo" width="42" height="16"></span><strong class="exp-company">University of Illinois Urbana-Champaign</strong></span>
+    <span class="exp-detail">Ph.D. Student</span>
+  </li>
+  <li>
+    <span class="exp-heading"><span class="exp-logo exp-logo--zju"><img src="images/zju-logo.svg" alt="Zhejiang University logo" width="32" height="18"></span><strong class="exp-company">Zhejiang University</strong></span>
+    <span class="exp-detail">M.Eng.</span>
+  </li>
+  <li>
+    <span class="exp-heading"><span class="exp-logo exp-logo--jnu"><img src="images/jnu-logo.svg" alt="Jinan University logo" width="18" height="18"></span><strong class="exp-company">Jinan University</strong></span>
+    <span class="exp-detail">B.S.</span>
+  </li>
+</ul>
+</div>
 
 <br>
