@@ -259,10 +259,7 @@ h1:before, .anchor:before {
         }
 
         .exp-heading {
-            display: flex;
-            align-items: center;
-            gap: 0.75em;
-            flex-wrap: wrap;
+            display: block;
             margin-bottom: 0.08em;
         }
 
@@ -273,6 +270,8 @@ h1:before, .anchor:before {
             justify-content: center;
             width: 1.65rem;
             height: 1.1rem;
+            margin-right: 0.75em;
+            vertical-align: -0.12em;
 
             img {
                 display: block;
@@ -301,6 +300,11 @@ h1:before, .anchor:before {
                 img {
                     max-width: none !important;
                 }
+            }
+
+            &--uiuc {
+                width: 0.72rem;
+                margin-right: 1.68em;
             }
 
             &--uiuc img {
