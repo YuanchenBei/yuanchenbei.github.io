@@ -662,29 +662,29 @@ li > code {
     }
 }
 
-/* Per-topic accent colors (border-left + label color) */
+/* Per-topic accent colors: muted multi-hue, low saturation */
 .research-group--memory {
-    border-left-color: #7c3aed;
-    background: #faf5ff;
-    .research-group__title { color: #5b21b6; }
+    border-left-color: #7b6ea6;   /* muted slate-violet */
+    background: #f8f7fb;
+    .research-group__title { color: #5a5080; }
 }
 
 .research-group--relational {
-    border-left-color: #2563eb;
-    background: #eff6ff;
-    .research-group__title { color: #1e40af; }
+    border-left-color: #3a7abf;   /* muted steel-blue */
+    background: #f5f8fc;
+    .research-group__title { color: #2a5f96; }
 }
 
 .research-group--graph {
-    border-left-color: #059669;
-    background: #f0fdf4;
-    .research-group__title { color: #065f46; }
+    border-left-color: #4a9478;   /* muted teal-green */
+    background: #f4faf7;
+    .research-group__title { color: #35715c; }
 }
 
 .research-group--css {
-    border-left-color: #d97706;
-    background: #fffbeb;
-    .research-group__title { color: #92400e; }
+    border-left-color: #b07d4a;   /* muted warm-amber */
+    background: #faf7f3;
+    .research-group__title { color: #8a5f33; }
 }
 
 /* Collaboration callout above the groups */

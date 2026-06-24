@@ -104,23 +104,15 @@ My research interests mainly include <span class="kw">memory for generative agen
       <span class="project-list__tag">Benchmark</span>
       <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/Mem-Gallery" alt="stars">
     </div>
-    <p class="project-list__desc">Benchmarking multimodal long-term conversational memory for MLLM agents. Includes 10+ memory models with a new evaluation dataset.</p>
+    <p class="project-list__desc">Benchmarking multimodal long-term memory for MLLM agents. Includes 10+ memory models with a new evaluation dataset.</p>
   </li>
   <li>
     <div class="project-list__header">
       <a class="project-list__name" href="https://github.com/YuanchenBei/ColdRec">ColdRec</a>
-      <span class="project-list__tag">Benchmark</span>
+      <span class="project-list__tag">Toolkit</span>
       <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/ColdRec" alt="stars">
     </div>
-    <p class="project-list__desc">Benchmarking cold-start recommendation. Includes 20+ models with comprehensive evaluations across multiple datasets.</p>
-  </li>
-  <li>
-    <div class="project-list__header">
-      <a class="project-list__name" href="https://github.com/YuanchenBei/Awesome-Graphs-Meet-Agents">Awesome-Graphs-Meet-Agents</a>
-      <span class="project-list__tag">Reading List</span>
-      <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/Awesome-Graphs-Meet-Agents" alt="stars">
-    </div>
-    <p class="project-list__desc">A curated reading list of papers on graphs meeting AI agents.</p>
+    <p class="project-list__desc">A unified toolkit for cold-start recommendation. Includes 20+ models with comprehensive evaluations across multiple datasets.</p>
   </li>
   <li>
     <div class="project-list__header">
@@ -137,6 +129,14 @@ My research interests mainly include <span class="kw">memory for generative agen
       <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation" alt="stars">
     </div>
     <p class="project-list__desc">A curated reading list of papers on cold-start recommendation.</p>
+  </li>
+  <li>
+    <div class="project-list__header">
+      <a class="project-list__name" href="https://github.com/YuanchenBei/GraphTransformer-DGraphFin">GraphTransformer-DGraphFin</a>
+      <span class="project-list__tag">Leaderboard Solution</span>
+      <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/GraphTransformer-DGraphFin" alt="stars">
+    </div>
+    <p class="project-list__desc">Top-2 solution for the DGraph-Fin leaderboard on large-scale dynamic graph anomaly detection.</p>
   </li>
 </ul>
 
