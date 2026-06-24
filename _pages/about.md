@@ -201,7 +201,7 @@ My research interests mainly include <span class="kw">memory for generative agen
     <span class="exp-heading"><span class="exp-logo exp-logo--uiuc"><img src="images/uiuc-logo.svg" alt="University of Illinois Urbana-Champaign logo" width="42" height="16"></span><strong class="exp-company">University of Illinois Urbana-Champaign</strong><span class="exp-detail">Ph.D. Student</span></span>
   </li>
   <li>
-    <span class="exp-heading"><span class="exp-logo exp-logo--zju"><img src="images/zju-logo.svg" alt="Zhejiang University logo" width="32" height="18"></span><strong class="exp-company">Zhejiang University</strong><span class="exp-detail">M.Eng.</span></span>
+    <span class="exp-heading"><span class="exp-logo exp-logo--zju"><img src="images/zju-logo.svg" alt="Zhejiang University logo" width="18" height="18"></span><strong class="exp-company">Zhejiang University</strong><span class="exp-detail">M.Eng.</span></span>
   </li>
   <li>
     <span class="exp-heading"><span class="exp-logo exp-logo--jnu"><img src="images/jnu-logo.svg" alt="Jinan University logo" width="18" height="18"></span><strong class="exp-company">Jinan University</strong><span class="exp-detail">B.S.</span></span>

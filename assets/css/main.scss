@@ -292,8 +292,7 @@ h1:before, .anchor:before {
                 }
             }
 
-            &--uiuc,
-            &--zju {
+            &--uiuc {
                 justify-content: flex-start;
                 overflow: hidden;
 
@@ -311,12 +310,9 @@ h1:before, .anchor:before {
                 width: 5.45rem !important;
             }
 
-            &--zju img {
-                width: 2.25rem !important;
-            }
-
             &--polyu img,
             &--meituan img,
+            &--zju img,
             &--jnu img {
                 width: 1rem !important;
                 height: 1rem !important;
@@ -324,6 +320,7 @@ h1:before, .anchor:before {
             }
 
             &--meituan img,
+            &--zju img,
             &--jnu img {
                 border-radius: 4px;
             }
