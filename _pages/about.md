@@ -55,7 +55,7 @@ My research interests mainly include <span class="kw">knowledge management for g
 
 ## Research Highlight
 
-<span class="research-collab">🤝 <strong>Open to collaboration</strong> — reach out if you share interests in any of the directions below!</span>
+<span class="research-collab">🤝 <strong>Open to collaboration</strong> — feel free to reach out if you share interests in any of the directions below!</span>
 
 <div class="research-group research-group--memory">
   <div class="research-group__label">
@@ -147,8 +147,8 @@ My research interests mainly include <span class="kw">knowledge management for g
 
 <ul class="info-list">
   <li>Outstanding Reviewer <span class="info-list__note">KDD 2025, TNNLS</span></li>
-  <li>National Scholarship <span class="info-list__note">Bachelor, Master</span><span class="info-list__count">x2</span></li>
-  <li>First Class Scholarship <span class="info-list__note">Bachelor, Master</span><span class="info-list__count">x2</span></li>
+  <li>National Scholarship <span class="info-list__count">x2</span> <span class="info-list__note">Bachelor, Master</span></li>
+  <li>First Class Scholarship <span class="info-list__count">x2</span> <span class="info-list__note">Bachelor, Master</span></li>
   <li>Outstanding Graduate <span class="info-list__note">Master</span></li>
   <li>Outstanding Undergraduate <span class="info-list__note">Bachelor</span></li>
 </ul>
