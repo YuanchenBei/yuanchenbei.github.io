@@ -47,22 +47,51 @@ My research interests mainly include <span class="kw">memory for generative agen
 
 
 ## Research Highlight
-🤝 **Open to collaboration**: Please kindly reach out to me if you have cooperation interests in related directions and topics!
-#### Memory for Generative Agents
-- **Long-Term Memory**: [Mem-Gallery](https://arxiv.org/pdf/2601.03515) <span class="venue venue-top">ACL 2026</span>
-- **Self-Evolving Memory**: [Evo-Memory](https://arxiv.org/pdf/2511.20857)
 
-#### Relational Data Mining
-- **Large-Scale Recommender Systems**: [MacGNN](https://dl.acm.org/doi/pdf/10.1145/3589334.3645517) <span class="venue venue-top">[Top-10 Influential Paper | WWW 2024](https://resources.paperdigest.org/2024/09/most-influential-www-papers-2024-09/)</span>, [POGCN](https://dl.acm.org/doi/pdf/10.1145/3637528.3671569) <span class="venue venue-top">KDD 2024</span>, [AliBoost](https://dl.acm.org/doi/pdf/10.1145/3711896.3737188) <span class="venue venue-top">KDD 2025</span>
-- **Graph Anomaly Detection**: [RAND](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415759) <span class="venue venue-top">ICDM 2023</span>, [G3AD](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11017687) <span class="venue venue-top">TNNLS 2025</span>
+<span class="research-collab">🤝 <strong>Open to collaboration</strong> — reach out if you share interests in any of the directions below!</span>
 
-#### Graph Learning
-- **General GNNs**: [CorGCN](https://dl.acm.org/doi/pdf/10.1145/3690624.3709197) <span class="venue venue-top">KDD 2025</span>, [CMGNN](https://openreview.net/pdf/0447b73eb0fd4156c928c524b67af251008e70a4.pdf) <span class="venue venue-top">NeurIPS 2025</span>
-- **Graph Pre-Training**: [CPDG](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10598011) <span class="venue venue-top">ICDE 2024</span>
+<div class="research-group research-group--memory">
+  <div class="research-group__label">
+    <span class="research-group__icon">🧠</span>
+    <span class="research-group__title">Memory for Generative Agents</span>
+  </div>
+  <ul>
+    <li><span class="research-subtopic">Long-Term Memory:</span> <a href="https://arxiv.org/pdf/2601.03515">Mem-Gallery</a> <span class="venue venue-top">ACL 2026</span></li>
+    <li><span class="research-subtopic">Self-Evolving Memory:</span> <a href="https://arxiv.org/pdf/2511.20857">Evo-Memory</a> <span class="venue venue-top">Preprint</span></li>
+  </ul>
+</div>
 
-#### Computational Social Science
-- **E-Commerce Popularity Bias**: [USIM](https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf) <span class="venue venue-top">Spotlight | NeurIPS 2024</span>, [ColdLLM](https://dl.acm.org/doi/pdf/10.1145/3701551.3703546) <span class="venue venue-top">WSDM 2025</span>
-- **AI for Social Good**
+<div class="research-group research-group--relational">
+  <div class="research-group__label">
+    <span class="research-group__icon">🔗</span>
+    <span class="research-group__title">Relational Data Mining</span>
+  </div>
+  <ul>
+    <li><span class="research-subtopic">Large-Scale Recommender Systems:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645517">MacGNN</a> <span class="venue venue-top">🔥 Top-10 | WWW 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671569">POGCN</a> <span class="venue venue-top">KDD 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3711896.3737188">AliBoost</a> <span class="venue venue-top">KDD 2025</span></li>
+    <li><span class="research-subtopic">Graph Anomaly Detection:</span> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415759">RAND</a> <span class="venue venue-top">ICDM 2023</span>, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11017687">G3AD</a> <span class="venue venue-top">TNNLS 2025</span></li>
+  </ul>
+</div>
+
+<div class="research-group research-group--graph">
+  <div class="research-group__label">
+    <span class="research-group__icon">📐</span>
+    <span class="research-group__title">Graph Learning</span>
+  </div>
+  <ul>
+    <li><span class="research-subtopic">General GNNs:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3690624.3709197">CorGCN</a> <span class="venue venue-top">KDD 2025</span>, <a href="https://openreview.net/pdf/0447b73eb0fd4156c928c524b67af251008e70a4.pdf">CMGNN</a> <span class="venue venue-top">NeurIPS 2025</span></li>
+    <li><span class="research-subtopic">Graph Pre-Training:</span> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10598011">CPDG</a> <span class="venue venue-top">ICDE 2024</span></li>
+  </ul>
+</div>
+
+<div class="research-group research-group--css">
+  <div class="research-group__label">
+    <span class="research-group__icon">🌐</span>
+    <span class="research-group__title">Computational Social Science</span>
+  </div>
+  <ul>
+    <li><span class="research-subtopic">E-Commerce Popularity Bias:</span> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf">USIM</a> <span class="venue venue-top">Spotlight | NeurIPS 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3701551.3703546">ColdLLM</a> <span class="venue venue-top">WSDM 2025</span></li>
+  </ul>
+</div>
 
 ---
 

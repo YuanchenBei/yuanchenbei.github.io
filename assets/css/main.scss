@@ -563,6 +563,125 @@ li > code {
     }
 }
 
+/* ==========================================================================
+   Research Highlight: grouped topic blocks
+   ========================================================================== */
+
+.research-group {
+    border-left: 3px solid #2563eb;   /* default; overridden per-topic below */
+    background: #fafafa;
+    border-radius: 0 6px 6px 0;
+    padding: 0.75em 1em 0.6em 1em;
+    margin-bottom: 1em;
+
+    /* Topic label row */
+    .research-group__label {
+        display: flex;
+        align-items: center;
+        gap: 0.5em;
+        margin-bottom: 0.45em;
+
+        .research-group__icon {
+            font-size: 1rem;
+            line-height: 1;
+        }
+
+        .research-group__title {
+            font-family: "Inter", sans-serif;
+            font-size: 0.82rem;
+            font-weight: 700;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            color: #374151;
+            margin: 0;
+        }
+    }
+
+    /* Paper list inside the group */
+    ul {
+        list-style: none;
+        padding-left: 0;
+        margin: 0;
+
+        li {
+            font-family: "Source Serif 4", Georgia, serif;
+            font-size: 0.93rem;
+            color: #374151;
+            line-height: 1.6;
+            margin-bottom: 0.35em;
+            padding-left: 0.9em;
+            position: relative;
+
+            &::before {
+                content: "–";
+                position: absolute;
+                left: 0;
+                color: #9ca3af;
+            }
+
+            a {
+                color: #1e40af;
+                font-weight: 500;
+                text-decoration: none;
+
+                &:hover {
+                    text-decoration: underline;
+                    color: #1d4ed8;
+                }
+            }
+
+            /* Sub-topic label (e.g. "Large-Scale Recommender:") */
+            .research-subtopic {
+                font-family: "Inter", sans-serif;
+                font-size: 0.78rem;
+                font-weight: 600;
+                color: #6b7280;
+                margin-right: 0.35em;
+            }
+        }
+    }
+}
+
+/* Per-topic accent colors (border-left + label color) */
+.research-group--memory {
+    border-left-color: #7c3aed;
+    background: #faf5ff;
+    .research-group__title { color: #5b21b6; }
+}
+
+.research-group--relational {
+    border-left-color: #2563eb;
+    background: #eff6ff;
+    .research-group__title { color: #1e40af; }
+}
+
+.research-group--graph {
+    border-left-color: #059669;
+    background: #f0fdf4;
+    .research-group__title { color: #065f46; }
+}
+
+.research-group--css {
+    border-left-color: #d97706;
+    background: #fffbeb;
+    .research-group__title { color: #92400e; }
+}
+
+/* Collaboration callout above the groups */
+.research-collab {
+    font-family: "Inter", sans-serif;
+    font-size: 0.82rem;
+    color: #374151;
+    background: #f8fafc;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    padding: 0.5em 0.9em;
+    margin-bottom: 1.1em;
+    display: inline-block;
+
+    strong { color: #1d4ed8; }
+}
+
 /* Avatar: perfect circle with subtle shadow */
 .author__avatar img {
     border: none !important;
