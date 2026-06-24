@@ -277,6 +277,38 @@ h1:before, .anchor:before {
             margin-bottom: 0.05em;
         }
 
+        .exp-detail {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.5em;
+        }
+
+        .exp-logo {
+            flex: 0 0 auto;
+            display: inline-flex;
+            align-items: center;
+            justify-content: flex-start;
+            width: 2.7rem;
+            height: 1.35rem;
+            margin-top: 0.12em;
+
+            img {
+                display: block;
+                max-width: 100%;
+                max-height: 1.25rem;
+                object-fit: contain;
+            }
+
+            &--polyu img,
+            &--meituan img {
+                max-width: 1.25rem;
+            }
+
+            &--meituan img {
+                border-radius: 4px;
+            }
+        }
+
         .exp-content {
             font-family: "Source Serif 4", Georgia, serif;
             font-size: 0.95rem;
@@ -618,14 +650,17 @@ li > code {
     &__note {
         font-family: "Inter", sans-serif;
         font-size: 0.8rem;
-        font-weight: 500;
-        color: #6b7280;
+        font-weight: 600;
+        color: #2563eb;
+        background: #eff6ff;
+        border-radius: 4px;
+        padding: 0.08em 0.38em;
         margin-left: 0.4em;
     }
 
     &__label {
         font-family: "Inter", sans-serif;
-        font-size: 0.78rem;
+        font-size: 0.92rem;
         font-weight: 700;
         letter-spacing: 0.01em;
         color: #4b5563;
