@@ -95,47 +95,50 @@ My research interests mainly include <span class="kw">memory for generative agen
 
 ---
 
-## Selected Open-Source Project
+## Selected Open-Source Projects
 
-<div class="project-card">
-  <div class="project-card__body">
-    <div class="project-card__title"><a href="https://github.com/YuanchenBei/Mem-Gallery">Mem-Gallery</a></div>
-    <div class="project-card__desc">Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents. Including 10+ memory models with a new evaluation dataset.</div>
-  </div>
-  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/YuanchenBei/Mem-Gallery" alt="stars"></div>
-</div>
-
-<div class="project-card">
-  <div class="project-card__body">
-    <div class="project-card__title"><a href="https://github.com/YuanchenBei/ColdRec">ColdRec</a></div>
-    <div class="project-card__desc">Benchmarking Cold-Start Recommendation. Including 20+ cold-start recommendation models with comprehensive evaluations.</div>
-  </div>
-  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/YuanchenBei/ColdRec" alt="stars"></div>
-</div>
-
-<div class="project-card">
-  <div class="project-card__body">
-    <div class="project-card__title"><a href="https://github.com/YuanchenBei/Awesome-Graphs-Meet-Agents">Graph for AI Agents Literature Library</a></div>
-    <div class="project-card__desc">A curated reading list of papers on graphs meeting AI agents.</div>
-  </div>
-  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/YuanchenBei/Awesome-Graphs-Meet-Agents" alt="stars"></div>
-</div>
-
-<div class="project-card">
-  <div class="project-card__body">
-    <div class="project-card__title"><a href="https://github.com/DEEP-PolyU/Awesome-GraphRAG">GraphRAG Literature Library</a></div>
-    <div class="project-card__desc">A curated reading list of papers on graph-based retrieval-augmented generation.</div>
-  </div>
-  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG" alt="stars"></div>
-</div>
-
-<div class="project-card">
-  <div class="project-card__body">
-    <div class="project-card__title"><a href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation">Cold-Start Recommendation Literature Library</a></div>
-    <div class="project-card__desc">A curated reading list of papers on cold-start recommendation.</div>
-  </div>
-  <div class="project-card__badge"><img src="https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation" alt="stars"></div>
-</div>
+<ul class="project-list">
+  <li>
+    <div class="project-list__header">
+      <a class="project-list__name" href="https://github.com/YuanchenBei/Mem-Gallery">Mem-Gallery</a>
+      <span class="project-list__tag">Benchmark</span>
+      <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/Mem-Gallery" alt="stars">
+    </div>
+    <p class="project-list__desc">Benchmarking multimodal long-term conversational memory for MLLM agents. Includes 10+ memory models with a new evaluation dataset.</p>
+  </li>
+  <li>
+    <div class="project-list__header">
+      <a class="project-list__name" href="https://github.com/YuanchenBei/ColdRec">ColdRec</a>
+      <span class="project-list__tag">Benchmark</span>
+      <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/ColdRec" alt="stars">
+    </div>
+    <p class="project-list__desc">Benchmarking cold-start recommendation. Includes 20+ models with comprehensive evaluations across multiple datasets.</p>
+  </li>
+  <li>
+    <div class="project-list__header">
+      <a class="project-list__name" href="https://github.com/YuanchenBei/Awesome-Graphs-Meet-Agents">Awesome-Graphs-Meet-Agents</a>
+      <span class="project-list__tag">Reading List</span>
+      <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/Awesome-Graphs-Meet-Agents" alt="stars">
+    </div>
+    <p class="project-list__desc">A curated reading list of papers on graphs meeting AI agents.</p>
+  </li>
+  <li>
+    <div class="project-list__header">
+      <a class="project-list__name" href="https://github.com/DEEP-PolyU/Awesome-GraphRAG">Awesome-GraphRAG</a>
+      <span class="project-list__tag">Reading List</span>
+      <img class="project-list__stars" src="https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG" alt="stars">
+    </div>
+    <p class="project-list__desc">A curated reading list of papers on graph-based retrieval-augmented generation.</p>
+  </li>
+  <li>
+    <div class="project-list__header">
+      <a class="project-list__name" href="https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation">Awesome-Cold-Start-Recommendation</a>
+      <span class="project-list__tag">Reading List</span>
+      <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/Awesome-Cold-Start-Recommendation" alt="stars">
+    </div>
+    <p class="project-list__desc">A curated reading list of papers on cold-start recommendation.</p>
+  </li>
+</ul>
 
 
 ---
