@@ -172,7 +172,9 @@ My research interests mainly include <span class="kw">knowledge management for g
 ## Experiences
 
 <div class="exp-group">
+<!--
 <h3 class="exp-group__title">Internship</h3>
+-->
 <ul class="exp-list">
   <li>
     <span class="exp-heading"><span class="exp-logo exp-logo--alibaba"><img src="images/alibaba-logo.svg" alt="Alibaba Group logo" width="42" height="16"></span><strong class="exp-company">Alibaba Group</strong><span class="exp-detail">Research Intern · 2023.05 – 2023.11, 2025.03 – 2025.06 · Hangzhou, China</span></span>
@@ -186,6 +188,7 @@ My research interests mainly include <span class="kw">knowledge management for g
 </ul>
 </div>
 
+<!--
 <div class="exp-group">
 <h3 class="exp-group__title">Education</h3>
 <ul class="exp-list">
@@ -200,5 +203,6 @@ My research interests mainly include <span class="kw">knowledge management for g
   </li>
 </ul>
 </div>
+-->
 
 <br>
