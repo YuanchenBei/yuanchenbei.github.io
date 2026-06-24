@@ -283,31 +283,28 @@ h1:before, .anchor:before {
             }
 
             &--alibaba {
+                width: 1.2rem;
+                margin-right: 1.2em;
                 justify-content: flex-start;
                 overflow: hidden;
 
                 img {
-                    width: 7.8rem !important;
+                    width: 6.45rem !important;
                     max-width: none !important;
                 }
             }
 
             &--uiuc {
+                width: 1.65rem;
+                margin-right: 0.75em;
                 justify-content: flex-start;
                 overflow: hidden;
-
-                img {
-                    max-width: none !important;
-                }
-            }
-
-            &--uiuc {
-                width: 0.72rem;
-                margin-right: 1.68em;
             }
 
             &--uiuc img {
                 width: 5.45rem !important;
+                max-width: none !important;
+                transform: translateX(0.48rem);
             }
 
             &--polyu img,

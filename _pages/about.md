@@ -24,7 +24,7 @@ displayed on the page again.
 ## Yuanchen Bei
 I am a Ph.D. Student at the University of Illinois Urbana-Champaign, advised by Prof. Hanghang Tong.
 
-My research interests mainly include <span class="kw">memory for generative agents</span>, <span class="kw">relational data mining</span>, <span class="kw">graph learning</span>, and <span class="kw">computational social science</span>. In my free time, I am also interested in finance and economics.
+My research interests mainly include <span class="kw">knowledge management for generative agents</span>, especially long-term agent memory and continual learning, <span class="kw">user-centric ML and relational data mining</span>, and <span class="kw">graph learning</span>.
 
 
 <!--
@@ -50,6 +50,7 @@ My research interests mainly include <span class="kw">memory for generative agen
 ---
 {% endcomment %}
 <span class='anchor' id='-publications'></span>
+<span class='anchor' id='-research-highlight'></span>
 
 
 ## Research Highlight
@@ -59,21 +60,22 @@ My research interests mainly include <span class="kw">memory for generative agen
 <div class="research-group research-group--memory">
   <div class="research-group__label">
     <span class="research-group__icon">🧠</span>
-    <span class="research-group__title">Memory for Generative Agents</span>
+    <span class="research-group__title">Knowledge Management for Generative Agents</span>
   </div>
   <ul>
-    <li><span class="research-subtopic">Long-Term Memory:</span> <a href="https://arxiv.org/pdf/2601.03515">Mem-Gallery</a> <span class="venue venue-top">ACL 2026</span></li>
-    <li><span class="research-subtopic">Self-Evolving Memory:</span> <a href="https://arxiv.org/pdf/2511.20857">Evo-Memory</a> <span class="venue venue-top">Preprint</span></li>
+    <li><span class="research-subtopic">Long-Term Agent Memory:</span> <a href="https://arxiv.org/pdf/2601.03515">Mem-Gallery</a> <span class="venue venue-top">ACL 2026</span>, <a href="https://arxiv.org/pdf/2511.20857">Evo-Memory</a> <span class="venue venue-top">Preprint</span></li>
+    <li><span class="research-subtopic">Agentic Continual Learning</span></li>
   </ul>
 </div>
 
 <div class="research-group research-group--relational">
   <div class="research-group__label">
     <span class="research-group__icon">🔗</span>
-    <span class="research-group__title">Relational Data Mining</span>
+    <span class="research-group__title">User Modeling and Relational Data Mining</span>
   </div>
   <ul>
-    <li><span class="research-subtopic">Large-Scale Recommender Systems:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645517">MacGNN</a> <span class="venue venue-top">🔥 Top-10 | WWW 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671569">POGCN</a> <span class="venue venue-top">KDD 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3711896.3737188">AliBoost</a> <span class="venue venue-top">KDD 2025</span></li>
+    <li><span class="research-subtopic">Large-Scale Recommendation:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645517">MacGNN</a> <span class="venue venue-top">🔥 Top-10 | WWW 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671569">POGCN</a> <span class="venue venue-top">KDD 2024</span></li>
+    <li><span class="research-subtopic">Cold-Start and Debiased User Modeling:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3701551.3703546">ColdLLM</a> <span class="venue venue-top">WSDM 2025</span>, <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf">USIM</a> <span class="venue venue-top">Spotlight | NeurIPS 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3711896.3737188">AliBoost</a> <span class="venue venue-top">KDD 2025</span></li>
     <li><span class="research-subtopic">Graph Anomaly Detection:</span> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415759">RAND</a> <span class="venue venue-top">ICDM 2023</span>, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11017687">G3AD</a> <span class="venue venue-top">TNNLS 2025</span></li>
   </ul>
 </div>
@@ -84,18 +86,8 @@ My research interests mainly include <span class="kw">memory for generative agen
     <span class="research-group__title">Graph Learning</span>
   </div>
   <ul>
-    <li><span class="research-subtopic">General GNNs:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3690624.3709197">CorGCN</a> <span class="venue venue-top">KDD 2025</span>, <a href="https://openreview.net/pdf/0447b73eb0fd4156c928c524b67af251008e70a4.pdf">CMGNN</a> <span class="venue venue-top">NeurIPS 2025</span></li>
-    <li><span class="research-subtopic">Graph Pre-Training:</span> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10598011">CPDG</a> <span class="venue venue-top">ICDE 2024</span></li>
-  </ul>
-</div>
-
-<div class="research-group research-group--css">
-  <div class="research-group__label">
-    <span class="research-group__icon">🌐</span>
-    <span class="research-group__title">Computational Social Science</span>
-  </div>
-  <ul>
-    <li><span class="research-subtopic">E-Commerce Popularity Bias:</span> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf">USIM</a> <span class="venue venue-top">Spotlight | NeurIPS 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3701551.3703546">ColdLLM</a> <span class="venue venue-top">WSDM 2025</span></li>
+    <li><span class="research-subtopic">General-Purpose GNNs:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3690624.3709197">CorGCN</a> <span class="venue venue-top">KDD 2025</span>, <a href="https://openreview.net/pdf/0447b73eb0fd4156c928c524b67af251008e70a4.pdf">CMGNN</a> <span class="venue venue-top">NeurIPS 2025</span></li>
+    <li><span class="research-subtopic">GNN Pre-Training:</span> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10598011">CPDG</a> <span class="venue venue-top">ICDE 2024</span></li>
   </ul>
 </div>
 
