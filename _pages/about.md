@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+{% comment %}
+Google Scholar citation badge data. Keep this block commented until citations are
+displayed on the page again.
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% endcomment %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -29,6 +33,7 @@ My research interests mainly include <span class="kw">memory for generative agen
 
 ---
 
+{% comment %}
 <span class='anchor' id='-news'></span>
 
 
@@ -43,6 +48,7 @@ My research interests mainly include <span class="kw">memory for generative agen
 
 
 ---
+{% endcomment %}
 <span class='anchor' id='-publications'></span>
 
 

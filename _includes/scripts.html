@@ -1,4 +1,9 @@
 <script src="assets/js/main.min.js"></script>
 
 {% include analytics.html %}
+{% comment %}
+Google Scholar citation fetch is disabled while no citation counters are shown
+on the page. Re-enable this include if total_cit or show_paper_citations
+elements are added back.
 {% include fetch_google_scholar_stats.html %}
+{% endcomment %}
