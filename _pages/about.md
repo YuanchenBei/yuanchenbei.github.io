@@ -146,11 +146,14 @@ My research interests mainly include <span class="kw">memory for generative agen
 <span class='anchor' id='-honors-and-awards'></span>
 
 ## Honors and Awards
-- **Outstanding Reviewer** (KDD 2025, TNNLS) 
-- **National Scholarship** (Bachelor, Master)
-- **First Class Scholarship** (Bachelor, Master)
-- **Outstanding Graduate** (Master)
-- **Outstanding Undergraduate** (Bachelor) 
+
+<ul class="info-list">
+  <li>Outstanding Reviewer <span class="info-list__note">KDD 2025, TNNLS</span></li>
+  <li>National Scholarship <span class="info-list__note">Bachelor, Master</span></li>
+  <li>First Class Scholarship <span class="info-list__note">Bachelor, Master</span></li>
+  <li>Outstanding Graduate <span class="info-list__note">Master</span></li>
+  <li>Outstanding Undergraduate <span class="info-list__note">Bachelor</span></li>
+</ul>
 
 
 ---
@@ -158,8 +161,11 @@ My research interests mainly include <span class="kw">memory for generative agen
 
 
 ## Academic Services
-- **Conference Program Committee Member:** ICLR (2025-2026), KDD (2024-2026), ICML 2026, WWW 2026, WSDM 2026, MM (2025-2026), CIKM (2025-2026), SIGIR 2025, SIGIR-AP 2025, ECAI 2024.
-- **Journal Reviewer:** ACM TKDD, ACM CSUR, IEEE TKDE, IEEE TNNLS, IEEE TII, IEEE TIP.
+
+<ul class="info-list">
+  <li><span class="info-list__label">Conference Program Committee Member</span> ICLR (2025–2026), KDD (2024–2026), ICML 2026, WWW 2026, WSDM 2026, MM (2025–2026), CIKM (2025–2026), SIGIR 2025, SIGIR-AP 2025, ECAI 2024.</li>
+  <li><span class="info-list__label">Journal Reviewer</span> ACM TKDD, ACM CSUR, IEEE TKDE, IEEE TNNLS, IEEE TII, IEEE TIP.</li>
+</ul>
 
 
 ---
