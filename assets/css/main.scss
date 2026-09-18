@@ -579,6 +579,12 @@ li > code {
     font-style: normal;
 }
 
+/* Same blue keyword, without the tinted chip */
+.kw--bare {
+    background: none;
+    padding: 0;
+}
+
 /* ==========================================================================
    Open-Source Projects: compact list
    ========================================================================== */

@@ -205,10 +205,10 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 
 ## Misc
 
-<ul class="info-list">
-  <li>In my free time, I enjoy learning about finance and the global economy, and I highly recommend <a href="https://www.youtube.com/@xiao_lin_shuo">小Lin说</a> for its engaging and accessible explainer videos. I’m also into music and movies, a fan of JISOO, and a dog lover.</li>
-  <li>If you share any of these interests, feel free to reach out. I’d be happy to make new friends!</li>
-  <li><span class="info-list__label">Languages:</span> Chinese (native), English (fluent), and Cantonese (proficient listening).</li>
-</ul>
+In my free time, I enjoy learning about finance and the global economy, and I highly recommend <a href="https://www.youtube.com/@xiao_lin_shuo">小Lin说</a> for its engaging and accessible explainer videos. I’m also into music and movies, a fan of <span class="kw kw--bare">Jisoo</span>, and a dog lover.
+
+<span class="research-collab">If you share any of these interests, feel free to reach out. I’d be happy to make new friends!</span>
+
+**Languages:** Chinese (native), English (fluent), and Cantonese (proficient listening).
 
 <br>
