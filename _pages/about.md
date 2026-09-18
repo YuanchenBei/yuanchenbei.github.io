@@ -24,7 +24,7 @@ displayed on the page again.
 ## Yuanchen Bei
 I am a Ph.D. Student at the University of Illinois Urbana-Champaign, advised by Prof. Hanghang Tong.
 
-My research interests mainly include <span class="kw">knowledge management for generative agents</span>, especially long-term agent memory and continual learning, <span class="kw">user-centric ML and relational data mining</span>, and <span class="kw">graph learning</span>.
+My current research mainly focuses on <span class="kw">Memory and Personalization for LLM Agents</span>.
 
 
 <!--
