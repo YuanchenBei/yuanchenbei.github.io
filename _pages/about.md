@@ -64,7 +64,7 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
   </div>
   <ul>
     <li><span class="research-subtopic">Long-Term Agent Memory:</span> <a href="https://arxiv.org/pdf/2601.03515">Mem-Gallery</a> <span class="venue venue-top">ACL 2026</span>, <a href="https://arxiv.org/pdf/2511.20857">Evo-Memory</a> <span class="venue venue-top">Preprint</span></li>
-    <li><span class="research-subtopic">Agentic Continual Learning</span></li>
+    <li><span class="research-subtopic">Memory and Continual Learning Architecture</span></li>
   </ul>
 </div>
 
@@ -76,7 +76,6 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
   <ul>
     <li><span class="research-subtopic">Large-Scale Recommendation:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645517">MacGNN</a> <span class="venue venue-top">🔥 Top-10 | WWW 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671569">POGCN</a> <span class="venue venue-top">KDD 2024</span></li>
     <li><span class="research-subtopic">Cold-Start and Debiased User Modeling:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3701551.3703546">ColdLLM</a> <span class="venue venue-top">WSDM 2025</span>, <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf">USIM</a> <span class="venue venue-top">Spotlight | NeurIPS 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3711896.3737188">AliBoost</a> <span class="venue venue-top">KDD 2025</span></li>
-    <li><span class="research-subtopic">Graph Anomaly Detection:</span> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10415759">RAND</a> <span class="venue venue-top">ICDM 2023</span>, <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11017687">G3AD</a> <span class="venue venue-top">TNNLS 2025</span></li>
   </ul>
 </div>
 
@@ -205,7 +204,7 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 
 ## Misc
 
-In my free time, I enjoy learning about finance and the global economy, and I highly recommend <a href="https://www.youtube.com/@xiao_lin_shuo">小Lin说</a> for its engaging and accessible explainer videos. I’m also into music and movies, a fan of <span class="kw kw--bare">Jisoo</span>, and a dog lover.
+In my free time, I enjoy learning about finance and the global economy, and I highly recommend <a href="https://www.youtube.com/@xiao_lin_shuo">小Lin说</a> for its engaging and accessible explainer videos. I’m also into music and movies (especially mysteries), a fan of <span class="kw kw--bare">Jisoo</span>, and a dog lover.
 
 <span class="research-collab">If you share any of these interests, feel free to reach out. I’d be happy to make new friends!</span>
 
