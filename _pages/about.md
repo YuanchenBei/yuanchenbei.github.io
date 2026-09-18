@@ -60,7 +60,7 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 <div class="research-group research-group--memory">
   <div class="research-group__label">
     <span class="research-group__icon">🧠</span>
-    <span class="research-group__title">Knowledge Management for Generative Agents</span>
+    <span class="research-group__title">Memory for LLM Agents</span>
   </div>
   <ul>
     <li><span class="research-subtopic">Long-Term Agent Memory:</span> <a href="https://arxiv.org/pdf/2601.03515">Mem-Gallery</a> <span class="venue venue-top">ACL 2026</span>, <a href="https://arxiv.org/pdf/2511.20857">Evo-Memory</a> <span class="venue venue-top">Preprint</span></li>
@@ -71,7 +71,7 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 <div class="research-group research-group--relational">
   <div class="research-group__label">
     <span class="research-group__icon">🔗</span>
-    <span class="research-group__title">User Modeling and Relational Data Mining</span>
+    <span class="research-group__title">User Modeling and Personalization</span>
   </div>
   <ul>
     <li><span class="research-subtopic">Large-Scale Recommendation:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645517">MacGNN</a> <span class="venue venue-top">🔥 Top-10 | WWW 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671569">POGCN</a> <span class="venue venue-top">KDD 2024</span></li>
@@ -128,14 +128,6 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
     </div>
     <p class="project-list__desc">A curated reading list of papers on cold-start recommendation.</p>
   </li>
-  <li>
-    <div class="project-list__header">
-      <a class="project-list__name" href="https://github.com/YuanchenBei/GraphTransformer-DGraphFin">GraphTransformer-DGraphFin</a>
-      <span class="project-list__tag">Leaderboard Solution</span>
-      <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/GraphTransformer-DGraphFin" alt="stars">
-    </div>
-    <p class="project-list__desc">Top-2 solution for the DGraph-Fin leaderboard on large-scale dynamic graph anomaly detection.</p>
-  </li>
 </ul>
 
 
@@ -161,8 +153,8 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 ## Academic Services
 
 <ul class="info-list">
-  <li><span class="info-list__label">Conference Program Committee Member:</span> ICLR (2025–2026), KDD (2024–2026), ICML 2026, WWW 2026, WSDM 2026, MM (2025–2026), CIKM (2025–2026), SIGIR 2025, SIGIR-AP 2025, ECAI 2024.</li>
-  <li><span class="info-list__label">Journal Reviewer:</span> ACM TKDD, ACM CSUR, IEEE TKDE, IEEE TNNLS, IEEE TII, IEEE TIP.</li>
+  <li><span class="info-list__label">Conference Program Committee Member:</span> KDD (2024–2027), WSDM (2026–2027), ICLR (2025–2027), AAAI 2027, ICML 2026, NeurIPS 2026, WWW 2026, ARR 2026, MM (2025–2026), CIKM (2025–2026), SIGIR 2025, SIGIR-AP 2025, ECAI 2024.</li>
+  <li><span class="info-list__label">Journal Reviewer:</span> TMLR, IEEE TKDE, IEEE TNNLS, IEEE TII, IEEE TIP, ACM CSUR, ACM TKDD.</li>
 </ul>
 
 
@@ -177,13 +169,16 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 -->
 <ul class="exp-list">
   <li>
-    <span class="exp-heading"><span class="exp-logo exp-logo--alibaba"><img src="images/alibaba-logo.svg" alt="Alibaba Group logo" width="42" height="16"></span><strong class="exp-company">Alibaba Group</strong><span class="exp-detail">Research Intern · 2023.05 – 2023.11, 2025.03 – 2025.06 · Hangzhou, China</span></span>
+    <span class="exp-heading"><strong class="exp-company">NEC Laboratories America</strong><span class="exp-detail">Research Intern · 2026.05 – 2026.08 · Princeton, NJ, USA</span></span>
   </li>
   <li>
-    <span class="exp-heading"><span class="exp-logo exp-logo--polyu"><img src="images/polyu-logo.svg" alt="The Hong Kong Polytechnic University logo" width="18" height="18"></span><strong class="exp-company">The Hong Kong Polytechnic University</strong><span class="exp-detail">Research Assistant · 2024.06 – 2024.10 · Hong Kong SAR, China</span></span>
+    <span class="exp-heading"><strong class="exp-company">Alibaba Group</strong><span class="exp-detail">Research Intern · 2023.05 – 2023.11, 2025.03 – 2025.06 · Hangzhou, China</span></span>
   </li>
   <li>
-    <span class="exp-heading"><span class="exp-logo exp-logo--meituan"><img src="images/meituan-icon.png" alt="Meituan logo" width="18" height="18"></span><strong class="exp-company">Meituan</strong><span class="exp-detail">Research Intern · 2022.02 – 2022.08 · Beijing, China</span></span>
+    <span class="exp-heading"><strong class="exp-company">The Hong Kong Polytechnic University</strong><span class="exp-detail">Research Assistant · 2024.06 – 2024.10 · Hong Kong SAR, China</span></span>
+  </li>
+  <li>
+    <span class="exp-heading"><strong class="exp-company">Meituan</strong><span class="exp-detail">Research Intern · 2022.02 – 2022.08 · Beijing, China</span></span>
   </li>
 </ul>
 </div>
@@ -204,5 +199,16 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 </ul>
 </div>
 -->
+
+---
+<span class='anchor' id='-misc'></span>
+
+## Misc
+
+<ul class="info-list">
+  <li>In my free time, I enjoy learning about finance and the global economy, and I highly recommend <a href="https://www.youtube.com/@xiao_lin_shuo">小Lin说</a> for its engaging and accessible explainer videos. I’m also into music and movies, a fan of JISOO, and a dog lover.</li>
+  <li>If you share any of these interests, feel free to reach out. I’d be happy to make new friends!</li>
+  <li><span class="info-list__label">Languages:</span> Chinese (native), English (fluent), and Cantonese (proficient listening).</li>
+</ul>
 
 <br>
