@@ -166,7 +166,7 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 <!--
 <h3 class="exp-group__title">Internship</h3>
 -->
-<ul class="exp-list">
+<ul class="exp-list info-list">
   <li>
     <span class="exp-heading"><strong class="exp-company">NEC Laboratories America</strong><span class="exp-detail">Research Intern · 2026.05 – 2026.08 · Princeton, NJ, USA</span></span>
   </li>

@@ -536,28 +536,49 @@ li > code {
 
 .author__icon-row {
     display: flex;
-    gap: 0.6em;
-    margin-top: 6px;
     flex-wrap: wrap;
+    gap: 0.4em 1.1em;
+    margin-top: 6px;
 
     a {
         display: inline-flex;
         align-items: center;
-        justify-content: center;
-        width: 30px;
-        height: 30px;
-        border-radius: 6px;
-        background: #f3f4f6;
+        gap: 0.6em;
+        font-family: "Inter", sans-serif;
+        font-size: 0.82rem;
+        font-weight: 500;
         color: #4b5563;
-        font-size: 0.9rem;
         text-decoration: none !important;
-        transition: background 0.15s ease, color 0.15s ease;
+        transition: color 0.15s ease;
+
+        i {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            flex: none;
+            width: 26px;
+            height: 26px;
+            border-radius: 6px;
+            background: #f3f4f6;
+            font-size: 0.82rem;
+            transition: background 0.15s ease, color 0.15s ease;
+        }
 
         &:hover {
-            background: #dbeafe;
             color: #2563eb;
             text-decoration: none !important;
+
+            i {
+                background: #dbeafe;
+                color: #2563eb;
+            }
         }
+    }
+
+    /* Desktop sidebar: one link per row */
+    @include breakpoint($large) {
+        flex-direction: column;
+        gap: 0.4em;
     }
 }
 
