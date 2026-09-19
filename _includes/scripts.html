@@ -2,7 +2,11 @@
 
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8d7277546e154303b109ada17bbc7a73"}'></script><!-- End Cloudflare Web Analytics -->
 
+{% comment %}
+Google Analytics is disabled: google_analytics_id is empty and Cloudflare Web
+Analytics (above) is used instead. Re-enable this include after setting an ID.
 {% include analytics.html %}
+{% endcomment %}
 {% comment %}
 Google Scholar citation fetch is disabled while no citation counters are shown
 on the page. Re-enable this include if total_cit or show_paper_citations
