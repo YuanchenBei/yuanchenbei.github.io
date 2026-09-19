@@ -582,6 +582,12 @@ li > code {
     }
 }
 
+/* The labeled icon row above works at every width, so the theme's
+   small-screen icon strip would only duplicate it. */
+.author__urls_sm {
+    display: none;
+}
+
 /* Hide redundant items from the url list that are now in icon row / content */
 .author__urls li:first-child {
     display: none; /* hides the description div we moved up */
