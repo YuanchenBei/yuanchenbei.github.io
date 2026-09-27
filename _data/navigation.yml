@@ -9,6 +9,9 @@ main:
   - title: "Research Highlight"
     url: "/#-research-highlight"
 
+  - title: "Open-Source Projects"
+    url: "/#-open-source-projects"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 

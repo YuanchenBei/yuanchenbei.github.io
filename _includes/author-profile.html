@@ -20,7 +20,7 @@
     <!-- Icon row: most important links -->
     <div class="author__icon-row">
       {% if author.email %}
-        <a href="mailto:{{ author.email }}" title="Email"><i class="fas fa-envelope"></i><span>Email</span></a>
+        <a href="mailto:{{ author.email }}" title="Email"><i class="fas fa-envelope"></i><span>{{ author.email }}</span></a>
       {% endif %}
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}" title="Google Scholar"><i class="fas fa-graduation-cap"></i><span>Google Scholar</span></a>

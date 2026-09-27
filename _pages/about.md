@@ -92,6 +92,8 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 
 ---
 
+<span class='anchor' id='-open-source-projects'></span>
+
 ## Selected Open-Source Projects
 
 <ul class="project-list">
