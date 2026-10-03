@@ -213,7 +213,9 @@ and restore the Experiences entry in _data/navigation.yml.
 
 In my free time, I enjoy learning about finance and the global economy, and I highly recommend <a href="https://www.youtube.com/@xiao_lin_shuo">小Lin说</a> for its engaging and accessible explainer videos. I’m also a movie lover (especially mysteries), a fan of <span class="kw kw--bare">Jisoo</span>, and a dog lover.
 
+{% comment %}
 <span class="research-collab">If you share any of these interests, feel free to reach out. I’d be happy to make new friends!</span>
+{% endcomment %}
 
 **Languages:** Chinese (native), English (fluent), and Cantonese (proficient listening).
 
