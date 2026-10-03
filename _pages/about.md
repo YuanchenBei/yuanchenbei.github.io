@@ -24,7 +24,7 @@ displayed on the page again.
 ## Yuanchen Bei
 I am a Ph.D. Student at the University of Illinois Urbana-Champaign, advised by Prof. Hanghang Tong.
 
-My current research mainly focuses on <span class="kw">Memory and Personalization for LLM Agents</span>.
+My long-term goal is to build <span class="kw kw--bare">human-centered personalized AI</span>. Currently, I focus on <span class="kw">Memory and Personalization for LLM Agents</span>.
 
 
 <!--
@@ -211,7 +211,7 @@ and restore the Experiences entry in _data/navigation.yml.
 
 ## Misc
 
-In my free time, I enjoy learning about finance and the global economy, and I highly recommend <a href="https://www.youtube.com/@xiao_lin_shuo">小Lin说</a> for its engaging and accessible explainer videos. I’m also into music and movies (especially mysteries), a fan of <span class="kw kw--bare">Jisoo</span>, and a dog lover.
+In my free time, I enjoy learning about finance and the global economy, and I highly recommend <a href="https://www.youtube.com/@xiao_lin_shuo">小Lin说</a> for its engaging and accessible explainer videos. I’m also a movie lover (especially mysteries), a fan of <span class="kw kw--bare">Jisoo</span>, and a dog lover.
 
 <span class="research-collab">If you share any of these interests, feel free to reach out. I’d be happy to make new friends!</span>
 
