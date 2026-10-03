@@ -159,6 +159,10 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 </ul>
 
 
+{% comment %}
+Experiences is hidden for now. To show it again, remove this comment block
+and restore the Experiences entry in _data/navigation.yml.
+
 ---
 <span class='anchor' id='-experiences'></span>
 
@@ -200,6 +204,7 @@ My current research mainly focuses on <span class="kw">Memory and Personalizatio
 </ul>
 </div>
 -->
+{% endcomment %}
 
 ---
 <span class='anchor' id='-misc'></span>
