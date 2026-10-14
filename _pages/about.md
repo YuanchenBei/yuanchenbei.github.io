@@ -154,7 +154,7 @@ My research interest lies in <span class="kw">human-centered AI</span>. My long-
 ## Academic Services
 
 <ul class="info-list">
-  <li><span class="info-list__label">Conference Program Committee Member:</span> KDD (2024–2027), WSDM (2026–2027), ICLR (2025–2027), AAAI 2027, ICML 2026, NeurIPS 2026, WWW 2026, ARR 2026, MM (2025–2026), CIKM (2025–2026), SIGIR 2025, SIGIR-AP 2025, ECAI 2024.</li>
+  <li><span class="info-list__label">Conference Program Committee Member:</span> KDD (2024–2027), ICLR (2025–2027), WWW (2026–2027), WSDM (2026–2027), AAAI 2027, ICML 2026, NeurIPS 2026, ARR 2026, MM (2025–2026), CIKM (2025–2026), SIGIR 2025, SIGIR-AP 2025, ECAI 2024.</li>
   <li><span class="info-list__label">Journal Reviewer:</span> TMLR, IEEE TKDE, IEEE TNNLS, IEEE TII, IEEE TIP, ACM CSUR, ACM TKDD.</li>
 </ul>
 
