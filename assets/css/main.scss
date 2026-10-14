@@ -612,6 +612,14 @@ li > code {
     padding: 0;
 }
 
+/* Underlined phrase in body text color, so it is not mistaken for a link */
+.kw-underline {
+    text-decoration: underline;
+    text-decoration-color: #60a5fa;
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 0.22em;
+}
+
 /* ==========================================================================
    Open-Source Projects: compact list
    ========================================================================== */
