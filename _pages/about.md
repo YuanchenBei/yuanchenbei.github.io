@@ -24,7 +24,7 @@ displayed on the page again.
 ## Yuanchen Bei
 I am a Ph.D. Student at the University of Illinois Urbana-Champaign, advised by Prof. Hanghang Tong.
 
-My research interest lies in <span class="kw">human-centered AI</span>. My long-term goal is to build <span class="kw-underline">personalized and interactive agents capable of omni-modal reasoning</span>. Toward this goal, I currently focus on <span class="kw-underline">memory management, multimodal understanding, and long-horizon post-training for personalized agents</span>.
+My research interest lies in <span class="kw">human-centered AI</span>. My long-term goal is to build <span class="kw-underline">personalized and interactive agents capable of omni-modal reasoning</span>. Toward this goal, I currently focus on <span class="kw-underline">memory management, proactiveness, multimodal understanding, and long-horizon post-training for personalized agents</span>.
 
 
 <!--
