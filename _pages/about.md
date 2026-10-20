@@ -57,7 +57,7 @@ My research interest lies in <span class="kw">human-centered AI</span>. My long-
 
 ## Research Highlight
 
-<p class="pub-note"><sup>*</sup> Equal contribution. See <a href="https://scholar.google.com/citations?user=7XFbwrcAAAAJ">Google Scholar</a> for the full publication list.</p>
+<p class="pub-note">Selected publications, grouped by research direction. <sup>*</sup> Equal contribution. Full list on <a href="https://scholar.google.com/citations?user=7XFbwrcAAAAJ">Google Scholar</a>.</p>
 
 <div class="pub-groups">
 <details class="pub-group" open>
@@ -85,14 +85,6 @@ My research interest lies in <span class="kw">human-centered AI</span>. My long-
 ## Selected Open-Source Projects
 
 <ul class="project-list">
-  <li>
-    <div class="project-list__header">
-      <a class="project-list__name" href="https://github.com/YuanchenBei/Mem-Gallery">Mem-Gallery</a>
-      <span class="project-list__tag">Benchmark</span>
-      <img class="project-list__stars" src="https://img.shields.io/github/stars/YuanchenBei/Mem-Gallery" alt="stars">
-    </div>
-    <p class="project-list__desc">Benchmarking multimodal long-term memory for MLLM agents. Includes 10+ memory models with a new evaluation dataset.</p>
-  </li>
   <li>
     <div class="project-list__header">
       <a class="project-list__name" href="https://github.com/YuanchenBei/ColdRec">ColdRec</a>
