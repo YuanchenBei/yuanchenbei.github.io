@@ -405,6 +405,17 @@ a {
     }
 }
 
+/* The theme underlines every link in the page body (".page__content a");
+   match the publication titles instead: no underline until hover. */
+.page__content a {
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+        text-underline-offset: 2px;
+    }
+}
+
 /* Navigation bar: Inter, tighter and crisper */
 .masthead {
     background-color: #ffffff;
@@ -606,7 +617,7 @@ li > code {
     font-weight: 600;
     color: #1e3a8a;
     background: #f1f5f9;
-    padding: 0.05em 0.35em;
+    padding: 0.04em 0.2em;
     border-radius: 4px;
     font-style: normal;
 }
