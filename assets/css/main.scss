@@ -527,6 +527,11 @@ li > code {
     i { margin-right: 3px; }
 }
 
+/* ".sidebar p" in the theme sets 1em, so this needs the .sidebar prefix to apply */
+.sidebar .author__location {
+    font-size: 0.88em;
+}
+
 .author__divider {
     height: 1px;
     background: linear-gradient(to right, #cbd5e1 0%, #e5e7eb 60%, transparent 100%);
@@ -761,8 +766,9 @@ li > code {
     white-space: nowrap;
 }
 
-.pub-note {
-    margin: 0.2em 0 0 0.1em;
+/* .page__content prefix needed to beat ".page__content p" */
+.page__content .pub-note {
+    margin: 0 0 0.7em 0;
     font-family: "Inter", sans-serif;
     font-size: 0.78rem;
     color: #6b7280;
