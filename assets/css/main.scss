@@ -621,6 +621,156 @@ li > code {
 }
 
 /* ==========================================================================
+   Research Highlight: collapsible publication groups
+   ========================================================================== */
+
+.pub-groups {
+    display: grid;
+    gap: 0.7em;
+    margin-top: 0.4em;
+}
+
+.pub-group {
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    background: #fff;
+
+    > summary {
+        list-style: none;
+        cursor: pointer;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        gap: 0.15em 0.8em;
+        padding: 0.7em 1em;
+        border-radius: 8px;
+        font-family: "Inter", sans-serif;
+        transition: background 0.15s ease;
+
+        &::-webkit-details-marker { display: none; }
+
+        /* chevron: points right when closed, down when open */
+        &::before {
+            content: "";
+            flex: none;
+            align-self: center;
+            width: 0.42em;
+            height: 0.42em;
+            margin-right: 0.1em;
+            border-right: 2px solid #94a3b8;
+            border-bottom: 2px solid #94a3b8;
+            transform: rotate(-45deg);
+            transition: transform 0.15s ease;
+        }
+
+        &:hover { background: #f8fafc; }
+        &:focus-visible {
+            outline: 2px solid #2563eb;
+            outline-offset: 2px;
+        }
+    }
+
+    &[open] > summary {
+        border-bottom: 1px solid #f1f5f9;
+        border-radius: 8px 8px 0 0;
+
+        &::before { transform: rotate(45deg); }
+    }
+
+    &__title {
+        font-size: 0.95rem;
+        font-weight: 600;
+        color: #1f2937;
+    }
+
+    &__icon { margin-right: 0.45em; }
+
+    &__meta {
+        font-size: 0.76rem;
+        font-weight: 500;
+        color: #6b7280;
+    }
+}
+
+.pub-list {
+    list-style: none;
+    margin: 0;
+    padding: 0.3em 1em 0.5em 1em;
+
+    > li {
+        margin: 0;
+        padding: 0.6em 0;
+        border-bottom: 1px solid #f1f5f9;
+
+        &:last-child { border-bottom: none; }
+    }
+}
+
+.pub-title {
+    font-family: "Source Serif 4", Georgia, serif;
+    font-size: 0.97rem;
+    font-weight: 600;
+    line-height: 1.4;
+
+    a {
+        color: #1d4ed8;
+        text-decoration: none;
+
+        &:hover { text-decoration: underline; }
+    }
+}
+
+/* one size smaller than the title */
+.pub-authors {
+    margin-top: 0.2em;
+    font-family: "Source Serif 4", Georgia, serif;
+    font-size: 0.86rem;
+    line-height: 1.5;
+    color: #6b7280;
+
+    strong {
+        font-weight: 700;
+        color: #1f2937;
+    }
+
+    sup { font-size: 0.7em; }
+}
+
+.pub-venue {
+    margin-top: 0.3em;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.3em 0.45em;
+    font-family: "Inter", sans-serif;
+    font-size: 0.78rem;
+
+    &__name {
+        font-weight: 700;
+        color: #1f2937;
+    }
+}
+
+/* highlight tags (deployment, awards, impact) in a warm accent, distinct from venue names */
+.pub-tag {
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: #9a3412;
+    background: #fff7ed;
+    border: 1px solid #fed7aa;
+    border-radius: 4px;
+    padding: 0.04em 0.4em;
+    white-space: nowrap;
+}
+
+.pub-note {
+    margin: 0.2em 0 0 0.1em;
+    font-family: "Inter", sans-serif;
+    font-size: 0.78rem;
+    color: #6b7280;
+}
+
+/* ==========================================================================
    Open-Source Projects: compact list
    ========================================================================== */
 

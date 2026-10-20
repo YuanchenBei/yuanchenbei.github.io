@@ -57,37 +57,24 @@ My research interest lies in <span class="kw">human-centered AI</span>. My long-
 
 <span class="research-collab">🤝 <strong>Open to collaboration</strong> — feel free to reach out if you share interests in any of the directions below!</span>
 
-<div class="research-group research-group--memory">
-  <div class="research-group__label">
-    <span class="research-group__icon">🧠</span>
-    <span class="research-group__title">Memory for LLM Agents</span>
-  </div>
-  <ul>
-    <li><span class="research-subtopic">Long-Term Agent Memory:</span> <a href="https://arxiv.org/pdf/2601.03515">Mem-Gallery</a> <span class="venue venue-top">ACL 2026</span>, <a href="https://arxiv.org/pdf/2511.20857">Evo-Memory</a> <span class="venue venue-top">Preprint</span></li>
-    <li><span class="research-subtopic">Memory and Continual Learning Architecture</span></li>
-  </ul>
-</div>
-
-<div class="research-group research-group--relational">
-  <div class="research-group__label">
-    <span class="research-group__icon">🔗</span>
-    <span class="research-group__title">User Modeling and Personalization</span>
-  </div>
-  <ul>
-    <li><span class="research-subtopic">Large-Scale User Modeling:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645517">MacGNN</a> <span class="venue venue-top">🔥 Top-10 | WWW 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671569">POGCN</a> <span class="venue venue-top">KDD 2024</span></li>
-    <li><span class="research-subtopic">Cold-Start and Debiased User Modeling:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3701551.3703546">ColdLLM</a> <span class="venue venue-top">WSDM 2025</span>, <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/10d52f5d2ef0f69ac10da7c962fb6db9-Paper-Conference.pdf">USIM</a> <span class="venue venue-top">Spotlight | NeurIPS 2024</span>, <a href="https://dl.acm.org/doi/pdf/10.1145/3711896.3737188">AliBoost</a> <span class="venue venue-top">KDD 2025</span></li>
-  </ul>
-</div>
-
-<div class="research-group research-group--graph">
-  <div class="research-group__label">
-    <span class="research-group__icon">📐</span>
-    <span class="research-group__title">Graph Learning</span>
-  </div>
-  <ul>
-    <li><span class="research-subtopic">General-Purpose GNNs:</span> <a href="https://dl.acm.org/doi/pdf/10.1145/3690624.3709197">CorGCN</a> <span class="venue venue-top">KDD 2025</span>, <a href="https://openreview.net/pdf/0447b73eb0fd4156c928c524b67af251008e70a4.pdf">CMGNN</a> <span class="venue venue-top">NeurIPS 2025</span></li>
-    <li><span class="research-subtopic">GNN Pre-Training:</span> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10598011">CPDG</a> <span class="venue venue-top">ICDE 2024</span></li>
-  </ul>
+<div class="pub-groups">
+<details class="pub-group" open>
+<summary><span class="pub-group__title"><span class="pub-group__icon" aria-hidden="true">🧠</span>Agent Memory and Context Management</span><span class="pub-group__meta">4 papers · ACL'26 · EMNLP'26</span></summary>
+<ul class="pub-list"><li><div class="pub-title"><a href="https://arxiv.org/abs/2601.03515">Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents</a></div><div class="pub-authors"><strong>Yuanchen Bei</strong>, Tianxin Wei, Xuying Ning, Yanjun Zhao, Zhining Liu, Xiao Lin, Yada Zhu, Hendrik Hamann, Jingrui He, Hanghang Tong</div><div class="pub-venue"><span class="pub-venue__name">ACL 2026</span><span class="pub-tag">110+ GitHub Stars</span><span class="pub-tag">3000+ HuggingFace Monthly Downloads</span></div></li><li><div class="pub-title"><a href="https://arxiv.org/abs/2603.21520">Generalizable Self-Evolving Memory for Automatic Prompt Optimization</a></div><div class="pub-authors">Guanbao Liang<sup>*</sup>, <strong>Yuanchen Bei</strong><sup>*</sup>, Sheng Zhou, Yuheng Qin, Huan Zhou, Bingxin Jia, Bin Li, Jiajun Bu</div></li><li><div class="pub-title"><a href="https://arxiv.org/abs/2511.20857">Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory</a></div><div class="pub-authors">Tianxin Wei, Noveen Sachdeva, Benjamin Coleman, Zhankui He, <strong>Yuanchen Bei</strong>, Xuying Ning, Mengting Ai, Yunzhe Li, Jingrui He, Ed H. Chi, Chi Wang, Shuo Chen, Fernando Pereira, Wang-Cheng Kang, Derek Zhiyuan Cheng</div></li><li><div class="pub-title"><a href="https://arxiv.org/abs/2608.15071">Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents</a></div><div class="pub-authors">Tianxin Wei, Zhan Shi, Minhua Lin, Bing He, Zewen Liu, Yisi Sang, <strong>Yuanchen Bei</strong>, Xuying Ning, Jiaru Zou, Ting-Wei Li, Xiao Lin, Yanjun Zhao, Chi Wang, Benoit Dumoulin, Dakuo Wang, Jingrui He, Hanqing Lu</div><div class="pub-venue"><span class="pub-venue__name">EMNLP 2026</span></div></li></ul>
+</details>
+<details class="pub-group" open>
+<summary><span class="pub-group__title"><span class="pub-group__icon" aria-hidden="true">⚙️</span>Agent Reasoning and Post-Training</span><span class="pub-group__meta">3 papers · NeurIPS'26</span></summary>
+<ul class="pub-list"><li><div class="pub-title"><a href="https://arxiv.org/abs/2609.13734">PolicyMem: Geometric Policy Memory for LLM Governance</a></div><div class="pub-authors"><strong>Yuanchen Bei</strong>, Zhengzhang Chen, Yanjun Zhao, Haoyu Wang, Hanghang Tong, Haifeng Chen</div></li><li><div class="pub-title"><a href="https://arxiv.org/abs/2608.05446">EvoHarness-RL: Learning Runtime Harness Coordination for Self-Evolving Agents</a></div><div class="pub-authors">Xuying Ning, Dongqi Fu, Tianxin Wei, <strong>Yuanchen Bei</strong>, Xiyuan Yang, Wujiang Xu, Yueqi Song, Bingxuan Li, Zihao Li, Hanqing Zeng, Xiang Shen, Yajuan Wang, Yifan Wu, Qifan Wang, Jiayi Liu, Hong Li, Yinglong Xia, Xiangjun Fan, Hanghang Tong, Jingrui He</div></li><li><div class="pub-title"><a href="https://arxiv.org/abs/2608.18575">Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution</a></div><div class="pub-authors">Ting-Wei Li, <strong>Yuanchen Bei</strong>, Xiao Lin, Hanghang Tong</div><div class="pub-venue"><span class="pub-venue__name">NeurIPS 2026</span></div></li></ul>
+</details>
+<details class="pub-group">
+<summary><span class="pub-group__title"><span class="pub-group__icon" aria-hidden="true">🔗</span>User Modeling, Personalization, and Recommendation</span><span class="pub-group__meta">5 papers · WWW'26 · KDD'25 · WSDM'25 · WWW'24 · NeurIPS'24</span></summary>
+<ul class="pub-list"><li><div class="pub-title"><a href="https://doi.org/10.1145/3774904.3792800">AliBoostV2: CTR-Growth Balanced Boosting Framework in Billion-Scale Recommendation Platform</a></div><div class="pub-authors">Qijie Shen<sup>*</sup>, <strong>Yuanchen Bei</strong><sup>*</sup>, Zihong Huang, Xixian Wang, Zhibo Xiao, Dimin Wang, Jialin Zhu, Yuning Jiang, Feiran Huang, Hao Chen</div><div class="pub-venue"><span class="pub-venue__name">WWW 2026</span><span class="pub-tag">Applied at Alibaba</span></div></li><li><div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3711896.3737188">AliBoost: Ecological Boosting Framework in Alibaba Platform</a></div><div class="pub-authors">Qijie Shen<sup>*</sup>, <strong>Yuanchen Bei</strong><sup>*</sup>, Zihong Huang, Jialin Zhu, Keqin Xu, Boya Du, Jiawei Tang, Yuning Jiang, Feiran Huang, Xiao Huang, Hao Chen</div><div class="pub-venue"><span class="pub-venue__name">KDD 2025</span><span class="pub-tag">Applied at Alibaba</span></div></li><li><div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3701551.3703546">Large Language Model Simulator for Cold-Start Recommendation</a></div><div class="pub-authors">Feiran Huang, <strong>Yuanchen Bei</strong>, Zhenghang Yang, Junyi Jiang, Hao Chen, Qijie Shen, Senzhang Wang, Fakhri Karray, Philip S. Yu</div><div class="pub-venue"><span class="pub-venue__name">WSDM 2025</span><span class="pub-tag">Top-1 Most Cited Paper</span></div></li><li><div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3589334.3645517">Macro Graph Neural Networks for Online Billion-Scale Recommender Systems</a></div><div class="pub-authors">Hao Chen<sup>*</sup>, <strong>Yuanchen Bei</strong><sup>*</sup>, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang, Xiao Huang</div><div class="pub-venue"><span class="pub-venue__name">WWW 2024</span><span class="pub-tag">Top-10 Influential Paper</span><span class="pub-tag">Applied at Alibaba</span></div></li><li><div class="pub-title"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/10d52f5d2ef0f69ac10da7c962fb6db9-Abstract-Conference.html">Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination</a></div><div class="pub-authors">Ruochen Liu, Hao Chen, <strong>Yuanchen Bei</strong>, Qijie Shen, Fangwei Zhong, Senzhang Wang, Jianxin Wang</div><div class="pub-venue"><span class="pub-venue__name">NeurIPS 2024</span><span class="pub-tag">Spotlight</span><span class="pub-tag">Top 2%</span></div></li></ul>
+</details>
+<details class="pub-group">
+<summary><span class="pub-group__title"><span class="pub-group__icon" aria-hidden="true">📐</span>Graph Representation Learning</span><span class="pub-group__meta">3 papers · KDD'25 · NeurIPS'25</span></summary>
+<ul class="pub-list"><li><div class="pub-title"><a href="https://arxiv.org/abs/2606.31166">TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning</a></div><div class="pub-authors">Lingjie Chen<sup>*</sup>, <strong>Yuanchen Bei</strong><sup>*</sup>, Haobo Xu<sup>*</sup>, Yanjun Zhao, Yuzhong Chen, Hanghang Tong</div></li><li><div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3690624.3709197">Correlation-Aware Graph Convolutional Networks for Multi-Label Node Classification</a></div><div class="pub-authors"><strong>Yuanchen Bei</strong>, Weizhi Chen, Hao Chen, Sheng Zhou, Carl Yang, Jiapei Fan, Longtao Huang, Jiajun Bu</div><div class="pub-venue"><span class="pub-venue__name">KDD 2025</span></div></li><li><div class="pub-title"><a href="https://openreview.net/pdf/0447b73eb0fd4156c928c524b67af251008e70a4.pdf">Understanding and Enhancing Message Passing on Heterophilic Graphs via Compatibility Matrix</a></div><div class="pub-authors">Zhuonan Zheng, <strong>Yuanchen Bei</strong>, Zhiyao Zhou, Sheng Zhou, Yao Ma, Ming Gu, Hongjia Xu, Jiawei Chen, Jiajun Bu</div><div class="pub-venue"><span class="pub-venue__name">NeurIPS 2025</span></div></li></ul>
+</details>
+<p class="pub-note"><sup>*</sup> Equal contribution. See <a href="https://scholar.google.com/citations?user=7XFbwrcAAAAJ">Google Scholar</a> for the full publication list.</p>
 </div>
 
 ---
