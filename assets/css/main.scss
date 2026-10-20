@@ -618,6 +618,7 @@ li > code {
     color: #1e3a8a;
     background: #f1f5f9;
     padding: 0.04em 0.2em;
+    margin-right: -0.1em; /* pull trailing punctuation up to the chip */
     border-radius: 4px;
     font-style: normal;
 }
@@ -626,6 +627,7 @@ li > code {
 .kw--bare {
     background: none;
     padding: 0;
+    margin-right: 0;
 }
 
 /* Underlined phrase in body text color, so it is not mistaken for a link */
