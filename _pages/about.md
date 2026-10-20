@@ -119,11 +119,11 @@ My research interest lies in <span class="kw">human-centered AI</span>. My long-
 ## Honors and Awards
 
 <ul class="info-list">
-  <li>Outstanding Reviewer <span class="info-list__note">KDD 2025, TNNLS</span></li>
-  <li>National Scholarship <span class="info-list__count">x2</span> <span class="info-list__note">Bachelor, Master</span></li>
-  <li>First Class Scholarship <span class="info-list__count">x2</span> <span class="info-list__note">Bachelor, Master</span></li>
-  <li>Outstanding Graduate <span class="info-list__note">Master</span></li>
-  <li>Outstanding Undergraduate <span class="info-list__note">Bachelor</span></li>
+  <li><strong>Outstanding Reviewer</strong> <span class="info-list__note">KDD 2025, TNNLS</span></li>
+  <li><strong>National Scholarship</strong> <span class="info-list__count">x2</span> <span class="info-list__note">Bachelor, Master</span></li>
+  <li><strong>First Class Scholarship</strong> <span class="info-list__count">x2</span> <span class="info-list__note">Bachelor, Master</span></li>
+  <li><strong>Outstanding Graduate</strong> <span class="info-list__note">Master</span></li>
+  <li><strong>Outstanding Undergraduate</strong> <span class="info-list__note">Bachelor</span></li>
 </ul>
 
 
