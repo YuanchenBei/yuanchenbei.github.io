@@ -636,27 +636,28 @@ li > code {
     background: #fff;
 
     > summary {
+        position: relative;
         list-style: none;
         cursor: pointer;
         display: flex;
         flex-wrap: wrap;
         align-items: baseline;
         gap: 0.15em 0.8em;
-        padding: 0.7em 1em;
+        padding: 0.7em 1em 0.7em 2.25em;
         border-radius: 8px;
         font-family: "Inter", sans-serif;
         transition: background 0.15s ease;
 
         &::-webkit-details-marker { display: none; }
 
-        /* chevron: points right when closed, down when open */
+        /* chevron, pinned to the first line so the title never wraps under it */
         &::before {
             content: "";
-            flex: none;
-            align-self: center;
+            position: absolute;
+            left: 1.05em;
+            top: 1.12em;
             width: 0.42em;
             height: 0.42em;
-            margin-right: 0.1em;
             border-right: 2px solid #94a3b8;
             border-bottom: 2px solid #94a3b8;
             transform: rotate(-45deg);
@@ -733,7 +734,11 @@ li > code {
         color: #1f2937;
     }
 
-    sup { font-size: 0.7em; }
+    sup {
+        font-size: 0.78em;
+        font-weight: 700;
+        color: #374151;
+    }
 }
 
 .pub-venue {
@@ -768,6 +773,11 @@ li > code {
     font-family: "Inter", sans-serif;
     font-size: 0.78rem;
     color: #6b7280;
+
+    sup {
+        font-weight: 700;
+        color: #374151;
+    }
 }
 
 /* ==========================================================================
