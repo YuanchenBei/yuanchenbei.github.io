@@ -66,7 +66,7 @@ My research interest lies in <span class="kw">human-centered AI</span>. My long-
 </details>
 <details class="pub-group" open>
 <summary><span class="pub-group__title">Agent Reasoning and Post-Training</span></summary>
-<ul class="pub-list"><li><div class="pub-title"><a href="https://arxiv.org/abs/2609.13734">PolicyMem: Geometric Policy Memory for LLM Governance</a></div><div class="pub-authors"><strong>Yuanchen Bei</strong>, Zhengzhang Chen, Yanjun Zhao, Haoyu Wang, Hanghang Tong, Haifeng Chen</div></li><li><div class="pub-title"><a href="https://arxiv.org/abs/2608.05446">EvoHarness-RL: Learning Runtime Harness Coordination for Self-Evolving Agents</a></div><div class="pub-authors">Xuying Ning, Dongqi Fu, Tianxin Wei, <strong>Yuanchen Bei</strong>, Xiyuan Yang, Wujiang Xu, Yueqi Song, Bingxuan Li, Zihao Li, Hanqing Zeng, Xiang Shen, Yajuan Wang, Yifan Wu, Qifan Wang, Jiayi Liu, Hong Li, Yinglong Xia, Xiangjun Fan, Hanghang Tong, Jingrui He</div></li><li><div class="pub-title"><a href="https://arxiv.org/abs/2608.18575">Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution</a></div><div class="pub-authors">Ting-Wei Li, <strong>Yuanchen Bei</strong>, Xiao Lin, Hanghang Tong</div><div class="pub-venue"><span class="pub-venue__name">NeurIPS 2026</span></div></li></ul>
+<ul class="pub-list"><li><div class="pub-title"><a href="https://arxiv.org/abs/2609.13734">PolicyMem: Geometric Policy Memory for LLM Governance</a></div><div class="pub-authors"><strong>Yuanchen Bei</strong>, Zhengzhang Chen, Yanjun Zhao, Haoyu Wang, Hanghang Tong, Haifeng Chen</div></li><li><div class="pub-title"><a href="https://arxiv.org/abs/2608.18575">Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution</a></div><div class="pub-authors">Ting-Wei Li, <strong>Yuanchen Bei</strong>, Xiao Lin, Hanghang Tong</div><div class="pub-venue"><span class="pub-venue__name">NeurIPS 2026</span></div></li><li><div class="pub-title"><a href="https://arxiv.org/abs/2608.05446">EvoHarness-RL: Learning Runtime Harness Coordination for Self-Evolving Agents</a></div><div class="pub-authors">Xuying Ning, Dongqi Fu, Tianxin Wei, <strong>Yuanchen Bei</strong>, Xiyuan Yang, Wujiang Xu, Yueqi Song, Bingxuan Li, Zihao Li, Hanqing Zeng, Xiang Shen, Yajuan Wang, Yifan Wu, Qifan Wang, Jiayi Liu, Hong Li, Yinglong Xia, Xiangjun Fan, Hanghang Tong, Jingrui He</div></li></ul>
 </details>
 <details class="pub-group" open>
 <summary><span class="pub-group__title">User Modeling, Personalization, and Recommendation</span></summary>
@@ -120,8 +120,8 @@ My research interest lies in <span class="kw">human-centered AI</span>. My long-
 
 <ul class="info-list">
   <li><strong>Outstanding Reviewer</strong> <span class="info-list__note">KDD 2025, TNNLS</span></li>
-  <li><strong>National Scholarship</strong> <span class="info-list__count">x2</span> <span class="info-list__note">Bachelor, Master</span></li>
-  <li><strong>First Class Scholarship</strong> <span class="info-list__count">x2</span> <span class="info-list__note">Bachelor, Master</span></li>
+  <li><strong>National Scholarship</strong> <span class="info-list__count">×2</span> <span class="info-list__note">Bachelor, Master</span></li>
+  <li><strong>First Class Scholarship</strong> <span class="info-list__count">×2</span> <span class="info-list__note">Bachelor, Master</span></li>
   <li><strong>Outstanding Graduate</strong> <span class="info-list__note">Master</span></li>
   <li><strong>Outstanding Undergraduate</strong> <span class="info-list__note">Bachelor</span></li>
 </ul>
