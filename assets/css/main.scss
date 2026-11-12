@@ -416,6 +416,21 @@ a {
     }
 }
 
+/* Link that reads as plain body text (used in Misc): body color with a thin
+   gray underline as the only cue, accent color on hover. */
+.page__content a.link-quiet {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: #94a3b8;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+
+    &:hover {
+        color: #1d4ed8;
+        text-decoration-color: currentColor;
+    }
+}
+
 /* Navigation bar: Inter, tighter and crisper */
 .masthead {
     background-color: #ffffff;
